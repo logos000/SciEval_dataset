@@ -6,7 +6,7 @@ import random
 
 # 初始化OpenAI客户端
 client = openai.OpenAI(
-    api_key="sk-M9aeIXYtAIy3kOCnAd75BbDd38Fd4332Af07A9488c6d5620",
+    api_key="",
     base_url='https://api.ai-gaochao.cn/v1'
 )
 
