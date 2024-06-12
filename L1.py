@@ -104,7 +104,7 @@ def generate_mcq_answer(mcq, content):
     return result
 
 # 定义一个函数将内容分成若干部分
-def split_content(content, max_length=1000):
+def split_content(content, max_length=100):
     paragraphs = content.split('\n\n')
     parts = []
     current_part = []
