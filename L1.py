@@ -6,8 +6,8 @@ import random
 
 # 初始化OpenAI客户端
 client = openai.OpenAI(
-    api_key="sk-XMOSWBYegvShasOHAeC4A7Fb7a9d4d0aB06e816f16Dc2908",
-    base_url='https://api.ai-gaochao.cn/v1'
+    api_key="",
+    base_url=''
 )
 
 # 定义一个函数来提取有用的信息
