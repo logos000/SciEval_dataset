@@ -5,8 +5,8 @@ import re
 
 # 初始化OpenAI客户端
 client = openai.OpenAI(
-    api_key="sk-M9aeIXYtAIy3kOCnAd75BbDd38Fd4332Af07A9488c6d5620",
-    base_url='https://api.ai-gaochao.cn/v1'
+    api_key="",
+    base_url=''
 )
 
 # 定义一个函数来提取有用的信息
@@ -182,12 +182,12 @@ for filename in os.listdir(folder_path):
                                 "choices": {"text": choices_text, "label": choices_label},
                                 "answerKey": mcq_answer,
                                 "type": "mcq-4-choices",
-                                "domain": "Biology",
+                                "domain": "material",
                                 "details": {
                                     "level": "L1",
                                     "task": "literature_multi_choice_question",
-                                    "subtask": "BioRxiv_QA",
-                                    "source": "BioRxiv"
+                                    "subtask": "materialRxiv_QA",
+                                    "source": "materaialRxiv"
                                 }
                             }
 
