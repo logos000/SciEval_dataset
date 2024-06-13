@@ -1,14 +1,176 @@
 [
     {
-        "question": "```\n{\n  'question': 'Which mechanism primarily affects the phonon lifetime in highly anharmonic materials such as CsCu3S2?',\n  'options': {\n    'A': 'Electron-phonon interactions',\n    'B': 'Phonon-phonon scattering',\n    'C': 'Defect scattering',\n    'D': 'Isotope scattering'\n  }\n}\n```",
-        "answer": "{ 'correct_option': 'B', 'explanation': 'The study primarily investigates the anharmonic lattice dynamics of CsCu3S2 and their effects on thermal transport and phonon lifetime. In highly anharmonic materials, phonon-phonon scattering is the main mechanism affecting phonon lifetime. This is because the anharmonicity leads to significant interactions among phonons, resulting in frequent scattering events. This mechanism is consistent with the aspects explored in the study, which focus on lattice dynamics, phonon interactions, and their impact on thermal conductivity.' }",
-        "category": "materials science",
-        "type": "multiple-choice"
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Which physical system is currently being explored for color centers that emit in the telecom range?",
+        "choices": {
+            "text": [
+                "Superconducting circuits",
+                "Diamond",
+                "Trapped ions",
+                "Silicon"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L1",
+            "task": "literature_multi_choice_question",
+            "subtask": "MaterialRxiv_QA",
+            "source": "MaterialRxiv"
+        }
     },
     {
-        "question": "```\n{\n  \"question\": \"Which phenomenon explains the observation that magnetic moments in ultrathin magnetic films exhibit a transition from static order to dynamic fluctuations as the layer thickness decreases to a single monolayer?\",\n  \"options\": {\n    \"A\": \"Heisenberg Uncertainty Principle\",\n    \"B\": \"Mermin-Wagner theorem\",\n    \"C\": \"Curie-Weiss Law\",\n    \"D\": \"Pauli Exclusion Principle\"\n  }\n}\n```",
-        "answer": "```\n{\n  \"correct_option\": \"B\",\n  \"explanation\": \"The phenomenon explaining the transition from static order to dynamic fluctuations in magnetic moments as the layer thickness decreases to a single monolayer in ultrathin magnetic films is the 'Mermin-Wagner theorem.' The provided text specifically states that the iron electronic moments in a single monolayer exhibit dynamic fluctuations down to the lowest measured temperature following the Mermin-Wagner theorem. This theorem addresses the absence of spontaneous long-range magnetic order in one- and two-dimensional systems at finite temperatures due to spin wave excitations, which aligns with the observed behavior in the described superlattices.\"\n}\n```",
-        "category": "materials science",
-        "type": "multiple-choice"
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "In the field of material science, which of the following is NOT a characteristic of T center-like defects in silicon compared to the T center?",
+        "choices": {
+            "text": [
+                "They show higher sensitivity to magnetic field alignment",
+                "They demonstrate better optical properties",
+                "They exhibit lower quantum efficiency",
+                "They have similar paramagnetic nature"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L1",
+            "task": "literature_multi_choice_question",
+            "subtask": "MaterialRxiv_QA",
+            "source": "MaterialRxiv"
+        }
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "In material science, what is the process called when a substitutional defect is combined with a nearest-neighbor interstitial, either hexagonal or tetrahedral?",
+        "choices": {
+            "text": [
+                "Ionic bonding",
+                "Crystal lattice formation",
+                "Chemical equilibrium",
+                "Substitutional-interstitial complex defect"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L1",
+            "task": "literature_multi_choice_question",
+            "subtask": "MaterialRxiv_QA",
+            "source": "MaterialRxiv"
+        }
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "In the search for spin-photon interfaces, which type of defect exhibits a doublet ground state and is excited through a defect-bound exciton in small band gap materials like silicon?",
+        "choices": {
+            "text": [
+                "Non-singlet ground state",
+                "T center-like defects",
+                "Group III-carbon pair",
+                "Kohn-Sham energy difference approximation"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L1",
+            "task": "literature_multi_choice_question",
+            "subtask": "MaterialRxiv_QA",
+            "source": "MaterialRxiv"
+        }
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "In semiconductor material defect analysis, which type of defect structure exhibits a higher symmetry of C₂ᵥ?",
+        "choices": {
+            "text": [
+                "Carbon atom",
+                "Dangling bonds",
+                "T center",
+                "T-like defects"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L1",
+            "task": "literature_multi_choice_question",
+            "subtask": "MaterialRxiv_QA",
+            "source": "MaterialRxiv"
+        }
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "In material science research, the formation of T center-like defects is primarily influenced by which type of interstitial defect in silicon?",
+        "choices": {
+            "text": [
+                "Metastable defect",
+                "Hexagonal interstitial",
+                "Boron-carbon (B-C) interstitial",
+                "Substitutional-interstitial complexes"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L1",
+            "task": "literature_multi_choice_question",
+            "subtask": "MaterialRxiv_QA",
+            "source": "MaterialRxiv"
+        }
     }
 ]
