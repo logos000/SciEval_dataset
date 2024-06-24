@@ -3,22 +3,29 @@ import openai
 import json
 import re
 import random
+import tqdm
 
 # 初始化OpenAI客户端
 client = openai.OpenAI(
-    api_key="",
-    base_url=''
+    api_key="sk-XMOSWBYegvShasOHAeC4A7Fb7a9d4d0aB06e816f16Dc2908",
+    base_url='https://api.ai-gaochao.cn/v1'
 )
 
 # 定义一个函数来提取有用的信息
 def extract_useful_information(content):
     system_message = (
         "Analyze the following text to determine if it contains useful knowledge or "
-        "information about material science. If it does, reorganize the information into a coherent and logically "
-        "structured paragraph, maintaining the original meaning of the text, and directly "
-        "return the coherent and logically structured paragraph. Don't return anything "
-        "useless. If the text does not contain useful knowledge or information, return 'False'."
+        "information about material science. If it does, directly "
+        "return 'True'. Don't return anything useless."
+        "If the text does not contain useful knowledge or information, only directly return 'False'."
     )
+    #system_message = (
+    #    "Analyze the following text to determine if it contains useful knowledge or information about "
+    #    "Material Property Identification,Alloy Composition Identification,Crystal Structure Identification,Phase Identification, Material Name Conversion. "
+    #    "If it does, reorganize the information into a coherent and logically structured paragraph, maintaining the original meaning of the text, and directly "
+    #    "return the coherent and logically structured paragraph. Don't return anything "
+    #    "useless. If the text does not contain useful knowledge or information, return 'False'."
+    #)
     user_message = f"The text to be analyzed is: '{content}'"
     
     response = client.chat.completions.create(
@@ -141,7 +148,7 @@ def extract_text_from_mmd(mmd_path):
 
 
 # 读取文件夹中的所有MMD文件
-folder_path = r"D:\AAMy_program\test\AutoQuestion"  # 替换为你的文件夹路径
+folder_path = r"D:\process\group0"  # 替换为你的文件夹路径
 
 def save_questions_and_answers(file_path, data):
     with open(file_path, 'w', encoding='utf-8') as file:
@@ -159,17 +166,17 @@ for filename in os.listdir(folder_path):
         #print(content)
         parts = split_content(content)
         question_count = 0  # 初始化计数器
-        for i, part in enumerate(parts):
+        for i, part in tqdm.tqdm(enumerate(parts), desc = "Qa process"):
             try:    
                 if question_count >= 6:
                     break  # 如果问题数量达到6个，停止生成
                 print(f"正在处理文件: {file_path} 的第 {i+1} 部分")
                 #print(part)
                 useful_info = extract_useful_information(part)
-                if useful_info != 'False':
+                if not('False' in useful_info) or ('True' in useful_info):
                     print(f"有用的信息提取自文件: {file_path} 的第 {i+1} 部分")
-                    print(useful_info)
-                    mcq_question_data = generate_mcq(useful_info)
+                    print(part)
+                    mcq_question_data = generate_mcq(part)
                     mcq_question = mcq_question_data["question"]
                     print(f"生成的选择题: {mcq_question}\n")
                     choice_raw = mcq_question_data["options"]
