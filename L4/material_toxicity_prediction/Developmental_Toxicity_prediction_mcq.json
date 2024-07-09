@@ -1,0 +1,2901 @@
+[
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "PHENYTOIN",
+                "ETHANOL",
+                "ACRYLAMIDE",
+                "BISPHENOL A"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "phthalates",
+                "Aziridine",
+                "aspartame",
+                "acetic acid"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Silica",
+                "Ethylene glycol",
+                "Beryllium",
+                "Asbestos"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "epinephrine",
+                "serotonin",
+                "dopamine",
+                "acetylcholine"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "TRICHLOROETHYLENE",
+                "PROPIONALDEHYDE",
+                "ETHANOL",
+                "TOLUENE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Ethanol",
+                "Acetone",
+                "TRIETHANOLAMINE",
+                "Methanol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "ISONONYL ALCOHOL",
+                "OCTADECYLAMINE",
+                "ISONONYL ACETATE",
+                "ISODECYL METHACRYLATE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "bisphenol A",
+                "palmitic acid",
+                "diethylhexyl phthalate",
+                "acrylamide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Dibutyl Phthalate",
+                "DIISOBUTYL ADIPATE",
+                "Isobutyl Acetate",
+                "Isopropyl Myristate"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Valproic acid",
+                "Sudan II",
+                "PROPIONITRILE",
+                "Thalidomide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Dimethyl adipate",
+                "Phthalic anhydride",
+                "Methylmercury",
+                "Methyltin trichloride"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "SILVER IODIDE",
+                "SILVER CHLORIDE",
+                "SILVER SULFATE",
+                "SILVER NITRATE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "ibuprofen",
+                "aspirin",
+                "thalidomide",
+                "paracetamol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Thalidomide",
+                "Acetaminophen",
+                "Ibuprofen",
+                "Aspirin"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "CLOPYRALID",
+                "AMMONIUM CHLORIDE",
+                "Docusate sodium"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Pentadecane",
+                "Methylmercury",
+                "Bisphenol A",
+                "ALLYL ISOTHIOCYANATE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "ETHYLENE DIBROMIDE",
+                "ETHYL ACETATE",
+                "ETHYLENE OXIDE",
+                "ETHYLENE GLYCOL"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "ETHYLENE GLYCOL",
+                "ISOPHORONE",
+                "THEOPHYLLINE",
+                "METHYLMERCURY"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "TOLUENE",
+                "ETHYLBENZENE",
+                "NITROBENZENE",
+                "STYRENE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "mercury",
+                "chloroxylenol",
+                "rotenone",
+                "toluene"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Thalidomide",
+                "Aspirin",
+                "Ibuprofen",
+                "Acetaminophen"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "ERUCIC ACID",
+                "Oleic Acid",
+                "Stearic Acid",
+                "Acetic Acid"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Acetone",
+                "ISOPRENE",
+                "Acetaldehyde",
+                "Ethylene"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "TRIETHYLENE GLYCOL",
+                "thalidomide",
+                "lead",
+                "the correct option"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Acetone",
+                "ETHYL ACRYLATE",
+                "Methanol",
+                "Benzene"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "ammonium hydroxide",
+                "mercury",
+                "cadmium",
+                "lead"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Polyethylene glycol",
+                "Methyl cellulose",
+                "Hydroxyethyl cellulose",
+                "Polyvinyl alcohol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "acetylsalicylic acid",
+                "sodium salicylate",
+                "salicylic acid",
+                "methyl salicylate"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "DIETHYL ETHER",
+                "acetone",
+                "DICHLOROMETHANE",
+                "ETHYLENE GLYCOL"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "diazepam",
+                "propyl gallate",
+                "diethyl phthalate",
+                "diethyl ether"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Diethyl sulfate",
+                "Methylmercury",
+                "Tetraethylammonium bromide",
+                "Butyl acetate"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Aspirin",
+                "Ibuprofen",
+                "Paracetamol",
+                "Thalidomide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Sodium chloride",
+                "Acetic acid",
+                "Diisooctyl phthalate",
+                "Ethylene glycol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "diuron",
+                "thalidomide",
+                "retinoic acid",
+                "saccharin"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Caffeine",
+                "Aspirin",
+                "Paracetamol",
+                "Thalidomide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Polychlorinated biphenyls (PCBs)",
+                "Bisphenol A",
+                "the correct option",
+                "Dichlorodiphenyltrichloroethane (DDT)"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Methylmercury",
+                "NITRAPYRIN",
+                "Thalidomide",
+                "Manganese(II) acetate"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "ETHYLPARABEN",
+                "PROPYLPARABEN",
+                "METHYLPARABEN",
+                "BUTYLPARABEN"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Caffeine",
+                "Acetaminophen",
+                "Ibuprofen",
+                "Thalidomide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "acetic acid",
+                "benzyl alcohol",
+                "ethanol",
+                "formaldehyde"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Thalidomide",
+                "Ibuprofen",
+                "Paracetamol",
+                "Aspirin"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "ascorbic acid",
+                "malic acid",
+                "acetic acid",
+                "citric acid"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "colchicine",
+                "ibuprofen",
+                "acetaminophen",
+                "aspirin"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "formamide",
+                "MERCURY",
+                "ETHYL ACETATE",
+                "DIISONONYL PHTHALATE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "glycine",
+                "CYANURIC ACID",
+                "Tetrabutylstannane",
+                "Triclosan"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "SODIUM SELENITE",
+                "SODIUM THIOSULFATE",
+                "STYRENE",
+                "SODIUM PROPIONATE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "TRIS(2-CHLOROETHYL) PHOSPHATE",
+                "TRIPHENYL PHOSPHITE",
+                "TRIETHYL PHOSPHATE",
+                "TRIPHENYL PHOSPHATE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Triethylamine",
+                "Tetrahydrofuran",
+                "Trichloroethylene",
+                "Toluene"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Methylmercury",
+                "Thalidomide",
+                "Bisphenol A",
+                "Lead acetate"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "lead acetate",
+                "sorbic acid",
+                "Bisphenol A",
+                "RETINYL ACETATE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "METHOTREXATE",
+                "THALIDOMIDE",
+                "CALCIUM PROPIONATE",
+                "VALPROIC ACID"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Calcium carbonate",
+                "Magnesium sulfate",
+                "Sodium acetate",
+                "Potassium chloride"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Sodium phenoxide",
+                "Styrene",
+                "DIETHYLENE GLYCOL",
+                "1,4-Dioxane"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Thalidomide",
+                "Methanol",
+                "formic acid",
+                "P-CRESOL"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "DIFLUOROMETHANE",
+                "CHLOROFLUOROMETHANE",
+                "BROMOETHANE",
+                "BROMOCHLORODIFLUOROMETHANE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "salicylic acid",
+                "TETRAHYDROFURAN",
+                "caffeine",
+                "sucrose"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Dibutyltin oxide",
+                "Diethylcarbamazine",
+                "GAMMA-TERPINENE",
+                "ethylenediamine"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Aspirin",
+                "Thalidomide",
+                "Ibuprofen",
+                "Paracetamol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Methane",
+                "Ethanol",
+                "TRIETHYLAMINE",
+                "Acetone"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Dibutyl Phthalate",
+                "Dioxins",
+                "SILICON DIOXIDE",
+                "Polychlorinated Biphenyls (PCBs)"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Mercury",
+                "Cadmium",
+                "Lead",
+                "Nickel"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "pentachlorophenol",
+                "MYRCENE",
+                "NATAMYCIN",
+                "cycloheximide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Aspirin",
+                "Penicillin",
+                "Ibuprofen",
+                "Thalidomide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Aspirin",
+                "Thalidomide",
+                "Ibuprofen",
+                "Acetaminophen"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Chromium(III) oxide",
+                "CHLORDENE",
+                "Benzo[a]pyrene",
+                "Phenol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "acetaminophen",
+                "methylene blue",
+                "amoxicillin",
+                "ibuprofen"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Phthalic Anhydride",
+                "Phenanthrene",
+                "Terephthalic Acid",
+                "PHTHALIMIDE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "BPA (Bisphenol A)",
+                "PFOA (Perfluorooctanoic acid)",
+                "Phthalates",
+                "Dioxins"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Aspirin",
+                "Paracetamol",
+                "CYCLONITE",
+                "Ibuprofen"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Tetraethyllead",
+                "Carbon dioxide",
+                "Sodium chloride",
+                "Hydrogen peroxide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Perfluorooctanoic acid (PFOA)",
+                "Phthalates",
+                "Thalidomide",
+                "Bisphenol A"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "naphthalene",
+                "salicylic acid",
+                "caffeine",
+                "benzoic acid"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Phthalates",
+                "Bisphenol A",
+                "Lead",
+                "Sodium chloride"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "BARIUM",
+                "MERCURY",
+                "CADMIUM",
+                "LEAD"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Methyl methacrylate",
+                "Ethylene glycol",
+                "Di-n-octyl sebacate",
+                "Bisphenol A"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Vitamin D",
+                "Aspirin",
+                "Ibuprofen",
+                "Thalidomide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Acetaminophen",
+                "Aspirin",
+                "Ibuprofen",
+                "Thalidomide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "ergocalciferol",
+                "Cetyl ascorbate",
+                "Retinoic acid",
+                "Thalidomide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "caffeine",
+                "ibuprofen",
+                "carbofuran",
+                "paracetamol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Mercury",
+                "Lead",
+                "D-Sorbitol",
+                "Ethylene glycol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Diethyl phthalate",
+                "Permethrin",
+                "Methyl salicylate",
+                "Bisphenol A"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "titanium dioxide",
+                "mercury",
+                "ethylene glycol",
+                "lead"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "MESITYL OXIDE",
+                "METHYL ISOCYANATE",
+                "DIETHYLHEXYL PHTHALATE",
+                "BISPHENOL A"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "CHOLINE CHLORIDE",
+                "Calcium Chloride",
+                "Potassium Chloride",
+                "Ammonium Chloride"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Styrene oxide",
+                "Salicylic acid",
+                "Bisphenol A",
+                "Ethanolamine"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Ibuprofen",
+                "Acetaminophen",
+                "Thalidomide",
+                "Aspirin"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Bisphenol A",
+                "Mercury",
+                "Toluene",
+                "Lead"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "TOLUENE",
+                "ETHYLENE GLYCOL",
+                "HEXANE",
+                "PHENOXYACETIC ACID"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "CHLOROPICRIN",
+                "DICUMYL PEROXIDE",
+                "THALIDOMIDE",
+                "BISPHENOL-A"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Toluene",
+                "Xylene",
+                "M-TERPHENYL",
+                "Benzene"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "resorcinol",
+                "phenol",
+                "stearic acid",
+                "DIISODECYL PHTHALATE"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Ascorbic Acid",
+                "Sulfamic Acid",
+                "NITRILOTRIACETIC ACID",
+                "Citric Acid"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "2-methoxyethanol",
+                "Dimethylamine hydrochloride",
+                "isopropanol",
+                "AMARANTH"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "mercury",
+                "lead",
+                "cadmium",
+                "sodium chloride"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Thalidomide",
+                "Aspirin",
+                "Ibuprofen",
+                "Paracetamol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Zinc sulfate",
+                "Thalidomide",
+                "Lead acetate",
+                "Methylmercury"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Methanol",
+                "LIMONENE",
+                "Lithium",
+                "Ethanol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Tributyltin oxide",
+                "cadmium",
+                "theobromine",
+                "methylmercury"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "FORMALDEHYDE",
+                "METHYL FORMATE",
+                "METHYL ACETATE",
+                "FORMIC ACID"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    },
+    {
+        "prompt": {
+            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
+        "choices": {
+            "text": [
+                "Paracetamol",
+                "Thalidomide",
+                "Ibuprofen",
+                "Penicillin"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Material",
+        "details": {
+            "level": "L4",
+            "task": "material_toxicity_prediction",
+            "subtask": "material_toxicity_mcq",
+            "source": "Toxric"
+        }
+    }
+]
