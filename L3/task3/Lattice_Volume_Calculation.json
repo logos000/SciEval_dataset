@@ -6,10 +6,10 @@
         "question": "Given the following crystal structure parameters for the material AlCuS₂ (Material ID: mp-4979), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.29 Å\nb = 5.29 Å\nc = 10.48 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 310.10 Å³\n",
-                "C. 299.75 Å³\n",
-                "B. 288.50 Å³\n",
-                "A. 292.86 Å³\n"
+                "310.10 Å³\n",
+                "299.75 Å³\n",
+                "288.50 Å³\n",
+                "292.86 Å³\n"
             ],
             "label": [
                 "A",
@@ -24,7 +24,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -35,10 +35,10 @@
         "question": "Given the following crystal structure parameters for the material In₂HgSe₄ (Material ID: mp-20731), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.94 Å\nb = 5.94 Å\nc = 11.7 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 400.00 Å³\n",
-                "C. 420.00 Å³\n",
-                "B. 390.00 Å³\n",
-                "A. 412.55 Å³\n"
+                "400.00 Å³\n",
+                "420.00 Å³\n",
+                "390.00 Å³\n",
+                "412.55 Å³\n"
             ],
             "label": [
                 "A",
@@ -53,7 +53,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -64,10 +64,10 @@
         "question": "Given the following crystal structure parameters for the material KGe₂N₃ (Material ID: mp-1029404), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.96 Å\nb = 10.01 Å\nc = 5.27 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\nWhich of the following is the correct lattice volume?",
         "choices": {
             "text": [
-                "C. 305.12 Å³",
-                "B. 322.50 Å³",
-                "D. 299.78 Å³",
-                "A. 314.39 Å³"
+                "305.12 Å³",
+                "322.50 Å³",
+                "299.78 Å³",
+                "314.39 Å³"
             ],
             "label": [
                 "A",
@@ -82,7 +82,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -93,10 +93,10 @@
         "question": "Given the following crystal structure parameters for the material RbBrO₃ (Material ID: mp-28872), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.19 Å\nb = 6.19 Å\nc = 8.05 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\nThe options to select from are provided below:",
         "choices": {
             "text": [
-                "B. 255.55 Å³\n",
-                "C. 266.75 Å³\n",
-                "A. 245.68 Å³\n",
-                "D. 277.89 Å³\n"
+                "255.55 Å³\n",
+                "266.75 Å³\n",
+                "245.68 Å³\n",
+                "277.89 Å³\n"
             ],
             "label": [
                 "A",
@@ -111,7 +111,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -122,10 +122,10 @@
         "question": "Given the following crystal structure parameters for the material InCuSe₂ (Material ID: mp-22811), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.81 Å\nb = 5.81 Å\nc = 11.66 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 410.88 Å³\n",
-                "A. 392.99 Å³\n",
-                "B. 380.45 Å³\n",
-                "C. 400.67 Å³\n"
+                "410.88 Å³\n",
+                "392.99 Å³\n",
+                "380.45 Å³\n",
+                "400.67 Å³\n"
             ],
             "label": [
                 "A",
@@ -140,7 +140,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -151,10 +151,10 @@
         "question": "Given the following crystal structure parameters for the material LiIn(IO₃)₄ (Material ID: mp-973966), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.98 Å\nb = 6.59 Å\nc = 8.7 Å\nα = 84.87º\nβ = 89.19º\nγ = 89.33º\n\n",
         "choices": {
             "text": [
-                "B. 295.74 Å³\n",
-                "C. 272.95 Å³\n",
-                "A. 284.18 Å³\n",
-                "D. 262.60 Å³\n"
+                "295.74 Å³\n",
+                "272.95 Å³\n",
+                "284.18 Å³\n",
+                "262.60 Å³\n"
             ],
             "label": [
                 "A",
@@ -169,7 +169,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -180,10 +180,10 @@
         "question": "Given the following crystal structure parameters for the material Rb2NaHoF6 (Material ID: mp-15318), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.33 Å\nb = 6.33 Å\nc = 9.02 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "C. 370.00 Å³\n",
-                "B. 353.45 Å³\n",
-                "D. 380.25 Å³\n",
-                "A. 362.03 Å³\n"
+                "370.00 Å³\n",
+                "353.45 Å³\n",
+                "380.25 Å³\n",
+                "362.03 Å³\n"
             ],
             "label": [
                 "A",
@@ -198,7 +198,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -209,10 +209,10 @@
         "question": "Given the following crystal structure parameters for the material DyBi2IO4 (Material ID: mp-546266), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 3.95 Å\nb = 3.95 Å\nc = 9.71 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 160.20 Å³",
-                "D. 155.50 Å³",
-                "B. 145.67 Å³",
-                "A. 151.13 Å³"
+                "160.20 Å³",
+                "155.50 Å³",
+                "145.67 Å³",
+                "151.13 Å³"
             ],
             "label": [
                 "A",
@@ -227,7 +227,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -238,10 +238,10 @@
         "question": "Given the following crystal structure parameters for the material Cs2KTiF6 (Material ID: mp-6178), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.25 Å\nb = 9.25 Å\nc = 9.25 Å\nα = 90.0º\nβ = 90.0º\nγ = 90.0º\n\n",
         "choices": {
             "text": [
-                "C. 790.50 Å³",
-                "B. 792.35 Å³",
-                "D. 793.10 Å³",
-                "A. 791.88 Å³"
+                "790.50 Å³",
+                "792.35 Å³",
+                "793.10 Å³",
+                "791.88 Å³"
             ],
             "label": [
                 "A",
@@ -256,7 +256,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -267,10 +267,10 @@
         "question": "Given the following crystal structure parameters for the material Ba2CaIrO6 (Material ID: mp-20841), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 8.47 Å\nb = 8.47 Å\nc = 8.47 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 606.98 Å³",
-                "C. 700.25 Å³",
-                "D. 800.45 Å³",
-                "B. 500.12 Å³"
+                "606.98 Å³",
+                "700.25 Å³",
+                "800.45 Å³",
+                "500.12 Å³"
             ],
             "label": [
                 "A",
@@ -285,7 +285,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -296,10 +296,10 @@
         "question": "Given the following crystal structure parameters for the material Cs2NaYBr6 (Material ID: mp-571467), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.51 Å\nb = 11.51 Å\nc = 11.51 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "C. 1625.33 Å³\n",
-                "D. 1450.50 Å³\n",
-                "A. 1525.62 Å³\n",
-                "B. 1350.45 Å³\n"
+                "1625.33 Å³\n",
+                "1450.50 Å³\n",
+                "1525.62 Å³\n",
+                "1350.45 Å³\n"
             ],
             "label": [
                 "A",
@@ -314,7 +314,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -325,10 +325,10 @@
         "question": "Given the following crystal structure parameters for the material SrTa₂Bi₂O₉ (Material ID: mp-23089), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.54 Å\nb = 25.01 Å\nc = 5.54 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 780.23 Å³\n",
-                "A. 766.79 Å³\n",
-                "C. 745.50 Å³\n",
-                "B. 755.45 Å³\n"
+                "780.23 Å³\n",
+                "766.79 Å³\n",
+                "745.50 Å³\n",
+                "755.45 Å³\n"
             ],
             "label": [
                 "A",
@@ -343,7 +343,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -354,10 +354,10 @@
         "question": "Given the following crystal structure parameters for the material LiMgSnPt (Material ID: mp-11806), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.44 Å\nb = 6.44 Å\nc = 6.44 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 266.61 Å³\n",
-                "B. 255.55 Å³\n",
-                "A. 245.68 Å³\n",
-                "D. 277.89 Å³\n"
+                "266.61 Å³\n",
+                "255.55 Å³\n",
+                "245.68 Å³\n",
+                "277.89 Å³\n"
             ],
             "label": [
                 "A",
@@ -372,7 +372,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -383,10 +383,10 @@
         "question": "Given the following crystal structure parameters for the material NaLaH2S2O9 (Material ID: mp-557508), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.15 Å\nb = 7.15 Å\nc = 13.06 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n",
         "choices": {
             "text": [
-                "D. 550.00 Å³",
-                "A. 578.08 Å³",
-                "B. 500.50 Å³",
-                "C. 600.75 Å³"
+                "550.00 Å³",
+                "578.08 Å³",
+                "500.50 Å³",
+                "600.75 Å³"
             ],
             "label": [
                 "A",
@@ -401,7 +401,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -412,10 +412,10 @@
         "question": "Given the following crystal structure parameters for the material Pr3SiAgSe7 (Material ID: mp-17389), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 10.83 Å\nb = 10.83 Å\nc = 6.1 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n\n",
         "choices": {
             "text": [
-                "A. 619.56 Å³",
-                "D. 635.89 Å³",
-                "C. 630.75 Å³",
-                "B. 625.12 Å³"
+                "619.56 Å³",
+                "635.89 Å³",
+                "630.75 Å³",
+                "625.12 Å³"
             ],
             "label": [
                 "A",
@@ -430,7 +430,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -441,10 +441,10 @@
         "question": "Given the following crystal structure parameters for the material Na₂B₃HO₆ (Material ID: mp-706631), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 8.78 Å\nb = 12.02 Å\nc = 9.53 Å\nα = 90.00º\nβ = 95.96º\nγ = 90.00º\n\nWhat is the volume of the unit cell?",
         "choices": {
             "text": [
-                "B. 1050.45 Å³\n",
-                "A. 1000.03 Å³\n",
-                "C. 990.50 Å³\n",
-                "D. 1010.74 Å³\n"
+                "1050.45 Å³\n",
+                "1000.03 Å³\n",
+                "990.50 Å³\n",
+                "1010.74 Å³\n"
             ],
             "label": [
                 "A",
@@ -459,7 +459,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -470,10 +470,10 @@
         "question": "Given the following crystal structure parameters for the material Eu2B5BrO9 (Material ID: mp-558834), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.55 Å\nb = 11.5 Å\nc = 11.63 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 874.79 Å³\n",
-                "B. 850.55 Å³\n",
-                "C. 900.12 Å³\n",
-                "D. 925.68 Å³\n"
+                "874.79 Å³\n",
+                "850.55 Å³\n",
+                "900.12 Å³\n",
+                "925.68 Å³\n"
             ],
             "label": [
                 "A",
@@ -488,7 +488,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -499,10 +499,10 @@
         "question": "Given the following crystal structure parameters for the material LuH6(ClO5)3 (Material ID: mp-757220), calculate the volume of the unit cell in Å³.\n\nLattice Parameters:\n\na = 7.57 Å\nb = 8.5 Å\nc = 10.65 Å\nα = 79.67º\nβ = 78.4º\nγ = 63.82º\n",
         "choices": {
             "text": [
-                "C. 588.19 Å³\n",
-                "A. 599.72 Å³\n",
-                "B. 611.24 Å³\n",
-                "D. 624.55 Å³\n"
+                "588.19 Å³\n",
+                "599.72 Å³\n",
+                "611.24 Å³\n",
+                "624.55 Å³\n"
             ],
             "label": [
                 "A",
@@ -517,7 +517,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -528,10 +528,10 @@
         "question": "Given the following crystal structure parameters for the material K3Nb2AsSe11 (Material ID: mp-542545), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 15.26 Å\nb = 13.37 Å\nc = 10.1 Å\nα = 90.0º\nβ = 99.53º\nγ = 90.0º\n\nChoose the correct volume from the options below.",
         "choices": {
             "text": [
-                "C. 2032.02 Å³",
-                "D. 2100.78 Å³",
-                "A. 2050.00 Å³",
-                "B. 2000.55 Å³"
+                "2032.02 Å³",
+                "2100.78 Å³",
+                "2050.00 Å³",
+                "2000.55 Å³"
             ],
             "label": [
                 "A",
@@ -546,7 +546,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -557,10 +557,10 @@
         "question": "Given the following crystal structure parameters for the material Cs₃Nd(MoO₄)₃ (Material ID: mp-573369), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.53 Å\nb = 9.54 Å\nc = 26.42 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "D. 1660.89 Å³\n",
-                "B. 1650.30 Å³\n",
-                "C. 1635.52 Å³\n",
-                "A. 1644.27 Å³\n"
+                "1660.89 Å³\n",
+                "1650.30 Å³\n",
+                "1635.52 Å³\n",
+                "1644.27 Å³\n"
             ],
             "label": [
                 "A",
@@ -575,7 +575,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -586,10 +586,10 @@
         "question": "Given the following crystal structure parameters for the material BH4NF4 (Material ID: mp-720391), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.78 Å\nb = 7.23 Å\nc = 8.95 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "A. 374.2 Å³\n",
-                "B. 345.21 Å³\n",
-                "D. 400.65 Å³\n",
-                "C. 389.78 Å³\n"
+                "374.2 Å³\n",
+                "345.21 Å³\n",
+                "400.65 Å³\n",
+                "389.78 Å³\n"
             ],
             "label": [
                 "A",
@@ -604,7 +604,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -615,10 +615,10 @@
         "question": "Given the following crystal structure parameters for the material Nd3Lu2(GaO4)3 (Material ID: mp-1210727), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 13.0 Å\nb = 13.0 Å\nc = 13.0 Å\nα = 90.0º\nβ = 90.0º\nγ = 90.0º\n",
         "choices": {
             "text": [
-                "B. 2200.00 Å³\n",
-                "A. 2198.04 Å³\n",
-                "C. 2300.33 Å³\n",
-                "D. 2100.50 Å³\n"
+                "2200.00 Å³\n",
+                "2198.04 Å³\n",
+                "2300.33 Å³\n",
+                "2100.50 Å³\n"
             ],
             "label": [
                 "A",
@@ -633,7 +633,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -644,10 +644,10 @@
         "question": "Given the following crystal structure parameters for the material TbNiBC (Material ID: mp-1079626), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 3.6 Å\nb = 3.6 Å\nc = 7.53 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 97.67 Å³",
-                "D. 87.45 Å³",
-                "B. 105.34 Å³",
-                "C. 113.56 Å³"
+                "97.67 Å³",
+                "87.45 Å³",
+                "105.34 Å³",
+                "113.56 Å³"
             ],
             "label": [
                 "A",
@@ -662,7 +662,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -691,7 +691,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -702,10 +702,10 @@
         "question": "Given the following crystal structure parameters for the material Co3P4PbO14 (Material ID: mp-562742), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.36 Å\nb = 7.72 Å\nc = 9.42 Å\nα = 90.00º\nβ = 111.34º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "D. 482.43 Å³\n",
-                "A. 498.70 Å³\n",
-                "B. 475.55 Å³\n",
-                "C. 515.25 Å³\n"
+                "482.43 Å³\n",
+                "498.70 Å³\n",
+                "475.55 Å³\n",
+                "515.25 Å³\n"
             ],
             "label": [
                 "A",
@@ -720,7 +720,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -731,10 +731,10 @@
         "question": "Given the following crystal structure parameters for the material KMn₂P₂HO₉ (Material ID: mp-1193430), calculate the volume of the unit cell (in Å³). Note: \n \n The volume V of a triclinic unit cell is given by the formula: V = a * b * c * sqrt(1 - cos²α - cos²β - cos²γ + 2cosαcosβcosγ). \n \nLattice Parameters:\n\na = 6.35 Å\nb = 7.02 Å\nc = 8.97 Å\nα = 90.00º\nβ = 107.23º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 374.45 Å³\n",
-                "B. 388.50 Å³\n",
-                "D. 392.30 Å³\n",
-                "A. 382.01 Å³\n"
+                "374.45 Å³\n",
+                "388.50 Å³\n",
+                "392.30 Å³\n",
+                "382.01 Å³\n"
             ],
             "label": [
                 "A",
@@ -749,7 +749,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -760,10 +760,10 @@
         "question": "Given the following crystal structure parameters for the material Na4Eu(SiTe3)2 (Material ID: mp-1221196), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.73 Å\nb = 13.37 Å\nc = 8.52 Å\nα = 90.00º\nβ = 107.65º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 860.90 Å³",
-                "B. 845.39 Å³",
-                "A. 838.75 Å³",
-                "C. 812.47 Å³"
+                "860.90 Å³",
+                "845.39 Å³",
+                "838.75 Å³",
+                "812.47 Å³"
             ],
             "label": [
                 "A",
@@ -778,7 +778,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -789,10 +789,10 @@
         "question": "Given the following crystal structure parameters for the material Sr2UCu2S5 (Material ID: mp-1078269), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 13.16 Å\nb = 4.00 Å\nc = 9.37 Å\nα = 90.00º\nβ = 116.44º\nγ = 90.00º\n\nWhich of the following is the correct volume of the unit cell?",
         "choices": {
             "text": [
-                "A. 441.49 Å³\n",
-                "B. 456.78 Å³\n",
-                "D. 448.88 Å³\n",
-                "C. 433.22 Å³\n"
+                "441.49 Å³\n",
+                "456.78 Å³\n",
+                "448.88 Å³\n",
+                "433.22 Å³\n"
             ],
             "label": [
                 "A",
@@ -807,7 +807,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -818,10 +818,10 @@
         "question": "Given the following crystal structure parameters for the material Ba₃NaGd₃(Si₃O₁₀)₂ (Material ID: mp-1194728), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.61 Å\nb = 24.13 Å\nc = 14.9 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\nWhich of the following is the correct volume of the unit cell?",
         "choices": {
             "text": [
-                "B. 1985.34 Å³\n",
-                "D. 2100.11 Å³\n",
-                "C. 2050.00 Å³\n",
-                "A. 2017.26 Å³\n"
+                "1985.34 Å³\n",
+                "2100.11 Å³\n",
+                "2050.00 Å³\n",
+                "2017.26 Å³\n"
             ],
             "label": [
                 "A",
@@ -836,7 +836,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -847,10 +847,10 @@
         "question": "Given the following crystal structure parameters for the material BaMo₂(P₂O₇)₂ (Material ID: mp-16802), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.03 Å\nb = 10.90 Å\nc = 10.09 Å\nα = 90.00º\nβ = 103.96º\nγ = 90.00º\n\nWhich of the following is the correct volume of the unit cell?",
         "choices": {
             "text": [
-                "B. 1245.68 Å³",
-                "D. 1222.99 Å³",
-                "C. 1155.55 Å³",
-                "A. 1176.86 Å³"
+                "1245.68 Å³",
+                "1222.99 Å³",
+                "1155.55 Å³",
+                "1176.86 Å³"
             ],
             "label": [
                 "A",
@@ -865,7 +865,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -876,10 +876,10 @@
         "question": "Given the following crystal structure parameters for the material Cs2MgFe(CN)6 (Material ID: mp-7331), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 10.47 Å\nb = 10.47 Å\nc = 10.47 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 1160.57 Å³\n",
-                "D. 1200.25 Å³\n",
-                "A. 1149.35 Å³\n",
-                "B. 1125.00 Å³\n"
+                "1160.57 Å³\n",
+                "1200.25 Å³\n",
+                "1149.35 Å³\n",
+                "1125.00 Å³\n"
             ],
             "label": [
                 "A",
@@ -894,7 +894,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -905,10 +905,10 @@
         "question": "Given the following crystal structure parameters for the material Nb2Tl3CuSe12 (Material ID: mp-570757), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.83 Å\nb = 13.76 Å\nc = 17.33 Å\nα = 90.00º\nβ = 118.60º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "C. 2250.69 Å³\n",
-                "D. 2058.47 Å³\n",
-                "B. 2120.55 Å³\n",
-                "A. 1980.34 Å³\n"
+                "2250.69 Å³\n",
+                "2058.47 Å³\n",
+                "2120.55 Å³\n",
+                "1980.34 Å³\n"
             ],
             "label": [
                 "A",
@@ -923,7 +923,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -934,10 +934,10 @@
         "question": "Given the following crystal structure parameters for the material Cs6Dy21S34Cl (Material ID: mp-1197810), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 17.33 Å\nb = 19.69 Å\nc = 13.12 Å\nα = 90.00º\nβ = 128.75º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 4035.20 Å³",
-                "C. 3768.50 Å³",
-                "A. 3491.04 Å³",
-                "B. 3225.32 Å³"
+                "4035.20 Å³",
+                "3768.50 Å³",
+                "3491.04 Å³",
+                "3225.32 Å³"
             ],
             "label": [
                 "A",
@@ -952,7 +952,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -963,10 +963,10 @@
         "question": "Given the following crystal structure parameters for the material NdH4S2NO8 (Material ID: mp-774927), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 8.94 Å\nb = 7.25 Å\nc = 10.9 Å\nα = 90.00º\nβ = 91.62º\nγ = 90.00º",
         "choices": {
             "text": [
-                "D. 730.21 Å³\n",
-                "A. 706.36 Å³\n",
-                "C. 692.85 Å³\n",
-                "B. 719.45 Å³\n"
+                "730.21 Å³\n",
+                "706.36 Å³\n",
+                "692.85 Å³\n",
+                "719.45 Å³\n"
             ],
             "label": [
                 "A",
@@ -981,7 +981,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -992,10 +992,10 @@
         "question": "Given the following crystal structure parameters for the material NaAlH12(SO7)2 (Material ID: mp-1199345), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.17 Å\nb = 25.52 Å\nc = 7.44 Å\nα = 90.00º\nβ = 94.67º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "D. 1185.75 Å³\n",
-                "A. 1166.99 Å³\n",
-                "C. 1125.30 Å³\n",
-                "B. 1200.50 Å³\n"
+                "1185.75 Å³\n",
+                "1166.99 Å³\n",
+                "1125.30 Å³\n",
+                "1200.50 Å³\n"
             ],
             "label": [
                 "A",
@@ -1010,7 +1010,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1021,10 +1021,10 @@
         "question": "Given the following crystal structure parameters for the material LiSm₆B₃O₁₄ (Material ID: mp-1211144), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 8.61 Å\nb = 15.91 Å\nc = 12.28 Å\nα = 90.00º\nβ = 132.13º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 1122.25 Å³",
-                "A. 1248.36 Å³",
-                "D. 1482.40 Å³",
-                "B. 1350.55 Å³"
+                "1122.25 Å³",
+                "1248.36 Å³",
+                "1482.40 Å³",
+                "1350.55 Å³"
             ],
             "label": [
                 "A",
@@ -1039,7 +1039,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1050,10 +1050,10 @@
         "question": "Given the following crystal structure parameters for the material K3Nb2AsSe11 (Material ID: mp-542545), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 15.26 Å\nb = 13.37 Å\nc = 10.1 Å\nα = 90.00º\nβ = 99.53º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 2032.02 Å³\n",
-                "B. 2100.55 Å³\n",
-                "C. 2150.75 Å³\n",
-                "D. 2200.89 Å³\n"
+                "2032.02 Å³\n",
+                "2100.55 Å³\n",
+                "2150.75 Å³\n",
+                "2200.89 Å³\n"
             ],
             "label": [
                 "A",
@@ -1068,7 +1068,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1079,10 +1079,10 @@
         "question": "Given the following crystal structure parameters for the material CsPrCdTe₃ (Material ID: mp-12494), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.66 Å\nb = 17.4 Å\nc = 12.2 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "A. 845.62 Å³\n",
-                "C. 1024.88 Å³\n",
-                "B. 923.44 Å³\n",
-                "D. 989.7 Å³\n"
+                "845.62 Å³\n",
+                "1024.88 Å³\n",
+                "923.44 Å³\n",
+                "989.7 Å³\n"
             ],
             "label": [
                 "A",
@@ -1097,7 +1097,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1108,10 +1108,10 @@
         "question": "Given the following crystal structure parameters for the material KLi₃Ca₇Ti₂Si₁₂(O₁₈F)₂ (Material ID: mp-641919), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 16.95 Å\nb = 9.75 Å\nc = 20.88 Å\nα = 90.00º\nβ = 112.54º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 3250.67 Å³",
-                "D. 3310.52 Å³",
-                "B. 3050.43 Å³",
-                "A. 3185.91 Å³"
+                "3250.67 Å³",
+                "3310.52 Å³",
+                "3050.43 Å³",
+                "3185.91 Å³"
             ],
             "label": [
                 "A",
@@ -1126,7 +1126,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1137,10 +1137,10 @@
         "question": "Given the following crystal structure parameters for the material Rb2LiVS4 (Material ID: mp-558815), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.89 Å\nb = 13.44 Å\nc = 23.68 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 1885.90 Å³\n",
-                "C. 1930.25 Å³\n",
-                "A. 1876.15 Å³\n",
-                "B. 1820.32 Å³\n"
+                "1885.90 Å³\n",
+                "1930.25 Å³\n",
+                "1876.15 Å³\n",
+                "1820.32 Å³\n"
             ],
             "label": [
                 "A",
@@ -1155,7 +1155,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1166,10 +1166,10 @@
         "question": "Given the following crystal structure parameters for the material LiAs2H3O7 (Material ID: mp-1192746), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.42 Å\nb = 9.09 Å\nc = 5.61 Å\nα = 90.00º\nβ = 115.53º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 525.56 Å³\n",
-                "C. 515.50 Å³\n",
-                "B. 535.45 Å³\n",
-                "D. 505.60 Å³\n"
+                "525.56 Å³\n",
+                "515.50 Å³\n",
+                "535.45 Å³\n",
+                "505.60 Å³\n"
             ],
             "label": [
                 "A",
@@ -1184,7 +1184,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1195,10 +1195,10 @@
         "question": "Given the following crystal structure parameters for the material Rb2Ca2(SO4)3 (Material ID: mp-558752), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 10.75 Å\nb = 10.75 Å\nc = 10.75 Å\nα = 90.0º\nβ = 90.0º\nγ = 90.0º\n\n",
         "choices": {
             "text": [
-                "D. 1100.00 Å³\n",
-                "C. 1250.00 Å³\n",
-                "B. 1300.00 Å³\n",
-                "A. 1242.86 Å³\n"
+                "1100.00 Å³\n",
+                "1250.00 Å³\n",
+                "1300.00 Å³\n",
+                "1242.86 Å³\n"
             ],
             "label": [
                 "A",
@@ -1213,7 +1213,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1224,10 +1224,10 @@
         "question": "Given the following crystal structure parameters for the material Sr3La(NiO4)2 (Material ID: mp-1218450), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.48 Å\nb = 12.39 Å\nc = 5.48 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 372.03 Å³\n",
-                "C. 385.45 Å³\n",
-                "B. 358.65 Å³\n",
-                "D. 399.29 Å³\n"
+                "372.03 Å³\n",
+                "385.45 Å³\n",
+                "358.65 Å³\n",
+                "399.29 Å³\n"
             ],
             "label": [
                 "A",
@@ -1242,7 +1242,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1253,10 +1253,10 @@
         "question": "Given the following crystal structure parameters for the material Ho4In(NiGe2)2 (Material ID: mp-13510), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 15.37 Å\nb = 4.2 Å\nc = 6.98 Å\nα = 90.00º\nβ = 108.66º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 412.75 Å³\n",
-                "D. 447.15 Å³\n",
-                "A. 427.02 Å³\n",
-                "C. 432.50 Å³\n"
+                "412.75 Å³\n",
+                "447.15 Å³\n",
+                "427.02 Å³\n",
+                "432.50 Å³\n"
             ],
             "label": [
                 "A",
@@ -1271,7 +1271,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1282,10 +1282,10 @@
         "question": "Given the following crystal structure parameters for the material Na₄Eu(SiTe₃)₂ (Material ID: mp-1221196), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.73 Å\nb = 13.37 Å\nc = 8.52 Å\nα = 90.00º\nβ = 107.65º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 810.50 Å³\n",
-                "D. 855.40 Å³\n",
-                "B. 822.33 Å³\n",
-                "C. 838.75 Å³\n"
+                "810.50 Å³\n",
+                "855.40 Å³\n",
+                "822.33 Å³\n",
+                "838.75 Å³\n"
             ],
             "label": [
                 "A",
@@ -1300,7 +1300,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1311,10 +1311,10 @@
         "question": "Given the following crystal structure parameters for the material Rb6V6P6O31 (Material ID: mp-1210240), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.19 Å\nb = 13.66 Å\nc = 14.71 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "D. 1480.60 Å³",
-                "A. 1445.21 Å³",
-                "B. 1335.50 Å³",
-                "C. 1550.75 Å³"
+                "1480.60 Å³",
+                "1445.21 Å³",
+                "1335.50 Å³",
+                "1550.75 Å³"
             ],
             "label": [
                 "A",
@@ -1329,7 +1329,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1340,10 +1340,10 @@
         "question": "Given the following crystal structure parameters for the material CeCuSi₂Pd (Material ID: mp-1226625), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.15 Å\nb = 4.15 Å\nc = 9.96 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 180.68 Å³\n",
-                "B. 167.25 Å³\n",
-                "C. 175.55 Å³\n",
-                "A. 171.27 Å³\n"
+                "180.68 Å³\n",
+                "167.25 Å³\n",
+                "175.55 Å³\n",
+                "171.27 Å³\n"
             ],
             "label": [
                 "A",
@@ -1358,7 +1358,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1369,10 +1369,10 @@
         "question": "Given the following crystal structure parameters for the material Ti2FeNiSb2 (Material ID: mp-1217120), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.21 Å\nb = 4.21 Å\nc = 20.4 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º",
         "choices": {
             "text": [
-                "C. 313.03 Å³",
-                "A. 320.50 Å³",
-                "B. 305.75 Å³",
-                "D. 299.88 Å³"
+                "313.03 Å³",
+                "320.50 Å³",
+                "305.75 Å³",
+                "299.88 Å³"
             ],
             "label": [
                 "A",
@@ -1387,7 +1387,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1398,10 +1398,10 @@
         "question": "Given the following crystal structure parameters for the material Rb2Cd2(MoO4)3 (Material ID: mp-1210143), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.48 Å\nb = 11.48 Å\nc = 11.48 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\nWhich of the following is the correct volume of the unit cell?",
         "choices": {
             "text": [
-                "A. 1514.78 Å³\n",
-                "D. 1700.90 Å³\n",
-                "C. 1600.25 Å³\n",
-                "B. 1450.00 Å³\n"
+                "1514.78 Å³\n",
+                "1700.90 Å³\n",
+                "1600.25 Å³\n",
+                "1450.00 Å³\n"
             ],
             "label": [
                 "A",
@@ -1416,7 +1416,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1427,10 +1427,10 @@
         "question": "Given the following crystal structure parameters for the material TbU₃(CoGe)₈ (Material ID: mp-1217656), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.02 Å\nb = 4.02 Å\nc = 19.68 Å\nα = 90º\nβ = 90º\nγ = 90º\n\n",
         "choices": {
             "text": [
-                "B. 304.56 Å³\n",
-                "D. 312.34 Å³\n",
-                "A. 317.54 Å³\n",
-                "C. 321.45 Å³\n"
+                "304.56 Å³\n",
+                "312.34 Å³\n",
+                "317.54 Å³\n",
+                "321.45 Å³\n"
             ],
             "label": [
                 "A",
@@ -1445,7 +1445,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1456,10 +1456,10 @@
         "question": "Given the following crystal structure parameters for the material Ba3Sr2Re3ClO15 (Material ID: mp-1214717), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 10.9 Å\nb = 10.9 Å\nc = 7.82 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n\n",
         "choices": {
             "text": [
-                "C. 785.56 Å³\n",
-                "B. 845.32 Å³\n",
-                "A. 805.19 Å³\n",
-                "D. 795.78 Å³\n"
+                "785.56 Å³\n",
+                "845.32 Å³\n",
+                "805.19 Å³\n",
+                "795.78 Å³\n"
             ],
             "label": [
                 "A",
@@ -1474,7 +1474,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1485,10 +1485,10 @@
         "question": "Given the following crystal structure parameters for the material LiB(S₂O₇)₂ (Material ID: mp-1020060), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.07 Å\nb = 11.12 Å\nc = 18.3 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 2251.91 Å³\n",
-                "D. 2134.78 Å³\n",
-                "A. 2352.45 Å³\n",
-                "B. 2421.33 Å³\n"
+                "2251.91 Å³\n",
+                "2134.78 Å³\n",
+                "2352.45 Å³\n",
+                "2421.33 Å³\n"
             ],
             "label": [
                 "A",
@@ -1503,7 +1503,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1514,10 +1514,10 @@
         "question": "Given the following crystal structure parameters for the material UPb(SeO4)₂ (Material ID: mp-680219), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.89 Å\nb = 11.48 Å\nc = 12.19 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 815.28 Å³\n",
-                "C. 831.67 Å³\n",
-                "D. 839.50 Å³\n",
-                "A. 824.06 Å³\n"
+                "815.28 Å³\n",
+                "831.67 Å³\n",
+                "839.50 Å³\n",
+                "824.06 Å³\n"
             ],
             "label": [
                 "A",
@@ -1532,7 +1532,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1543,10 +1543,10 @@
         "question": "Given the following crystal structure parameters for the material Cs4U2V2O13 (Material ID: mp-572715), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.39 Å\nb = 8.56 Å\nc = 13.74 Å\nα = 90.0º\nβ = 90.0º\nγ = 90.0º\n\n",
         "choices": {
             "text": [
-                "B. 880.34 Å³\n",
-                "D. 869.26 Å³\n",
-                "C. 893.12 Å³\n",
-                "A. 845.00 Å³\n"
+                "880.34 Å³\n",
+                "869.26 Å³\n",
+                "893.12 Å³\n",
+                "845.00 Å³\n"
             ],
             "label": [
                 "A",
@@ -1561,7 +1561,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1572,10 +1572,10 @@
         "question": "Given the following crystal structure parameters for the material Mg3Cu2(AsO4)3 (Material ID: mp-1210695), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 12.06 Å\nb = 13.05 Å\nc = 6.82 Å\nα = 90.00º\nβ = 113.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 988.59 Å³\n",
-                "B. 955.42 Å³\n",
-                "C. 1012.76 Å³\n",
-                "D. 999.99 Å³\n"
+                "988.59 Å³\n",
+                "955.42 Å³\n",
+                "1012.76 Å³\n",
+                "999.99 Å³\n"
             ],
             "label": [
                 "A",
@@ -1590,7 +1590,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1601,10 +1601,10 @@
         "question": "Given the following crystal structure parameters for the material Ba14Na14LiN6 (Material ID: mp-645662), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 17.88 Å\nb = 17.88 Å\nc = 17.88 Å\nα = 90.0º\nβ = 90.0º\nγ = 90.0º\n\nWhat is the volume of the unit cell?",
         "choices": {
             "text": [
-                "B. 5850.5 Å³\n",
-                "A. 5720.7 Å³\n",
-                "C. 5600.2 Å³\n",
-                "D. 5780.9 Å³\n"
+                "5850.5 Å³\n",
+                "5720.7 Å³\n",
+                "5600.2 Å³\n",
+                "5780.9 Å³\n"
             ],
             "label": [
                 "A",
@@ -1619,7 +1619,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1630,10 +1630,10 @@
         "question": "Given the following crystal structure parameters for the material LiSm6B3O14 (Material ID: mp-1211144), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 8.61 Å\nb = 15.91 Å\nc = 12.28 Å\nα = 90.00º\nβ = 132.13º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 1333.14 Å³",
-                "D. 1208.75 Å³",
-                "C. 1117.39 Å³",
-                "A. 1248.36 Å³"
+                "1333.14 Å³",
+                "1208.75 Å³",
+                "1117.39 Å³",
+                "1248.36 Å³"
             ],
             "label": [
                 "A",
@@ -1648,7 +1648,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1659,10 +1659,10 @@
         "question": "Given the following crystal structure parameters for the material Li8Be6P7O29 (Material ID: mp-1201314), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.68 Å\nb = 20.26 Å\nc = 9.35 Å\nα = 90.00º\nβ = 90.20º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 2109.88 Å³\n",
-                "D. 2250.33 Å³\n",
-                "A. 2212.67 Å³\n",
-                "B. 2356.45 Å³\n"
+                "2109.88 Å³\n",
+                "2250.33 Å³\n",
+                "2212.67 Å³\n",
+                "2356.45 Å³\n"
             ],
             "label": [
                 "A",
@@ -1677,7 +1677,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1688,10 +1688,10 @@
         "question": "Given the following crystal structure parameters for the material KMgNiIO₆ (Material ID: mp-2222843), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.24 Å\nb = 5.24 Å\nc = 6.5 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n\nWhich value is the correct volume of the unit cell?",
         "choices": {
             "text": [
-                "A. 154.75 Å³\n",
-                "B. 160.25 Å³\n",
-                "C. 149.85 Å³\n",
-                "D. 163.40 Å³\n"
+                "154.75 Å³\n",
+                "160.25 Å³\n",
+                "149.85 Å³\n",
+                "163.40 Å³\n"
             ],
             "label": [
                 "A",
@@ -1706,7 +1706,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1717,10 +1717,10 @@
         "question": "Given the following crystal structure parameters for the material Na2ZnPHO5 (Material ID: mp-758238), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.85 Å\nb = 10.02 Å\nc = 8.64 Å\nα = 90.0º\nβ = 104.94º\nγ = 90.0º\n",
         "choices": {
             "text": [
-                "D. 475.89 Å³\n",
-                "B. 500.00 Å³\n",
-                "A. 489.54 Å³\n",
-                "C. 510.76 Å³\n"
+                "475.89 Å³\n",
+                "500.00 Å³\n",
+                "489.54 Å³\n",
+                "510.76 Å³\n"
             ],
             "label": [
                 "A",
@@ -1735,7 +1735,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1746,10 +1746,10 @@
         "question": "Given the following crystal structure parameters for the material SrV4(Bi3O10)2 (Material ID: mp-553895), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.14 Å\nb = 7.95 Å\nc = 9.29 Å\nα = 106.43º\nβ = 94.34º\nγ = 112.2º\n\n",
         "choices": {
             "text": [
-                "D. 458.56 Å³\n",
-                "A. 470.12 Å³\n",
-                "C. 460.78 Å³\n",
-                "B. 450.34 Å³\n"
+                "458.56 Å³\n",
+                "470.12 Å³\n",
+                "460.78 Å³\n",
+                "450.34 Å³\n"
             ],
             "label": [
                 "A",
@@ -1764,7 +1764,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1775,10 +1775,10 @@
         "question": "Given the following crystal structure parameters for the material CsY(MoO4)2 (Material ID: mp-1213231), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.11 Å\nb = 6.11 Å\nc = 8.39 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n\n",
         "choices": {
             "text": [
-                "B. 255.55 Å³\n",
-                "D. 271.38 Å³\n",
-                "A. 245.68 Å³\n",
-                "C. 266.75 Å³\n"
+                "255.55 Å³\n",
+                "271.38 Å³\n",
+                "245.68 Å³\n",
+                "266.75 Å³\n"
             ],
             "label": [
                 "A",
@@ -1793,7 +1793,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1804,10 +1804,10 @@
         "question": "Given the following crystal structure parameters for the material MgH₈(ClO₂)₂ (Material ID: mp-1203165), calculate the volume of the unit cell (in Å³). Note that this is an orthorhombic crystal system.\n\nLattice Parameters:\n\na = 7.35 Å\nb = 8.48 Å\nc = 10.97 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 683.94 Å³\n",
-                "B. 700.00 Å³\n",
-                "C. 670.00 Å³\n",
-                "D. 690.00 Å³\n"
+                "683.94 Å³\n",
+                "700.00 Å³\n",
+                "670.00 Å³\n",
+                "690.00 Å³\n"
             ],
             "label": [
                 "A",
@@ -1822,7 +1822,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1833,10 +1833,10 @@
         "question": "Given the following crystal structure parameters for the material CeZnCuP2 (Material ID: mp-1226509), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.0 Å\nb = 4.0 Å\nc = 6.65 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n",
         "choices": {
             "text": [
-                "C. 100.12 Å³\n",
-                "B. 85.45 Å³\n",
-                "D. 76.55 Å³\n",
-                "A. 92.38 Å³\n"
+                "100.12 Å³\n",
+                "85.45 Å³\n",
+                "76.55 Å³\n",
+                "92.38 Å³\n"
             ],
             "label": [
                 "A",
@@ -1851,7 +1851,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1862,10 +1862,10 @@
         "question": "Given the crystal structure parameters for the material K3Nb2AsSe11 (Material ID: mp-542545), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 15.26 Å\nb = 13.37 Å\nc = 10.10 Å\nα = 90.00º\nβ = 99.53º\nγ = 90.00º",
         "choices": {
             "text": [
-                "A. 245.68 Å³",
-                "B. 255.55 Å³",
-                "C. 266.75 Å³",
-                "D. 2032.02 Å³"
+                "245.68 Å³",
+                "255.55 Å³",
+                "266.75 Å³",
+                "2032.02 Å³"
             ],
             "label": [
                 "A",
@@ -1880,7 +1880,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1891,10 +1891,10 @@
         "question": "Given the following crystal structure parameters for the material KLi₃Ca₇Ti₂Si₁₂(O₁₈F)₂ (Material ID: mp-641919), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 16.95 Å\nb = 9.75 Å\nc = 20.88 Å\nα = 90.00º\nβ = 112.54º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "C. 3200.48 Å³\n",
-                "D. 3225.67 Å³\n",
-                "A. 3185.91 Å³\n",
-                "B. 3150.23 Å³\n"
+                "3200.48 Å³\n",
+                "3225.67 Å³\n",
+                "3185.91 Å³\n",
+                "3150.23 Å³\n"
             ],
             "label": [
                 "A",
@@ -1909,7 +1909,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1920,10 +1920,10 @@
         "question": "Given the following crystal structure parameters for the material Gd2MgPtO6 (Material ID: mp-1212711), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.37 Å\nb = 5.7 Å\nc = 9.37 Å\nα = 90.00º\nβ = 124.61º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 220.30 Å³\n",
-                "D. 245.80 Å³\n",
-                "A. 235.76 Å³\n",
-                "B. 250.45 Å³\n"
+                "220.30 Å³\n",
+                "245.80 Å³\n",
+                "235.76 Å³\n",
+                "250.45 Å³\n"
             ],
             "label": [
                 "A",
@@ -1938,7 +1938,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1949,10 +1949,10 @@
         "question": "Given the following crystal structure parameters for the material NaBeSi₃HO₈ (Material ID: mp-556001), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.44 Å\nb = 12.85 Å\nc = 13.78 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 1240.32 Å³\n",
-                "A. 1317.34 Å³\n",
-                "C. 1390.85 Å³\n",
-                "D. 1275.10 Å³\n"
+                "1240.32 Å³\n",
+                "1317.34 Å³\n",
+                "1390.85 Å³\n",
+                "1275.10 Å³\n"
             ],
             "label": [
                 "A",
@@ -1967,7 +1967,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -1978,10 +1978,10 @@
         "question": "Given the following crystal structure parameters for the material Rb2Th3Mg(MoO4)8 (Material ID: mp-1195019), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 18.95 Å\nb = 18.4 Å\nc = 9.61 Å\nα = 90.0º\nβ = 90.22º\nγ = 90.0º\n",
         "choices": {
             "text": [
-                "C. 3450.75 Å³\n",
-                "B. 3250.25 Å³\n",
-                "A. 3349.58 Å³\n",
-                "D. 3552.53 Å³\n"
+                "3450.75 Å³\n",
+                "3250.25 Å³\n",
+                "3349.58 Å³\n",
+                "3552.53 Å³\n"
             ],
             "label": [
                 "A",
@@ -1996,7 +1996,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2007,10 +2007,10 @@
         "question": "Given the following crystal structure parameters for the material Rb4UC3O11 (Material ID: mp-1209486), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.19 Å\nb = 9.55 Å\nc = 12.82 Å\nα = 90.00º\nβ = 92.71º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "B. 1325.45 Å³\n",
-                "A. 1367.51 Å³\n",
-                "D. 1450.62 Å³\n",
-                "C. 1400.34 Å³\n"
+                "1325.45 Å³\n",
+                "1367.51 Å³\n",
+                "1450.62 Å³\n",
+                "1400.34 Å³\n"
             ],
             "label": [
                 "A",
@@ -2025,7 +2025,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2054,7 +2054,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2065,10 +2065,10 @@
         "question": "Given the following crystal structure parameters for the material Sr3La(NiO4)2 (Material ID: mp-1218450), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.48 Å\nb = 12.39 Å\nc = 5.48 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 389.50 Å³\n",
-                "A. 372.03 Å³\n",
-                "D. 400.75 Å³\n",
-                "B. 355.22 Å³\n"
+                "389.50 Å³\n",
+                "372.03 Å³\n",
+                "400.75 Å³\n",
+                "355.22 Å³\n"
             ],
             "label": [
                 "A",
@@ -2083,7 +2083,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2094,10 +2094,10 @@
         "question": "Given the following crystal structure parameters for the material K₂LiCrF₆ (Material ID: mp-1111927), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 8.12 Å\nb = 8.12 Å\nc = 8.12 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\nWhich of the following is the correct volume of the unit cell?",
         "choices": {
             "text": [
-                "A. 512.00 Å³",
-                "B. 520.50 Å³",
-                "C. 534.68 Å³",
-                "D. 545.90 Å³"
+                "512.00 Å³",
+                "520.50 Å³",
+                "534.68 Å³",
+                "545.90 Å³"
             ],
             "label": [
                 "A",
@@ -2112,7 +2112,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2123,10 +2123,10 @@
         "question": "Given the following crystal structure parameters for the material RbAl(H₂N)₄ (Material ID: mp-1193778), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.25 Å\nb = 7.25 Å\nc = 5.27 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 276.6 Å³\n",
-                "C. 266.75 Å³\n",
-                "D. 277.89 Å³\n",
-                "B. 255.55 Å³\n"
+                "276.6 Å³\n",
+                "266.75 Å³\n",
+                "277.89 Å³\n",
+                "255.55 Å³\n"
             ],
             "label": [
                 "A",
@@ -2141,7 +2141,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2152,10 +2152,10 @@
         "question": "Given the following crystal structure parameters for the material K2NaScBr6 (Material ID: mp-1111649), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.09 Å\nb = 11.09 Å\nc = 11.09 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 1325.47 Å³\n",
-                "B. 1287.65 Å³\n",
-                "A. 1363.43 Å³\n",
-                "C. 1450.30 Å³\n"
+                "1325.47 Å³\n",
+                "1287.65 Å³\n",
+                "1363.43 Å³\n",
+                "1450.30 Å³\n"
             ],
             "label": [
                 "A",
@@ -2170,7 +2170,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2181,10 +2181,10 @@
         "question": "Given the following crystal structure parameters for the material Ba₂GdMoO₆ (Material ID: mp-1079839), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.04 Å\nb = 6.05 Å\nc = 6.06 Å\nα = 119.58º\nβ = 119.48º\nγ = 90.67º\n\n",
         "choices": {
             "text": [
-                "B. 145.67 Å³",
-                "D. 170.89 Å³",
-                "C. 162.34 Å³",
-                "A. 158.00 Å³"
+                "145.67 Å³",
+                "170.89 Å³",
+                "162.34 Å³",
+                "158.00 Å³"
             ],
             "label": [
                 "A",
@@ -2199,7 +2199,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2210,10 +2210,10 @@
         "question": "Given the following crystal structure parameters for the material BaBClF4 (Material ID: mp-1103527), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.79 Å\nb = 5.33 Å\nc = 9.51 Å\nα = 90.0º\nβ = 90.0º\nγ = 90.0º\n\n",
         "choices": {
             "text": [
-                "B. 242.96 Å³\n",
-                "C. 255.88 Å³\n",
-                "A. 230.45 Å³\n",
-                "D. 268.65 Å³\n"
+                "242.96 Å³\n",
+                "255.88 Å³\n",
+                "230.45 Å³\n",
+                "268.65 Å³\n"
             ],
             "label": [
                 "A",
@@ -2228,7 +2228,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2239,10 +2239,10 @@
         "question": "Given the following crystal structure parameters for the material Cd2GaAgS4 (Material ID: mp-6356), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.7 Å\nb = 7.01 Å\nc = 8.25 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 400.78 Å³\n",
-                "D. 409.12 Å³\n",
-                "A. 387.62 Å³\n",
-                "B. 355.43 Å³\n"
+                "400.78 Å³\n",
+                "409.12 Å³\n",
+                "387.62 Å³\n",
+                "355.43 Å³\n"
             ],
             "label": [
                 "A",
@@ -2257,7 +2257,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2268,10 +2268,10 @@
         "question": "Given the following crystal structure parameters for the material Nd3Cu4(P2O)2 (Material ID: mp-1209832), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 3.99 Å\nb = 3.99 Å\nc = 26.54 Å\nα = 90.0º\nβ = 90.0º\nγ = 90.0º\n\n",
         "choices": {
             "text": [
-                "C. 410.3 Å³\n",
-                "A. 422.7 Å³\n",
-                "B. 400.5 Å³\n",
-                "D. 430.0 Å³\n"
+                "410.3 Å³\n",
+                "422.7 Å³\n",
+                "400.5 Å³\n",
+                "430.0 Å³\n"
             ],
             "label": [
                 "A",
@@ -2286,7 +2286,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2297,10 +2297,10 @@
         "question": "Given the following crystal structure parameters for the material Na3Fe(PO4)2 (Material ID: mp-19028), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.2 Å\nb = 5.09 Å\nc = 14.07 Å\nα = 90.00º\nβ = 92.02º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 645.00 Å³\n",
-                "D. 700.75 Å³\n",
-                "A. 658.55 Å³\n",
-                "C. 671.10 Å³\n"
+                "645.00 Å³\n",
+                "700.75 Å³\n",
+                "658.55 Å³\n",
+                "671.10 Å³\n"
             ],
             "label": [
                 "A",
@@ -2315,7 +2315,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2326,10 +2326,10 @@
         "question": "Given the following crystal structure parameters for the material Nb3Te4ClO15 (Material ID: mp-1199992), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\na = 19.32 Å\nb = 8.02 Å\nc = 21.56 Å\nα = 90.0º\nβ = 116.57º\nγ = 90.0º\n\n",
         "choices": {
             "text": [
-                "D. 3025.50 Å³\n",
-                "A. 2987.16 Å³\n",
-                "B. 3000.00 Å³\n",
-                "C. 2950.00 Å³\n"
+                "3025.50 Å³\n",
+                "2987.16 Å³\n",
+                "3000.00 Å³\n",
+                "2950.00 Å³\n"
             ],
             "label": [
                 "A",
@@ -2344,7 +2344,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2355,10 +2355,10 @@
         "question": "Given the following crystal structure parameters for the material CdCu2SiS4 (Material ID: mp-6449), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.28 Å\nb = 6.5 Å\nc = 7.66 Å\nα = 90.0º\nβ = 90.0º\nγ = 90.0º\n",
         "choices": {
             "text": [
-                "C. 325.63 Å³\n",
-                "B. 299.48 Å³\n",
-                "D. 318.50 Å³\n",
-                "A. 312.71 Å³\n"
+                "325.63 Å³\n",
+                "299.48 Å³\n",
+                "318.50 Å³\n",
+                "312.71 Å³\n"
             ],
             "label": [
                 "A",
@@ -2373,7 +2373,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2384,10 +2384,10 @@
         "question": "Given the following crystal structure parameters for the material SmP₄HO₁₂ (Material ID: mp-542237), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.14 Å\nb = 8.58 Å\nc = 8.86 Å\nα = 99.11º\nβ = 112.21º\nγ = 106.66º\n\n",
         "choices": {
             "text": [
-                "A. 458.96 Å³\n",
-                "B. 465.00 Å³\n",
-                "D. 482.10 Å³\n",
-                "C. 473.25 Å³\n"
+                "458.96 Å³\n",
+                "465.00 Å³\n",
+                "482.10 Å³\n",
+                "473.25 Å³\n"
             ],
             "label": [
                 "A",
@@ -2402,7 +2402,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2413,10 +2413,10 @@
         "question": "Given the following crystal structure parameters for the material CaMgAsO₄F (Material ID: mp-7035), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.81 Å\nb = 9.06 Å\nc = 7.21 Å\nα = 90.00º\nβ = 113.56º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 410.89 Å³\n",
-                "A. 407.28 Å³\n",
-                "B. 402.12 Å³\n",
-                "C. 415.67 Å³\n"
+                "410.89 Å³\n",
+                "407.28 Å³\n",
+                "402.12 Å³\n",
+                "415.67 Å³\n"
             ],
             "label": [
                 "A",
@@ -2431,7 +2431,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2442,10 +2442,10 @@
         "question": "Given the following crystal structure parameters for the material Ta2Hg3S(O2F5)2 (Material ID: mp-541094), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.5 Å\nb = 16.01 Å\nc = 18.7 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 2500.00 Å³\n",
-                "D. 2700.25 Å³\n",
-                "A. 2843.96 Å³\n",
-                "C. 3000.50 Å³\n"
+                "2500.00 Å³\n",
+                "2700.25 Å³\n",
+                "2843.96 Å³\n",
+                "3000.50 Å³\n"
             ],
             "label": [
                 "A",
@@ -2460,7 +2460,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2471,10 +2471,10 @@
         "question": "Given the following crystal structure parameters for the material NaCr₂In(H₂O₅)₂ (Material ID: mp-1105721), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.22 Å\nb = 5.74 Å\nc = 7.43 Å\nα = 90.00º\nβ = 112.68º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 441.53 Å³\n",
-                "A. 450.00 Å³\n",
-                "D. 420.75 Å³\n",
-                "B. 430.25 Å³\n"
+                "441.53 Å³\n",
+                "450.00 Å³\n",
+                "420.75 Å³\n",
+                "430.25 Å³\n"
             ],
             "label": [
                 "A",
@@ -2489,7 +2489,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2500,10 +2500,10 @@
         "question": "Given the following crystal structure parameters for the material Rb2B10H6O19 (Material ID: mp-698164), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.72 Å\nb = 9.33 Å\nc = 12.27 Å\nα = 99.19º\nβ = 105.94º\nγ = 91.59º\n\nWhich of the following is the correct volume?",
         "choices": {
             "text": [
-                "C. 845.74 Å³\n",
-                "A. 836.37 Å³\n",
-                "D. 828.90 Å³\n",
-                "B. 812.58 Å³\n"
+                "845.74 Å³\n",
+                "836.37 Å³\n",
+                "828.90 Å³\n",
+                "812.58 Å³\n"
             ],
             "label": [
                 "A",
@@ -2518,7 +2518,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2529,10 +2529,10 @@
         "question": "Given the following crystal structure parameters for the material Rb5Th(PS4)3 (Material ID: mp-572864), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 13.58 Å\nb = 10.19 Å\nc = 18.65 Å\nα = 90.00º\nβ = 101.61º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 2425.55 Å³\n",
-                "D. 2337.89 Å³\n",
-                "A. 2525.94 Å³\n",
-                "C. 2665.75 Å³\n"
+                "2425.55 Å³\n",
+                "2337.89 Å³\n",
+                "2525.94 Å³\n",
+                "2665.75 Å³\n"
             ],
             "label": [
                 "A",
@@ -2547,7 +2547,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2558,10 +2558,10 @@
         "question": "Given the following crystal structure parameters for the material CsNb₃SBr₇ (Material ID: mp-573274), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.14 Å\nb = 19.21 Å\nc = 10.19 Å\nα = 90.00º\nβ = 97.56º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 1385.83 Å³\n",
-                "B. 1450.50 Å³\n",
-                "C. 1320.37 Å³\n",
-                "D. 1288.90 Å³\n"
+                "1385.83 Å³\n",
+                "1450.50 Å³\n",
+                "1320.37 Å³\n",
+                "1288.90 Å³\n"
             ],
             "label": [
                 "A",
@@ -2576,7 +2576,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2587,10 +2587,10 @@
         "question": "Given the following crystal structure parameters for the material ScNb6Cl13O3 (Material ID: mp-667315), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.23 Å\nb = 9.23 Å\nc = 53.21 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 4456.27 Å³",
-                "C. 4600.12 Å³",
-                "A. 4534.94 Å³",
-                "D. 4399.89 Å³"
+                "4456.27 Å³",
+                "4600.12 Å³",
+                "4534.94 Å³",
+                "4399.89 Å³"
             ],
             "label": [
                 "A",
@@ -2605,7 +2605,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2616,10 +2616,10 @@
         "question": "Given the following crystal structure parameters for the material BaV2Ni3(HO5)2 (Material ID: mp-1205427), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 10.35 Å\nb = 5.94 Å\nc = 7.84 Å\nα = 90.00º\nβ = 116.13º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "B. 445.25 Å³\n",
-                "D. 410.60 Å³\n",
-                "A. 432.74 Å³\n",
-                "C. 467.50 Å³\n"
+                "445.25 Å³\n",
+                "410.60 Å³\n",
+                "432.74 Å³\n",
+                "467.50 Å³\n"
             ],
             "label": [
                 "A",
@@ -2634,7 +2634,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2645,10 +2645,10 @@
         "question": "Given the following crystal structure parameters for the material SrBiBrO₂ (Material ID: mp-552234), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.86 Å\nb = 13.18 Å\nc = 5.74 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\nLattice volume calculation based on these parameters:\n\n",
         "choices": {
             "text": [
-                "A. 442.85 Å³\n",
-                "B. 453.90 Å³\n",
-                "C. 436.72 Å³\n",
-                "D. 449.60 Å³\n"
+                "442.85 Å³\n",
+                "453.90 Å³\n",
+                "436.72 Å³\n",
+                "449.60 Å³\n"
             ],
             "label": [
                 "A",
@@ -2663,7 +2663,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2674,10 +2674,10 @@
         "question": "Given the following crystal structure parameters for the material Tb3CuGeS7 (Material ID: mp-557517), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.91 Å\nb = 9.91 Å\nc = 5.84 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n\n",
         "choices": {
             "text": [
-                "A. 496.73 Å³\n",
-                "C. 476.52 Å³\n",
-                "B. 506.71 Å³\n",
-                "D. 486.89 Å³\n"
+                "496.73 Å³\n",
+                "476.52 Å³\n",
+                "506.71 Å³\n",
+                "486.89 Å³\n"
             ],
             "label": [
                 "A",
@@ -2692,7 +2692,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2703,10 +2703,10 @@
         "question": "Given the following crystal structure parameters for the material Ba2NiTeO6 (Material ID: mp-19011), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.88 Å\nb = 5.88 Å\nc = 28.98 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n\nWhich of the following is the correct volume of the unit cell?",
         "choices": {
             "text": [
-                "A. 867.98 Å³\n",
-                "B. 755.48 Å³\n",
-                "D. 809.29 Å³\n",
-                "C. 945.67 Å³\n"
+                "867.98 Å³\n",
+                "755.48 Å³\n",
+                "809.29 Å³\n",
+                "945.67 Å³\n"
             ],
             "label": [
                 "A",
@@ -2721,7 +2721,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2732,10 +2732,10 @@
         "question": "Given the following crystal structure parameters for the material CsSbClF₃ (Material ID: mp-23576), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.96 Å\nb = 9.96 Å\nc = 12.06 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 1015.28 Å³\n",
-                "C. 1105.38 Å³\n",
-                "A. 1195.58 Å³\n",
-                "B. 1305.48 Å³\n"
+                "1015.28 Å³\n",
+                "1105.38 Å³\n",
+                "1195.58 Å³\n",
+                "1305.48 Å³\n"
             ],
             "label": [
                 "A",
@@ -2750,7 +2750,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2761,10 +2761,10 @@
         "question": "Given the following crystal structure parameters for the material CsSi₂SbO₇ (Material ID: mp-581955), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.16 Å\nb = 13.64 Å\nc = 21.07 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 2150.54 Å³\n",
-                "A. 1984.25 Å³\n",
-                "C. 2250.67 Å³\n",
-                "D. 2058.31 Å³\n"
+                "2150.54 Å³\n",
+                "1984.25 Å³\n",
+                "2250.67 Å³\n",
+                "2058.31 Å³\n"
             ],
             "label": [
                 "A",
@@ -2779,7 +2779,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2790,10 +2790,10 @@
         "question": "Given the following crystal structure parameters for the material NaCr2In(H2O5)2 (Material ID: mp-1105721), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.22 Å\nb = 5.74 Å\nc = 7.43 Å\nα = 90.00º\nβ = 112.68º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 441.53 Å³\n",
-                "B. 430.48 Å³\n",
-                "D. 460.17 Å³\n",
-                "C. 450.89 Å³\n"
+                "441.53 Å³\n",
+                "430.48 Å³\n",
+                "460.17 Å³\n",
+                "450.89 Å³\n"
             ],
             "label": [
                 "A",
@@ -2808,7 +2808,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2819,10 +2819,10 @@
         "question": "Given the following crystal structure parameters for the material RbDy₂Ag₃Te₅ (Material ID: mp-1190502), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.58 Å\nb = 16.32 Å\nc = 18.5 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 1450.89 Å³\n",
-                "D. 1325.42 Å³\n",
-                "B. 1200.67 Å³\n",
-                "A. 1382.38 Å³\n"
+                "1450.89 Å³\n",
+                "1325.42 Å³\n",
+                "1200.67 Å³\n",
+                "1382.38 Å³\n"
             ],
             "label": [
                 "A",
@@ -2837,7 +2837,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2848,10 +2848,10 @@
         "question": "Given the following crystal structure parameters for the material Sr2LuRuO6 (Material ID: mp-20687), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.78 Å\nb = 5.79 Å\nc = 9.98 Å\nα = 90.00º\nβ = 125.12º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 273.33 Å³\n",
-                "C. 289.22 Å³\n",
-                "B. 260.45 Å³\n",
-                "D. 295.68 Å³\n"
+                "273.33 Å³\n",
+                "289.22 Å³\n",
+                "260.45 Å³\n",
+                "295.68 Å³\n"
             ],
             "label": [
                 "A",
@@ -2866,7 +2866,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2877,10 +2877,10 @@
         "question": "Given the following crystal structure parameters for the material KLi3Ca7Ti2Si12(O18F)2 (Material ID: mp-641919), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 16.95 Å\nb = 9.75 Å\nc = 20.88 Å\nα = 90.00º\nβ = 112.54º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 266.75 Å³\n",
-                "B. 255.55 Å³\n",
-                "A. 245.68 Å³\n",
-                "D. 3185.91 Å³\n"
+                "266.75 Å³\n",
+                "255.55 Å³\n",
+                "245.68 Å³\n",
+                "3185.91 Å³\n"
             ],
             "label": [
                 "A",
@@ -2895,7 +2895,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2906,10 +2906,10 @@
         "question": "Given the following crystal structure parameters for the material Sr3ZnIrO6 (Material ID: mp-6723), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.69 Å\nb = 9.69 Å\nc = 11.42 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n",
         "choices": {
             "text": [
-                "B. 915.72 Å³\n",
-                "C. 930.45 Å³\n",
-                "D. 940.12 Å³\n",
-                "A. 927.84 Å³\n"
+                "915.72 Å³\n",
+                "930.45 Å³\n",
+                "940.12 Å³\n",
+                "927.84 Å³\n"
             ],
             "label": [
                 "A",
@@ -2924,7 +2924,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2935,10 +2935,10 @@
         "question": "Given the following crystal structure parameters for the material Ba3NaGd3(Si3O10)2 (Material ID: mp-1194728), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.61 Å\nb = 24.13 Å\nc = 14.9 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 2017.26 Å³\n",
-                "D. 2200.30 Å³\n",
-                "B. 1500.00 Å³\n",
-                "C. 1800.50 Å³\n"
+                "2017.26 Å³\n",
+                "2200.30 Å³\n",
+                "1500.00 Å³\n",
+                "1800.50 Å³\n"
             ],
             "label": [
                 "A",
@@ -2953,7 +2953,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2964,10 +2964,10 @@
         "question": "Given the following crystal structure parameters for the material Sr2TbRuO6 (Material ID: mp-6068), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.82 Å\nb = 5.9 Å\nc = 10.08 Å\nα = 90.00º\nβ = 124.88º\nγ = 90.00º\n\nWhich of the following is the correct volume of the unit cell?",
         "choices": {
             "text": [
-                "A. 260.32 Å³",
-                "D. 310.45 Å³",
-                "B. 283.87 Å³",
-                "C. 297.65 Å³"
+                "260.32 Å³",
+                "310.45 Å³",
+                "283.87 Å³",
+                "297.65 Å³"
             ],
             "label": [
                 "A",
@@ -2982,7 +2982,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -2993,10 +2993,10 @@
         "question": "Given the following crystal structure parameters for the material Ba3P6(N4O3)2 (Material ID: mp-1019524), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.41 Å\nb = 7.41 Å\nc = 6.36 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n",
         "choices": {
             "text": [
-                "B. 288.90 Å³",
-                "A. 302.84 Å³",
-                "D. 295.77 Å³",
-                "C. 310.50 Å³"
+                "288.90 Å³",
+                "302.84 Å³",
+                "295.77 Å³",
+                "310.50 Å³"
             ],
             "label": [
                 "A",
@@ -3011,7 +3011,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3022,10 +3022,10 @@
         "question": "Given the following crystal structure parameters for the material K6InTe4Cl (Material ID: mp-568916), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.49 Å\nb = 11.49 Å\nc = 8.14 Å\nα = 90.0º\nβ = 90.0º\nγ = 120.0º\n\nChoose the correct volume from the options below:",
         "choices": {
             "text": [
-                "A. 930.95 Å³\n",
-                "C. 960.75 Å³\n",
-                "B. 945.45 Å³\n",
-                "D. 975.89 Å³\n"
+                "930.95 Å³\n",
+                "960.75 Å³\n",
+                "945.45 Å³\n",
+                "975.89 Å³\n"
             ],
             "label": [
                 "A",
@@ -3040,7 +3040,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3051,10 +3051,10 @@
         "question": "Given the following crystal structure parameters for the material BaAgSbS₃ (Material ID: mp-1190401), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.48 Å\nb = 8.21 Å\nc = 17.42 Å\nα = 90.00º\nβ = 101.5º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 1400.75 Å³\n",
-                "D. 1500.89 Å³\n",
-                "B. 1250.55 Å³\n",
-                "A. 1328.02 Å³\n"
+                "1400.75 Å³\n",
+                "1500.89 Å³\n",
+                "1250.55 Å³\n",
+                "1328.02 Å³\n"
             ],
             "label": [
                 "A",
@@ -3069,7 +3069,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3080,10 +3080,10 @@
         "question": "Given the following crystal structure parameters for the material CsV(SO₄)₂ (Material ID: mp-559316), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.98 Å\nb = 4.98 Å\nc = 9.00 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n",
         "choices": {
             "text": [
-                "D. 225.89 Å³\n",
-                "B. 205.50 Å³\n",
-                "C. 215.75 Å³\n",
-                "A. 193.30 Å³\n"
+                "225.89 Å³\n",
+                "205.50 Å³\n",
+                "215.75 Å³\n",
+                "193.30 Å³\n"
             ],
             "label": [
                 "A",
@@ -3098,7 +3098,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3109,10 +3109,10 @@
         "question": "Given the following crystal structure parameters for the material Co3P4PbO14 (Material ID: mp-562742), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.36 Å\nb = 7.72 Å\nc = 9.42 Å\nα = 90.00º\nβ = 111.34º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 498.70 Å³\n",
-                "D. 525.89 Å³\n",
-                "C. 515.75 Å³\n",
-                "B. 505.55 Å³\n"
+                "498.70 Å³\n",
+                "525.89 Å³\n",
+                "515.75 Å³\n",
+                "505.55 Å³\n"
             ],
             "label": [
                 "A",
@@ -3127,7 +3127,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3138,10 +3138,10 @@
         "question": "Given the following crystal structure parameters for the material Ta2Hg3S(O2F5)2 (Material ID: mp-541094), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.5 Å\nb = 16.01 Å\nc = 18.7 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "B. 2750.45 Å³\n",
-                "C. 2901.23 Å³\n",
-                "D. 2990.67 Å³\n",
-                "A. 2843.96 Å³\n"
+                "2750.45 Å³\n",
+                "2901.23 Å³\n",
+                "2990.67 Å³\n",
+                "2843.96 Å³\n"
             ],
             "label": [
                 "A",
@@ -3156,7 +3156,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3167,10 +3167,10 @@
         "question": "Given the following crystal structure parameters for the material UHg3(TeCl3)2 (Material ID: mp-567543), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.03 Å\nb = 8.08 Å\nc = 14.05 Å\nα = 90.00º\nβ = 91.93º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 797.5 Å³",
-                "C. 802.6 Å³",
-                "D. 810.3 Å³",
-                "B. 785.4 Å³"
+                "797.5 Å³",
+                "802.6 Å³",
+                "810.3 Å³",
+                "785.4 Å³"
             ],
             "label": [
                 "A",
@@ -3185,7 +3185,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3196,10 +3196,10 @@
         "question": "Given the following crystal structure parameters for the material Mg2Tl2(MoO4)3 (Material ID: mp-13187), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.0 Å\nb = 11.0 Å\nc = 11.0 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 1330.83 Å³\n",
-                "D. 1530.45 Å³\n",
-                "C. 1430.92 Å³\n",
-                "B. 1230.00 Å³\n"
+                "1330.83 Å³\n",
+                "1530.45 Å³\n",
+                "1430.92 Å³\n",
+                "1230.00 Å³\n"
             ],
             "label": [
                 "A",
@@ -3214,7 +3214,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3225,10 +3225,10 @@
         "question": "Given the following crystal structure parameters for the material Na6Mg2C4SO16 (Material ID: mp-6892), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 14.06 Å\nb = 14.06 Å\nc = 14.06 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 2668.85 Å³\n",
-                "B. 2555.55 Å³\n",
-                "D. 2777.49 Å³\n",
-                "A. 2456.98 Å³\n"
+                "2668.85 Å³\n",
+                "2555.55 Å³\n",
+                "2777.49 Å³\n",
+                "2456.98 Å³\n"
             ],
             "label": [
                 "A",
@@ -3243,7 +3243,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3254,10 +3254,10 @@
         "question": "Given the following crystal structure parameters for the material ZnBi6P2O15 (Material ID: mp-645375), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 15.47 Å\nb = 5.52 Å\nc = 17.2 Å\nα = 90.00º\nβ = 104.48º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 1398.34 Å³",
-                "B. 1450.25 Å³",
-                "D. 1410.87 Å³",
-                "A. 1423.52 Å³"
+                "1398.34 Å³",
+                "1450.25 Å³",
+                "1410.87 Å³",
+                "1423.52 Å³"
             ],
             "label": [
                 "A",
@@ -3272,7 +3272,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3283,10 +3283,10 @@
         "question": "Given the following crystal structure parameters for the material KEu2Cd2Sb3 (Material ID: mp-1204226), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.88 Å\nb = 12.66 Å\nc = 16.3 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 1006.48 Å³\n",
-                "B. 987.55 Å³\n",
-                "C. 1022.75 Å³\n",
-                "D. 1045.89 Å³\n"
+                "1006.48 Å³\n",
+                "987.55 Å³\n",
+                "1022.75 Å³\n",
+                "1045.89 Å³\n"
             ],
             "label": [
                 "A",
@@ -3301,7 +3301,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3312,10 +3312,10 @@
         "question": "Given the following crystal structure parameters for the material Mn4SiTeBr2O7 (Material ID: mp-1193463), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.59 Å\nb = 6.58 Å\nc = 13.19 Å\nα = 90.06º\nβ = 93.32º\nγ = 90.12º\n\n",
         "choices": {
             "text": [
-                "B. 478.00 Å³\n",
-                "A. 450.00 Å³\n",
-                "C. 492.00 Å³\n",
-                "D. 484.31 Å³\n"
+                "478.00 Å³\n",
+                "450.00 Å³\n",
+                "492.00 Å³\n",
+                "484.31 Å³\n"
             ],
             "label": [
                 "A",
@@ -3330,7 +3330,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3341,10 +3341,10 @@
         "question": "Given the following crystal structure parameters for the material La3Si2S8I (Material ID: mp-23090), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 16.22 Å\nb = 7.98 Å\nc = 10.99 Å\nα = 90.00º\nβ = 97.93º\nγ = 90.00º\n\nWhat is the volume of the unit cell?",
         "choices": {
             "text": [
-                "B. 1500.00 Å³",
-                "D. 1450.30 Å³",
-                "A. 1408.73 Å³",
-                "C. 1350.50 Å³"
+                "1500.00 Å³",
+                "1450.30 Å³",
+                "1408.73 Å³",
+                "1350.50 Å³"
             ],
             "label": [
                 "A",
@@ -3359,7 +3359,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3370,10 +3370,10 @@
         "question": "Given the following crystal structure parameters for the material Na21S7Cl(O14F3)2 (Material ID: mp-680169), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 12.34 Å\nb = 12.34 Å\nc = 19.57 Å\nα = 90.0º\nβ = 90.0º\nγ = 120.0º\n",
         "choices": {
             "text": [
-                "B. 2456.78 Å³",
-                "A. 2580.35 Å³",
-                "D. 2740.59 Å³",
-                "C. 2674.21 Å³"
+                "2456.78 Å³",
+                "2580.35 Å³",
+                "2740.59 Å³",
+                "2674.21 Å³"
             ],
             "label": [
                 "A",
@@ -3388,7 +3388,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3399,10 +3399,10 @@
         "question": "Given the following crystal structure parameters for the material Ba2LaAg5S6 (Material ID: mp-553874), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 14.15 Å\nb = 4.29 Å\nc = 11.34 Å\nα = 90.00º\nβ = 95.17º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "B. 700.12 Å³\n",
-                "D. 690.00 Å³\n",
-                "C. 668.45 Å³\n",
-                "A. 685.73 Å³\n"
+                "700.12 Å³\n",
+                "690.00 Å³\n",
+                "668.45 Å³\n",
+                "685.73 Å³\n"
             ],
             "label": [
                 "A",
@@ -3417,7 +3417,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3428,10 +3428,10 @@
         "question": "Given the following crystal structure parameters for the material Gd2Si4CN6 (Material ID: mp-1205044), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.00 Å\nb = 10.01 Å\nc = 12.02 Å\nα = 90.00º\nβ = 119.57º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "A. 627.91 Å³\n",
-                "C. 640.18 Å³\n",
-                "D. 590.26 Å³\n",
-                "B. 580.34 Å³\n"
+                "627.91 Å³\n",
+                "640.18 Å³\n",
+                "590.26 Å³\n",
+                "580.34 Å³\n"
             ],
             "label": [
                 "A",
@@ -3446,7 +3446,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3457,10 +3457,10 @@
         "question": "Given the following crystal structure parameters for the material LaSbMo2O9 (Material ID: mp-558000), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 13.37 Å\nb = 14.9 Å\nc = 11.15 Å\nα = 90.00º\nβ = 123.29º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 1925.42 Å³\n",
-                "A. 1856.07 Å³\n",
-                "D. 1990.33 Å³\n",
-                "C. 1780.15 Å³\n"
+                "1925.42 Å³\n",
+                "1856.07 Å³\n",
+                "1990.33 Å³\n",
+                "1780.15 Å³\n"
             ],
             "label": [
                 "A",
@@ -3475,7 +3475,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3486,10 +3486,10 @@
         "question": "Given the following crystal structure parameters for the material LuH6(ClO5)3 (Material ID: mp-757220), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.57 Å\nb = 8.5 Å\nc = 10.65 Å\nα = 79.67º\nβ = 78.4º\nγ = 63.82º\n\n",
         "choices": {
             "text": [
-                "C. 612.30 Å³\n",
-                "D. 605.75 Å³\n",
-                "B. 587.65 Å³\n",
-                "A. 599.72 Å³\n"
+                "612.30 Å³\n",
+                "605.75 Å³\n",
+                "587.65 Å³\n",
+                "599.72 Å³\n"
             ],
             "label": [
                 "A",
@@ -3504,7 +3504,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3515,10 +3515,10 @@
         "question": "Given the following crystal structure parameters for the material Na₂CdH₄(SeO₅)₂ (Material ID: mp-697888), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.92 Å\nb = 13.59 Å\nc = 6.1 Å\nα = 90.00º\nβ = 106.54º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 450.32 Å³",
-                "B. 460.44 Å³",
-                "C. 480.77 Å³",
-                "A. 470.65 Å³"
+                "450.32 Å³",
+                "460.44 Å³",
+                "480.77 Å³",
+                "470.65 Å³"
             ],
             "label": [
                 "A",
@@ -3533,7 +3533,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3544,10 +3544,10 @@
         "question": "Given the following crystal structure parameters for the material BaBiBO₄ (Material ID: mp-559186), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.2 Å\nb = 8.82 Å\nc = 9.86 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "B. 438.50 Å³\n",
-                "D. 470.12 Å³\n",
-                "C. 460.67 Å³\n",
-                "A. 452.43 Å³\n"
+                "438.50 Å³\n",
+                "470.12 Å³\n",
+                "460.67 Å³\n",
+                "452.43 Å³\n"
             ],
             "label": [
                 "A",
@@ -3562,7 +3562,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3573,10 +3573,10 @@
         "question": "Given the following crystal structure parameters for the material CsCeCuS₃ (Material ID: mp-510569), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.07 Å\nb = 15.3 Å\nc = 10.47 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "C. 659.45 Å³\n",
-                "B. 645.50 Å³\n",
-                "A. 652.08 Å³\n",
-                "D. 670.10 Å³\n"
+                "659.45 Å³\n",
+                "645.50 Å³\n",
+                "652.08 Å³\n",
+                "670.10 Å³\n"
             ],
             "label": [
                 "A",
@@ -3591,7 +3591,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3602,10 +3602,10 @@
         "question": "Given the following crystal structure parameters for the material RbLa9(IrO6)4 (Material ID: mp-560657), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.82 Å\nb = 7.82 Å\nc = 17.88 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 1025.67 Å³\n",
-                "A. 1094.31 Å³\n",
-                "B. 1200.45 Å³\n",
-                "D. 1150.78 Å³\n"
+                "1025.67 Å³\n",
+                "1094.31 Å³\n",
+                "1200.45 Å³\n",
+                "1150.78 Å³\n"
             ],
             "label": [
                 "A",
@@ -3620,7 +3620,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3631,10 +3631,10 @@
         "question": "Given the following crystal structure parameters for the material CsNb3SBr7 (Material ID: mp-573274), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.14 Å\nb = 19.21 Å\nc = 10.19 Å\nα = 90.00º\nβ = 97.56º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 1450.50 Å³\n",
-                "D. 1300.89 Å³\n",
-                "C. 1225.75 Å³\n",
-                "A. 1385.83 Å³\n"
+                "1450.50 Å³\n",
+                "1300.89 Å³\n",
+                "1225.75 Å³\n",
+                "1385.83 Å³\n"
             ],
             "label": [
                 "A",
@@ -3649,7 +3649,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3660,10 +3660,10 @@
         "question": "Given the following crystal structure parameters for the material Ca3HfSi2O9 (Material ID: mp-15003), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.36 Å\nb = 10.14 Å\nc = 10.42 Å\nα = 90.00º\nβ = 91.28º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 777.33 Å³\n",
-                "B. 768.44 Å³\n",
-                "A. 745.12 Å³\n",
-                "D. 786.55 Å³\n"
+                "777.33 Å³\n",
+                "768.44 Å³\n",
+                "745.12 Å³\n",
+                "786.55 Å³\n"
             ],
             "label": [
                 "A",
@@ -3678,7 +3678,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3689,10 +3689,10 @@
         "question": "Given the following crystal structure parameters for the material CdCu2SiS4 (Material ID: mp-6449), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.28 Å\nb = 6.5 Å\nc = 7.66 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 305.50 Å³",
-                "B. 312.71 Å³",
-                "C. 320.00 Å³",
-                "D. 330.45 Å³"
+                "305.50 Å³",
+                "312.71 Å³",
+                "320.00 Å³",
+                "330.45 Å³"
             ],
             "label": [
                 "A",
@@ -3707,7 +3707,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3718,10 +3718,10 @@
         "question": "Given the following crystal structure parameters for the material LiAu(S₂O₇)₂ (Material ID: mp-1105750), calculate the volume of the unit cell (in Å³).",
         "choices": {
             "text": [
-                "C. 293.47 Å³\n",
-                "A. 298.18 Å³\n",
-                "B. 305.22 Å³\n",
-                "D. 311.08 Å³\n"
+                "293.47 Å³\n",
+                "298.18 Å³\n",
+                "305.22 Å³\n",
+                "311.08 Å³\n"
             ],
             "label": [
                 "A",
@@ -3736,7 +3736,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3747,10 +3747,10 @@
         "question": "Given the following crystal structure parameters for the material K₂SiH₄(NO)₂ (Material ID: mp-697910), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.63 Å\nb = 9.92 Å\nc = 7.57 Å\nα = 90.00º\nβ = 90.94º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 266.75 Å³\n",
-                "A. 245.68 Å³\n",
-                "D. 277.89 Å³\n",
-                "B. 497.5 Å³\n"
+                "266.75 Å³\n",
+                "245.68 Å³\n",
+                "277.89 Å³\n",
+                "497.5 Å³\n"
             ],
             "label": [
                 "A",
@@ -3765,7 +3765,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3776,10 +3776,10 @@
         "question": "Given the following crystal structure parameters for the material Li2ZnSiO4 (Material ID: mp-17288), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.11 Å\nb = 10.74 Å\nc = 8.09 Å\nα = 90.00º\nβ = 128.57º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 277.89 Å³\n",
-                "A. 245.68 Å³\n",
-                "B. 255.55 Å³\n",
-                "C. 346.74 Å³\n"
+                "277.89 Å³\n",
+                "245.68 Å³\n",
+                "255.55 Å³\n",
+                "346.74 Å³\n"
             ],
             "label": [
                 "A",
@@ -3794,7 +3794,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3805,10 +3805,10 @@
         "question": "Given the following crystal structure parameters for the material K3CaV5O15 (Material ID: mp-561144), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 16.00 Å\nb = 26.45 Å\nc = 7.97 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 3372.12 Å³\n",
-                "B. 3200.00 Å³\n",
-                "D. 3300.75 Å³\n",
-                "C. 3450.50 Å³\n"
+                "3372.12 Å³\n",
+                "3200.00 Å³\n",
+                "3300.75 Å³\n",
+                "3450.50 Å³\n"
             ],
             "label": [
                 "A",
@@ -3823,7 +3823,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3834,10 +3834,10 @@
         "question": "Given the following crystal structure parameters for the material SrTlVO₄ (Material ID: mp-560156), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.96 Å\nb = 7.67 Å\nc = 10.19 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 465.28 Å³\n",
-                "B. 455.67 Å³\n",
-                "C. 475.89 Å³\n",
-                "D. 485.12 Å³\n"
+                "465.28 Å³\n",
+                "455.67 Å³\n",
+                "475.89 Å³\n",
+                "485.12 Å³\n"
             ],
             "label": [
                 "A",
@@ -3852,7 +3852,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3863,10 +3863,10 @@
         "question": "Given the following crystal structure parameters for the material SrGa2(SiO4)2 (Material ID: mp-14235), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 8.39 Å\nb = 9.5 Å\nc = 9.0 Å\nα = 90.00º\nβ = 90.74º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "D. 745.45 Å³\n",
-                "B. 725.00 Å³\n",
-                "A. 717.88 Å³\n",
-                "C. 735.20 Å³\n"
+                "745.45 Å³\n",
+                "725.00 Å³\n",
+                "717.88 Å³\n",
+                "735.20 Å³\n"
             ],
             "label": [
                 "A",
@@ -3881,7 +3881,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3892,10 +3892,10 @@
         "question": "Given the following crystal structure parameters for the material TeAs(BrF2)3 (Material ID: mp-557570), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.84 Å\nb = 10.13 Å\nc = 12.37 Å\nα = 90.00º\nβ = 100.56º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "D. 952.89 Å³\n",
-                "A. 966.67 Å³\n",
-                "B. 948.73 Å³\n",
-                "C. 982.14 Å³\n"
+                "952.89 Å³\n",
+                "966.67 Å³\n",
+                "948.73 Å³\n",
+                "982.14 Å³\n"
             ],
             "label": [
                 "A",
@@ -3910,7 +3910,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3921,10 +3921,10 @@
         "question": "Given the following crystal structure parameters for the material Sr2YIrO6 (Material ID: mp-15887), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.82 Å\nb = 5.88 Å\nc = 10.08 Å\nα = 90.00º\nβ = 124.90º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 285.67 Å³\n",
-                "A. 283.26 Å³\n",
-                "B. 278.45 Å³\n",
-                "D. 290.31 Å³\n"
+                "285.67 Å³\n",
+                "283.26 Å³\n",
+                "278.45 Å³\n",
+                "290.31 Å³\n"
             ],
             "label": [
                 "A",
@@ -3939,7 +3939,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3950,10 +3950,10 @@
         "question": "Given the following crystal structure parameters for the material KZn₄(PO₄)₃ (Material ID: mp-560419), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 8.27 Å\nb = 9.79 Å\nc = 14.07 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\nWhich of the following is the correct volume of the unit cell?",
         "choices": {
             "text": [
-                "C. 1177.65 Å³",
-                "B. 1234.12 Å³",
-                "A. 1138.50 Å³",
-                "D. 1105.88 Å³"
+                "1177.65 Å³",
+                "1234.12 Å³",
+                "1138.50 Å³",
+                "1105.88 Å³"
             ],
             "label": [
                 "A",
@@ -3968,7 +3968,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -3979,10 +3979,10 @@
         "question": "Given the following crystal structure parameters for the material Rb4UC3O11 (Material ID: mp-1209486), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 11.19 Å\nb = 9.55 Å\nc = 12.82 Å\nα = 90.00º\nβ = 92.71º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 1280.34 Å³\n",
-                "D. 1333.22 Å³\n",
-                "C. 1450.67 Å³\n",
-                "A. 1367.51 Å³\n"
+                "1280.34 Å³\n",
+                "1333.22 Å³\n",
+                "1450.67 Å³\n",
+                "1367.51 Å³\n"
             ],
             "label": [
                 "A",
@@ -3997,7 +3997,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4008,10 +4008,10 @@
         "question": "Given the following crystal structure parameters for the material RbNa2AuO2 (Material ID: mp-555018), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.13 Å\nb = 5.66 Å\nc = 10.08 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 255.55 Å³\n",
-                "A. 235.71 Å³\n",
-                "B. 245.68 Å³\n",
-                "D. 266.75 Å³\n"
+                "255.55 Å³\n",
+                "235.71 Å³\n",
+                "245.68 Å³\n",
+                "266.75 Å³\n"
             ],
             "label": [
                 "A",
@@ -4026,7 +4026,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4037,10 +4037,10 @@
         "question": "Given the following crystal structure parameters for the material RbNaSi₂O₅ (Material ID: mp-557656), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 4.94 Å\nb = 13.78 Å\nc = 7.91 Å\nα = 90.0º\nβ = 91.0º\nγ = 90.0º\n\n",
         "choices": {
             "text": [
-                "D. 545.67 Å³\n",
-                "B. 585.24 Å³\n",
-                "A. 539.04 Å³\n",
-                "C. 612.50 Å³\n"
+                "545.67 Å³\n",
+                "585.24 Å³\n",
+                "539.04 Å³\n",
+                "612.50 Å³\n"
             ],
             "label": [
                 "A",
@@ -4055,7 +4055,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4066,10 +4066,10 @@
         "question": "Given the following crystal structure parameters for the material RbNa2Mn3P4ClO14 (Material ID: mp-1194649), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 21.44 Å\nb = 5.31 Å\nc = 14.04 Å\nα = 90.00º\nβ = 119.44º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 1392.21 Å³\n",
-                "D. 1575.89 Å³\n",
-                "C. 1500.75 Å³\n",
-                "B. 1450.50 Å³\n"
+                "1392.21 Å³\n",
+                "1575.89 Å³\n",
+                "1500.75 Å³\n",
+                "1450.50 Å³\n"
             ],
             "label": [
                 "A",
@@ -4084,7 +4084,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4095,10 +4095,10 @@
         "question": "Given the following crystal structure parameters for the material RbNa5(WN3)2 (Material ID: mp-571412), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.43 Å\nb = 10.38 Å\nc = 19.35 Å\nα = 90.00º\nβ = 90.12º\nγ = 90.00º\n\nWhat is the volume of the unit cell?",
         "choices": {
             "text": [
-                "A. 1800.56 Å³",
-                "D. 1893.92 Å³",
-                "C. 2000.89 Å³",
-                "B. 1900.45 Å³"
+                "1800.56 Å³",
+                "1893.92 Å³",
+                "2000.89 Å³",
+                "1900.45 Å³"
             ],
             "label": [
                 "A",
@@ -4113,7 +4113,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4124,10 +4124,10 @@
         "question": "Given the following crystal structure parameters for the material K₂RbGdV₂O₈ (Material ID: mp-21331), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.07 Å\nb = 6.07 Å\nc = 7.85 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n\n",
         "choices": {
             "text": [
-                "A. 250.46 Å³\n",
-                "B. 245.68 Å³\n",
-                "C. 266.75 Å³\n",
-                "D. 277.89 Å³\n"
+                "250.46 Å³\n",
+                "245.68 Å³\n",
+                "266.75 Å³\n",
+                "277.89 Å³\n"
             ],
             "label": [
                 "A",
@@ -4142,7 +4142,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4153,10 +4153,10 @@
         "question": "Given the following crystal structure parameters for the material KRbGeO₃ (Material ID: mp-1211560), calculate the volume of the unit cell (in Å³).",
         "choices": {
             "text": [
-                "C. 920.20 Å³",
-                "B. 885.50 Å³",
-                "D. 890.75 Å³",
-                "A. 904.93 Å³"
+                "920.20 Å³",
+                "885.50 Å³",
+                "890.75 Å³",
+                "904.93 Å³"
             ],
             "label": [
                 "A",
@@ -4171,7 +4171,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4182,10 +4182,10 @@
         "question": "Given the following crystal structure parameters for the material RbCaBr3 (Material ID: mp-1209238), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.78 Å\nb = 8.12 Å\nc = 11.16 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 715.38 Å³\n",
-                "D. 704.51 Å³\n",
-                "C. 728.22 Å³\n",
-                "A. 689.45 Å³\n"
+                "715.38 Å³\n",
+                "704.51 Å³\n",
+                "728.22 Å³\n",
+                "689.45 Å³\n"
             ],
             "label": [
                 "A",
@@ -4200,7 +4200,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4211,10 +4211,10 @@
         "question": "Given the following crystal structure parameters for the material KRb2YF6 (Material ID: mp-7012), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.58 Å\nb = 6.75 Å\nc = 11.42 Å\nα = 90.00º\nβ = 124.91º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "D. 416.17 Å³\n",
-                "C. 266.75 Å³\n",
-                "A. 245.68 Å³\n",
-                "B. 255.55 Å³\n"
+                "416.17 Å³\n",
+                "266.75 Å³\n",
+                "245.68 Å³\n",
+                "255.55 Å³\n"
             ],
             "label": [
                 "A",
@@ -4229,7 +4229,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4240,10 +4240,10 @@
         "question": "Given the following crystal structure parameters for the material RbLiSO₄ (Material ID: mp-6211), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.25 Å\nb = 8.69 Å\nc = 10.41 Å\nα = 90.00º\nβ = 119.91º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "D. 430.00 Å³\n",
-                "A. 411.13 Å³\n",
-                "B. 420.25 Å³\n",
-                "C. 405.50 Å³\n"
+                "430.00 Å³\n",
+                "411.13 Å³\n",
+                "420.25 Å³\n",
+                "405.50 Å³\n"
             ],
             "label": [
                 "A",
@@ -4258,7 +4258,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4269,10 +4269,10 @@
         "question": "Given the following crystal structure parameters for the material RbLi(H2N)2 (Material ID: mp-510073), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 3.88 Å\nb = 7.88 Å\nc = 11.73 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\nWhat is the volume of the unit cell?",
         "choices": {
             "text": [
-                "B. 255.55 Å³\n",
-                "A. 245.68 Å³\n",
-                "D. 277.89 Å³\n",
-                "C. 358.46 Å³\n"
+                "255.55 Å³\n",
+                "245.68 Å³\n",
+                "277.89 Å³\n",
+                "358.46 Å³\n"
             ],
             "label": [
                 "A",
@@ -4287,7 +4287,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4298,10 +4298,10 @@
         "question": "Given the following crystal structure parameters for the material Rb3Zr6BeCl15 (Material ID: mp-1209505), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 16.81 Å\nb = 11.68 Å\nc = 14.38 Å\nα = 90.00º\nβ = 93.00º\nγ = 90.00º\n\nWhich of the following is the volume of the unit cell?",
         "choices": {
             "text": [
-                "D. 2900.88 Å³\n",
-                "C. 2505.45 Å³\n",
-                "A. 2819.98 Å³\n",
-                "B. 2630.55 Å³\n"
+                "2900.88 Å³\n",
+                "2505.45 Å³\n",
+                "2819.98 Å³\n",
+                "2630.55 Å³\n"
             ],
             "label": [
                 "A",
@@ -4316,7 +4316,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4327,10 +4327,10 @@
         "question": "Given the following crystal structure parameters for the material Rb2Ca2(SO4)3 (Material ID: mp-558752), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 10.75 Å\nb = 10.75 Å\nc = 10.75 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 1324.78 Å³\n",
-                "A. 1242.86 Å³\n",
-                "B. 1156.34 Å³\n",
-                "D. 1402.69 Å³\n"
+                "1324.78 Å³\n",
+                "1242.86 Å³\n",
+                "1156.34 Å³\n",
+                "1402.69 Å³\n"
             ],
             "label": [
                 "A",
@@ -4345,7 +4345,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4356,10 +4356,10 @@
         "question": "Given the following crystal structure parameters for the material KSrCaMnO₆ (Material ID: mp-1520978), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 8.32 Å\nb = 8.32 Å\nc = 8.32 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "C. 596.90 Å³\n",
-                "A. 575.66 Å³\n",
-                "D. 582.24 Å³\n",
-                "B. 555.32 Å³\n"
+                "596.90 Å³\n",
+                "575.66 Å³\n",
+                "582.24 Å³\n",
+                "555.32 Å³\n"
             ],
             "label": [
                 "A",
@@ -4374,7 +4374,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4385,10 +4385,10 @@
         "question": "Given the following crystal structure parameters for the material K₂SrV₃O₉ (Material ID: mp-554684), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.51 Å\nb = 10.43 Å\nc = 16.37 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n",
         "choices": {
             "text": [
-                "B. 950.55 Å³\n",
-                "A. 940.68 Å³\n",
-                "C. 930.75 Å³\n",
-                "D. 960.89 Å³\n"
+                "950.55 Å³\n",
+                "940.68 Å³\n",
+                "930.75 Å³\n",
+                "960.89 Å³\n"
             ],
             "label": [
                 "A",
@@ -4403,7 +4403,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4414,10 +4414,10 @@
         "question": "Given the following crystal structure parameters for the material K₄SrU₃O₁₂ (Material ID: mp-22634), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 8.78 Å\nb = 8.78 Å\nc = 8.78 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\nWhich of the following is the correct volume of the unit cell?",
         "choices": {
             "text": [
-                "B. 645.32 Å³\n",
-                "C. 613.45 Å³\n",
-                "A. 675.79 Å³\n",
-                "D. 698.25 Å³\n"
+                "645.32 Å³\n",
+                "613.45 Å³\n",
+                "675.79 Å³\n",
+                "698.25 Å³\n"
             ],
             "label": [
                 "A",
@@ -4432,7 +4432,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4443,10 +4443,10 @@
         "question": "Given the following crystal structure parameters for the material K₂Sr(PO₃)₄ (Material ID: mp-558990), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.57 Å\nb = 7.57 Å\nc = 10.3 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "B. 601.23 Å³\n",
-                "C. 577.88 Å³\n",
-                "D. 593.45 Å³\n",
-                "A. 589.56 Å³\n"
+                "601.23 Å³\n",
+                "577.88 Å³\n",
+                "593.45 Å³\n",
+                "589.56 Å³\n"
             ],
             "label": [
                 "A",
@@ -4461,7 +4461,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4472,10 +4472,10 @@
         "question": "Given the following crystal structure parameters for the material K2SrCdSb2 (Material ID: mp-863758), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 5.0 Å\nb = 8.33 Å\nc = 9.97 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "A. 414.94 Å³\n",
-                "D. 390.89 Å³\n",
-                "C. 400.21 Å³\n",
-                "B. 425.00 Å³\n"
+                "414.94 Å³\n",
+                "390.89 Å³\n",
+                "400.21 Å³\n",
+                "425.00 Å³\n"
             ],
             "label": [
                 "A",
@@ -4490,7 +4490,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4501,10 +4501,10 @@
         "question": "Given the following crystal structure parameters for the material NaSr(PO3)3 (Material ID: mp-1020657), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 6.91 Å\nb = 7.26 Å\nc = 7.85 Å\nα = 83.83º\nβ = 80.51º\nγ = 82.77º\n",
         "choices": {
             "text": [
-                "B. 383.25 Å³",
-                "D. 389.12 Å³",
-                "A. 365.47 Å³",
-                "C. 400.82 Å³"
+                "383.25 Å³",
+                "389.12 Å³",
+                "365.47 Å³",
+                "400.82 Å³"
             ],
             "label": [
                 "A",
@@ -4519,7 +4519,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4530,10 +4530,10 @@
         "question": "Given the following crystal structure parameters for the material Na2SrV4O12 (Material ID: mp-18975), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 10.76 Å\nb = 10.76 Å\nc = 5.09 Å\nα = 90.00º\nβ = 90.00º\nγ = 90.00º\n\n",
         "choices": {
             "text": [
-                "C. 612.58 Å³\n",
-                "D. 601.24 Å³\n",
-                "A. 589.73 Å³\n",
-                "B. 570.45 Å³\n"
+                "612.58 Å³\n",
+                "601.24 Å³\n",
+                "589.73 Å³\n",
+                "570.45 Å³\n"
             ],
             "label": [
                 "A",
@@ -4548,7 +4548,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4559,10 +4559,10 @@
         "question": "Given the following crystal structure parameters for the material Na₃Sr(BO₂)₅ (Material ID: mp-6775), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.35 Å\nb = 7.7 Å\nc = 9.83 Å\nα = 81.56º\nβ = 109.03º\nγ = 117.97º\n\n",
         "choices": {
             "text": [
-                "B. 477.55 Å³",
-                "C. 493.75 Å³",
-                "A. 445.68 Å³",
-                "D. 463.85 Å³"
+                "477.55 Å³",
+                "493.75 Å³",
+                "445.68 Å³",
+                "463.85 Å³"
             ],
             "label": [
                 "A",
@@ -4577,7 +4577,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4588,10 +4588,10 @@
         "question": "Given the following crystal structure parameters for the material NaSr₃NbO₆ (Material ID: mp-6361), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 9.89 Å\nb = 9.89 Å\nc = 11.72 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n\n",
         "choices": {
             "text": [
-                "A. 993.38 Å³\n",
-                "D. 1020.32 Å³\n",
-                "B. 950.27 Å³\n",
-                "C. 1005.45 Å³\n"
+                "993.38 Å³\n",
+                "1020.32 Å³\n",
+                "950.27 Å³\n",
+                "1005.45 Å³\n"
             ],
             "label": [
                 "A",
@@ -4606,7 +4606,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     },
@@ -4617,10 +4617,10 @@
         "question": "Given the following crystal structure parameters for the material NaSrP (Material ID: mp-13275), calculate the volume of the unit cell (in Å³).\n\nLattice Parameters:\n\na = 7.66 Å\nb = 7.66 Å\nc = 4.49 Å\nα = 90.00º\nβ = 90.00º\nγ = 120.00º\n\n",
         "choices": {
             "text": [
-                "A. 228.24 Å³\n",
-                "B. 215.35 Å³\n",
-                "C. 240.56 Å³\n",
-                "D. 225.89 Å³\n"
+                "228.24 Å³\n",
+                "215.35 Å³\n",
+                "240.56 Å³\n",
+                "225.89 Å³\n"
             ],
             "label": [
                 "A",
@@ -4635,7 +4635,7 @@
         "details": {
             "level": "L3",
             "task": "lattice volume calculation",
-            "subtask": "Transforming the Scientific Databases",
+            "subtask": "lattice volume QA",
             "source": "Materials Project"
         }
     }
