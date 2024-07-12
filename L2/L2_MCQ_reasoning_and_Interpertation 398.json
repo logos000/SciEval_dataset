@@ -296,10 +296,10 @@
         "question": "Figure 1: (Color online) Unit cell of metallic and M1 phase of VO\\({}_{2}\\) single crystal. The symmetry axes of these crystals are shown. The rutile c-axis is applied as a “parallel” direction for the distorted M1 phase in the context which is conventionally called a-axis in M1 phase. The experimental lattice constants are also depicted.\n\nshow the calculated electronic structure with different methods and compare them to photo-emission data in Section III. Here, we particularly analyze the phase transition from metallic rutile structure to the M1 Mott-semiconductor structure of VO\\({}_{2}\\). In addition, we validate a hybrid density functional with a parameter-free many-body perturbation theory method. Next, we describe the results on the optical properties of the M1 phase of VO\\({}_{2}\\) in Section IV, again, and compare them with the recorded absorption spectrum. Finally, we summarize and conclude our results in Section V.\n\n## II The approachBased on the text snippet provided, which of the following best describes the cause of the phase transition from the metallic rutile structure to the M1 Mott-semiconductor structure of VO\textsubscript{2}?",
         "choices": {
             "text": [
-                "A: The phase transition occurs due to the application of hybrid density functional validated by parameter-free many-body perturbation theory.",
-                "C: The phase transition results from the comparison of the experimental lattice constants.",
-                "B: The phase transition is driven primarily by the symmetry axes of the crystals.",
-                "D: The phase transition is a consequence of the differences in optical properties between the phases."
+                "The phase transition occurs due to the application of hybrid density functional validated by parameter-free many-body perturbation theory.",
+                "The phase transition results from the comparison of the experimental lattice constants.",
+                "The phase transition is driven primarily by the symmetry axes of the crystals.",
+                "The phase transition is a consequence of the differences in optical properties between the phases."
             ],
             "label": [
                 "A",
@@ -383,10 +383,10 @@
         "question": "The HSE functional for the exchange-correlation part of the energy involves a parameter \\(a\\) which mixes the contribution of the short-range parts of the Hartree-Fock exchange and the PBE expression for the exchange energy:[30]\n\n\\[E_{xc}=aE_{x}^{HF,SR}(\\omega)+(1-a)E_{x}^{PBE,SR}(\\omega)\\] \\[+E_{x}^{PBE,LR}(\\omega)+E_{c}^{PBE} \\tag{1}\\]\n\nwhere the parameter \\(\\omega\\) defines what is meant by short and long ranged part of the Coulomb potential, which is split according to\n\n\\[\\frac{1}{r}=\\frac{erfc(\\omega r)}{r}+\\frac{erf(\\omega r)}{r}, \\tag{2}\\]Based on the given text, what is the primary role of the parameter \\( a \\) in the HSE functional for the exchange-correlation part of the energy?",
         "choices": {
             "text": [
-                "C. It defines the total exchange energy from the PBE functional.",
-                "B. It determines the split between the short-range and long-range parts of the Coulomb potential.",
-                "A. It adjusts the mixture of the Hartree-Fock short-range exchange and the PBE short-range exchange energies.",
-                "D. It controls the scale of the short-range Coulomb interaction in the PBE correlation energy."
+                "It defines the total exchange energy from the PBE functional.",
+                "It determines the split between the short-range and long-range parts of the Coulomb potential.",
+                "It adjusts the mixture of the Hartree-Fock short-range exchange and the PBE short-range exchange energies.",
+                "It controls the scale of the short-range Coulomb interaction in the PBE correlation energy."
             ],
             "label": [
                 "A",
@@ -789,11 +789,7 @@
         "question": "In the insulating phase, the states contributing the most in the total DOS just above the gap are mainly of the same \\(t_{2g}\\) symmetry. Just below the gap, however, only the \\(d_{x^{2}-y^{2}}\\) orbital gives most of the contribution to the density of states. Namely, the dimerization of the V-V bond splits these \\(t_{2g}\\) states in opposite directions around the Fermi energy. The most affected orbital is\n\nFigure 4: (Color online) Convergence of \\(e_{2||}\\) with number of occupied bands using a fixed number of unoccupied bands for the case of the full BSE calculation. See Fig. 1 for the convention of parallel direction.\n\nFigure 5: The photoemission data taken from Ref. [41] is compared with the DOS of the occupied states as obtained from LDA, PBE calculations.Based on the text, which effect primarily results from the dimerization of the V-V bond?",
         "choices": {
             "text": [
-                "B",
-                "D",
-                "A",
                 "Reduction in the energy gap between the occupied and unoccupied states.",
-                "C",
                 "Splitting of the t_{2g} states in opposite directions around the Fermi energy.",
                 "Increase in the total density of states (DOS) just below the gap.",
                 "Dominant contribution from the d_{x^{2}-y^{2}} orbital to the DOS just above the gap."
@@ -938,10 +934,10 @@
         "question": "## IV Dielectric functions\n\nHere we present our calculated imaginary part of the dielectric function for momentum \\(q=0\\), as a function of frequency (energy) for light polarization parallel and perpendicular to the c-axis of the crystal. This physical quantity is directly accessible by optical studies.[42]\n\nIn order to calculate the dielectric function, which for zero momentum transfer is directly proportional to the optical response, we will first work within the independent particle approximation. In this case the dielectric function is calculated using the energy eigenvalues and eigenvectors as obtained by LDA or PBE or HSE and the non-interacting \"bubble-diagram\" for the response function.## IV Dielectric functions\n\nHere we present our calculated imaginary part of the dielectric function for momentum \\(q=0\\), as a function of frequency (energy) for light polarization parallel and perpendicular to the c-axis of the crystal. This physical quantity is directly accessible by optical studies.[42]\n\nIn order to calculate the dielectric function, which for zero momentum transfer is directly proportional to the optical response, we will first work within the independent particle approximation. In this case the dielectric function is calculated using the energy eigenvalues and eigenvectors as obtained by LDA or PBE or HSE and the non-interacting \"bubble-diagram\" for the response function.\n\nWhat is the primary reason for using the independent particle approximation in calculating the dielectric function for zero momentum transfer?",
         "choices": {
             "text": [
-                "C. The independent particle approximation is specifically designed to handle high-momentum transfer calculations.",
-                "D. The independent particle approximation allows for the direct measurement of the dielectric function via optical studies.",
-                "B. The independent particle approximation incorporates many-body interactions to provide a detailed optical response.",
-                "A. The independent particle approximation simplifies the calculation by using energy eigenvalues and eigenvectors derived from methods such as LDA, PBE, or HSE."
+                "The independent particle approximation is specifically designed to handle high-momentum transfer calculations.",
+                "The independent particle approximation allows for the direct measurement of the dielectric function via optical studies.",
+                "The independent particle approximation incorporates many-body interactions to provide a detailed optical response.",
+                "The independent particle approximation simplifies the calculation by using energy eigenvalues and eigenvectors derived from methods such as LDA, PBE, or HSE."
             ],
             "label": [
                 "A",
@@ -1054,10 +1050,10 @@
         "question": "HSE-1/4+G\\({}_{0}\\)W\\({}_{0}\\)+BSE are shifted by a uniform amount of about 1 eV at lower energy they would agree with the experimental position of the peaks. The main reason for this disagreement arises from the HSE-1/4 calculation which overestimates the position of these peaks by approximately the same amount. Notice, however, that the BSE calculation brings the intensity of these peaks down to be comparable with the experimental intensity. Now, the results (right parts of Fig. 10) obtained by reducing the mixing parameter \\(a\\) in these calculations from its value of \\(a=1/4\\) in the HSE-1/4 functional to \\(a=1/8\\), show a better agreement with the experimental results. This may be a fortuitous coincidence since HSE-1/4 provides more accurate quasi-particle energies as confirmed by GW calculations. In HSE-1/8 functional the wavefunctions are less localized than by HSE-1/4 functional which enter BSE equations. That might compensate the neglect of the role of the electron-phonon interaction in the imaginary part of dielectric function. Furthermore, since we found that the electron-hole interaction has a large effect on the dielectric function \\(\\epsilon(\\omega)\\), one would need to include self-energy corrections due to two-particle+one-hole intermediate states.Based on the provided text, what primarily causes the HSE-1/4+G\text{W}+BSE calculations to disagree with the experimental peak positions?",
         "choices": {
             "text": [
-                "A. The HSE-1/4 calculation overestimates the position of the peaks by about 1 eV.",
-                "D. The HSE-1/8 functional results in more localized wavefunctions compared to the HSE-1/4.",
-                "C. Reducing the mixing parameter to a=1/8 in HSE-1/4 functional produces less accurate quasi-particle energies.",
-                "B. The BSE calculation increases the intensity of the peaks beyond the experimental intensity."
+                "The HSE-1/4 calculation overestimates the position of the peaks by about 1 eV.",
+                "The HSE-1/8 functional results in more localized wavefunctions compared to the HSE-1/4.",
+                "Reducing the mixing parameter to a=1/8 in HSE-1/4 functional produces less accurate quasi-particle energies.",
+                "The BSE calculation increases the intensity of the peaks beyond the experimental intensity."
             ],
             "label": [
                 "A",
@@ -1083,10 +1079,10 @@
         "question": "It is important to note that the nature of the optical transitions agrees well with previous analysis of the behaviour of this material [41; 21], as the exact nature of these transitions has been in question for some time. By comparing the optical spectra (Fig. 10) to the expanded PDOS in Fig.11, we can see quite clearly the transitions occurring at each peak in the spectra. It seems safe to do so using the projected density of states within the HSE-1/4 picture, as the BSE calculation did not largely shift the position of the peaks in the optical spectra, but only modulated the intensity of the quasiparticle energies. The first peak in the optical spectra is entirely due to the excitation of the filled \\(t_{2g}\\) states to the unfilled anti-bonding \\(t_{2g}\\) states. No other transitions at this energy range are possible. At photon energies of \\(\\sim 3eV\\), the transition from filled \\(O\\)\\(2p\\) states to the same anti-bonding \\(t_{2g}\\) states becomes available. The transition from the filled valence band to the higher-energy \\(V\\)\\(3d(e_{g})\\) anti-bonding states becomes available at about \\(4eV\\), adding to the height of the 2nd peak. The third peak at around \\(8eV\\) arises from the transition between \\(O\\)\\(2p\\) states and the anti-bonding \\(V\\)\\(e_{g}\\) states.In the context of the provided excerpt, which optical transition is responsible for the formation of the first peak in the optical spectra?",
         "choices": {
             "text": [
-                "C. The transition from filled valence band to the higher-energy V 3d(e_{g}) anti-bonding states.",
-                "D. The transition from O 2p states to the anti-bonding V e_{g} states.",
-                "B. The transition from filled O 2p states to the anti-bonding t_{2g} states.",
-                "A. The transition from filled t_{2g} states to the unfilled anti-bonding t_{2g} states."
+                "The transition from filled valence band to the higher-energy V 3d(e_{g}) anti-bonding states.",
+                "The transition from O 2p states to the anti-bonding V e_{g} states.",
+                "The transition from filled O 2p states to the anti-bonding t_{2g} states.",
+                "The transition from filled t_{2g} states to the unfilled anti-bonding t_{2g} states."
             ],
             "label": [
                 "A",
@@ -1170,10 +1166,10 @@
         "question": "the band which is mainly of V \\(d_{x^{2}-y^{2}}\\) character. The four V atoms in the doubled unit cell after dimerization become two pairs and their corresponding four \\(d_{x^{2}-y^{2}}\\) states lead to two bonding and two antibonding combinations separated by the Peierls gap. There are four electrons available for these bands and after the dimerization, the two bonding bands just below the Fermi energy become fully occupied, which leads to a Peierls insulator (for details see our Sec. III.3).Based on the excerpt, what is the primary cause of the formation of a Peierls insulator?",
         "choices": {
             "text": [
-                "B. The intrinsic magnetic properties of the V atoms which cause band splitting.",
-                "A. The dimerization of V atoms in the doubled unit cell, leading to bonding and antibonding states separated by the Peierls gap.",
-                "C. The increase in temperature which causes a phase transition into an insulating state.",
-                "D. The interaction between electrons and phonons altering the band structure uniformly without band splitting."
+                "The intrinsic magnetic properties of the V atoms which cause band splitting.",
+                "The dimerization of V atoms in the doubled unit cell, leading to bonding and antibonding states separated by the Peierls gap.",
+                "The increase in temperature which causes a phase transition into an insulating state.",
+                "The interaction between electrons and phonons altering the band structure uniformly without band splitting."
             ],
             "label": [
                 "A",
@@ -1634,10 +1630,10 @@
         "question": "Here \\(A\\) and \\(B\\) denote diffusing particles of different types and the process (10) postulates that when the two dissimilar particles occupy the same lattice site, they immediately annihilate. The interesting situation arises when the initial densities are equal. (Otherwise, the minority species quickly disappears.) The critical dimension for this two-species annihilation process is not affected by the dependence of the hopping rates on concentration, and therefore \\(d_{c}=4\\) as in the case of constant hopping rates [28; 29; 30; 31; 32].Based on the given text, what is the primary reason the critical dimension (\first_name) for the two-species annihilation process is determined?",
         "choices": {
             "text": [
-                "B. The critical dimension (\first_name) is determined by the equal initial densities of the two species.",
-                "A. The critical dimension (\first_name) is determined by the independence of hopping rates on concentration, thus remaining at 4.",
-                "C. The critical dimension (\first_name) is determined by the likelihood of particles annihilating upon occupying the same lattice site.",
-                "D. The critical dimension (\first_name) is influenced by the minority species disappearing quickly when densities are unequal."
+                "The critical dimension (\first_name) is determined by the equal initial densities of the two species.",
+                "The critical dimension (\first_name) is determined by the independence of hopping rates on concentration, thus remaining at 4.",
+                "The critical dimension (\first_name) is determined by the likelihood of particles annihilating upon occupying the same lattice site.",
+                "The critical dimension (\first_name) is influenced by the minority species disappearing quickly when densities are unequal."
             ],
             "label": [
                 "A",
@@ -1866,10 +1862,10 @@
         "question": "Among the rare-earth nitride (REN) family, GdN is the most thoroughly studied[6; 7; 8; 9; 10] compound. The Gd\\({}^{3+}\\) ion has half filled 4\\(f\\) shell with spin moment[11] of 7\\(\\mu_{B}\\). Its nitride is now a well established ferromagnetic semiconductor[6] with T\\({}_{C}\\)=70 K, though a lower[12; 13] T\\({}_{C}\\)=30 K is also reported. It has an optical energy gap[12; 13; 14] of 1.3 eV in its paramagnetic state and 0.98 eV in ferromagnetic state. Most of the other RENs are known to be ferromagnetic with lower Curie temperatures; the exception[15] is EuN, which cannot order due to the \\(J=0\\) state of the 4\\(f\\) shell in Eu\\({}^{3+}\\).Based on the provided text, which of the following statements best explains why GdN has different optical energy gaps in its paramagnetic and ferromagnetic states?",
         "choices": {
             "text": [
-                "B: The ion size of Gd\resulting in varying energy gaps.",
-                "C: GdN's Curie temperature determines the optical energy gap.",
-                "A: The change in magnetic order from paramagnetic to ferromagnetic state affects the electronic structure of GdN.",
-                "D: The half-filled 4f shell of Gd\results in different optical energy gaps."
+                "The ion size of Gd\resulting in varying energy gaps.",
+                "GdN's Curie temperature determines the optical energy gap.",
+                "The change in magnetic order from paramagnetic to ferromagnetic state affects the electronic structure of GdN.",
+                "The half-filled 4f shell of Gd\results in different optical energy gaps."
             ],
             "label": [
                 "A",
@@ -1924,10 +1920,10 @@
         "question": "There are decades-old reports[18; 19] of absorption edges of almost all RENs, with the exception of CeN and PmN, though it is now recognised that those early materials were subject to the formation of nitrogen vacancies and decomposition as oxides in air. In particular DyN has been reported to show an onset of absorption ranging[18; 19; 20] from 2.9 eV to 0.91 eV. Preston[16]_et al._ reported the measured gap value of \\(\\sim\\) 1.5 eV between x-ray absorption and emission spectroscopies. In the wake of these widely deviating claims, there is a vital need for a systematic experimental study of DyN. Here we report reflection/transmission measurements from 0.5 eV to 5.0 eV to determine the optical gap and seek evidence of optical transitions above gap, and far infrared reflection measurements of the zone-center phonon frequency.\n\nExperimental detailsWhat primarily motivated the authors to conduct the study on DyN, as detailed in the provided text?",
         "choices": {
             "text": [
-                "B. The lack of any previous measurements related to DyN's optical properties in the literature.",
-                "A. The need to address the widely varying reports of DyN's absorption onset and systematically determine its optical properties.",
-                "C. The discovery of new methods for measuring the zone-center phonon frequency.",
-                "D. The recent advancements in theoretical predictions about DyN's optical gap."
+                "The lack of any previous measurements related to DyN's optical properties in the literature.",
+                "The need to address the widely varying reports of DyN's absorption onset and systematically determine its optical properties.",
+                "The discovery of new methods for measuring the zone-center phonon frequency.",
+                "The recent advancements in theoretical predictions about DyN's optical gap."
             ],
             "label": [
                 "A",
@@ -2765,10 +2761,10 @@
         "question": "To readily compare the computed data with the corresponding experimental values, it is necessary to calculate their chemical shift by choosing an appropriate reference material. Experimentally, most of the reference compounds for solid state NMR are molecules dissolved in water or an organic solvent, which are not well suited for calculations with our methodology. Our approach for overcoming this obstacle was therefore to choose solid reference compounds (_secondary reference_), with known experimental chemical shifts with respect to the standard liquid reference compounds (_primary reference_) recommended by IUPAC [46]. In Table 1 the solid reference compounds used in the present study are reported, along with their experimental chemical shifts (\\(\\delta_{iso}^{ref}\\)) and their computed isotropic shielding values (\\(\\sigma_{iso}^{ref}\\)). When more than one value for the experimental chemical shift was available, a range of computed NMR shifts is reported.Based on the excerpt, why is it necessary to choose solid reference compounds (_secondary reference_) when comparing computed data to experimental values in solid state NMR studies?",
         "choices": {
             "text": [
-                "A: Because solid reference compounds have known experimental chemical shifts with respect to the standard liquid reference compounds recommended by IUPAC, making them suitable for use in calculations.",
-                "D: Because solid reference compounds are generally more abundant and less expensive than liquid reference compounds.",
-                "B: Because solid reference compounds are easier to dissolve in water or organic solvents, facilitating better experimental comparisons.",
-                "C: Because the primary references typically used are only suitable for gas-phase NMR studies, not for solid state studies."
+                "Because solid reference compounds have known experimental chemical shifts with respect to the standard liquid reference compounds recommended by IUPAC, making them suitable for use in calculations.",
+                "Because solid reference compounds are generally more abundant and less expensive than liquid reference compounds.",
+                "Because solid reference compounds are easier to dissolve in water or organic solvents, facilitating better experimental comparisons.",
+                "Because the primary references typically used are only suitable for gas-phase NMR studies, not for solid state studies."
             ],
             "label": [
                 "A",
@@ -3229,10 +3225,10 @@
         "question": "Laser systems based only on III-V semiconductors are in a region where the dielectric contrast between each pair of materials is low, and thus the interfacial polarization is small. In our model, this corresponds to low \\(\\epsilon\\) and \\(f_{I}\\to 0\\). On the other hand, non-volatile single electron memory systems generally contain narrow gap nanocrystals (_e.g._ Si, InAs, GaSb) embedded inside wide gap layers (_e.g._ III-nitrides, AlAs, silica) for greater reliability. Therefore they lie in a regime where the interfacial polarization may be large, much like that for the photovoltaic systems discussed above. However, unlike photovoltaic systems, these devices often have tunable potentials, with barriers that are often thicker than 10 nm. Therefore only the image effects at the QD/barrier interface are important, or in terms of our model parameters: a high \\(\\epsilon\\) and \\(f_{I}\\to 0\\).Based on the provided text, what is the primary reason that non-volatile single electron memory systems tend to contain narrow gap nanocrystals embedded inside wide gap layers?",
         "choices": {
             "text": [
-                "D. They aim to maximize the thickness of the tunable potentials beyond 10 nm.",
-                "C. They are designed to minimize dielectric contrast for enhanced performance.",
-                "A. They require greater reliability, which is achieved by having large interfacial polarization.",
-                "B. They need to have a lower interfacial polarization than III-V semiconductor laser systems."
+                "They aim to maximize the thickness of the tunable potentials beyond 10 nm.",
+                "They are designed to minimize dielectric contrast for enhanced performance.",
+                "They require greater reliability, which is achieved by having large interfacial polarization.",
+                "They need to have a lower interfacial polarization than III-V semiconductor laser systems."
             ],
             "label": [
                 "A",
@@ -3258,10 +3254,10 @@
         "question": "Quantum dot emitters are often embedded in high dielectric materials, and therefore have little dielectric contrast with their surroundings. This limits the light collection efficiency, and there is thus a growing interest in systems with QDs coupled to optical fibers [18], or embedded in host materials such as photonic crystals [19], MgS [20], and porous silicon [21]. In addition, large confinement potentials in these cutting edge systems would also remove the limitation of operating only at low temperatures. From the foregoing discussion, and the details presented below,\n\n\\begin{table}\n\\begin{tabular}{l} \\hline \\hline\n**low**\\(\\epsilon\\): III-V and II-VI systems of epitaxial QD layers \\\\ \\hline optically and electrically pumped emitters \\\\ volatile single electron memory \\\\ QD lasers \\\\ \\hline \\hline \\end{tabular}\n\\end{table}Based on the provided text excerpt, what is one primary reason for embedding Quantum Dots (QDs) in materials like photonic crystals or MgS?",
         "choices": {
             "text": [
-                "C. To lower the manufacturing cost of optically and electrically pumped emitters.",
-                "B. To increase the thermal stability of the quantum dot emitters.",
-                "A. To enhance the light collection efficiency by providing better dielectric contrast and accommodating large confinement potentials.",
-                "D. To improve the mobility of electrons in volatile single electron memory applications."
+                "To lower the manufacturing cost of optically and electrically pumped emitters.",
+                "To increase the thermal stability of the quantum dot emitters.",
+                "To enhance the light collection efficiency by providing better dielectric contrast and accommodating large confinement potentials.",
+                "To improve the mobility of electrons in volatile single electron memory applications."
             ],
             "label": [
                 "A",
@@ -3664,10 +3660,10 @@
         "question": "Note that in the above expression, both series start at \\(l=1\\) because the monopole contribution from the induced charge on the image sphere is explicitly taken into account by the last term. In the derivation of the formula for \\(\\Sigma_{0}\\), we followed Banayi _et al_Banayi _et al_ (1997) to separate the divergent terms of the multipole series and sum them to identify closed form expressions that can be regularized (see Appendix B). The form of our expressions is slightly different from theirs due to the zeroth order multipole contribution written explicitly in our formula, while it is subsumed into the series in theirs. It represents the part of energy stored in the dielectric medium of infinite extent when a charge is embedded inside it. Here this energy is for the QD dielectric relative to the barrier medium. In both the above formulas, \\(S_{l}(\\rho)\\) equals \\(\\rho^{l}\\) for \\(\\rho<1\\) and \\(\\rho^{-(l+1)}\\) otherwise.In the context of the provided excerpt, what is the main reason for the difference in the form of expressions derived by the authors compared to those by Banayi et al. (1997)? Note that in the above expression, both series start at \\\\(l=1\\\\) because the monopole contribution from the induced charge on the image sphere is explicitly taken into account by the last term. In the derivation of the formula for \\\\\\\\(\\\\\\\\Sigma_{0}\\\\\\\\\\\\\\\\), we followed Banayi _et al_Banayi _et al_ (1997) to separate the divergent terms of the multipole series and sum them to identify closed form expressions that can be regularized (see Appendix B). The form of our expressions is slightly different from theirs due to the zeroth order multipole contribution written explicitly in our formula, while it is subsumed into the series in theirs. It represents the part of energy stored in the dielectric medium of infinite extent when a charge is embedded inside it. Here this energy is for the QD dielectric relative to the barrier medium. In both the above formulas, \\\\(S_{l}(\rho)\\\\) equals \\\\(\rho^{l}\\\\) for \\\\(\rho<1\\\\) and \\\\(\rho^{-(l+1)}\\\\) otherwise.",
         "choices": {
             "text": [
-                "C: Banayi et al. omit the monopole contribution from the image charge in their derivation.",
-                "B: The authors' formula includes additional non-multipole terms not considered by Banayi et al.",
-                "D: The energy stored in the dielectric medium is given a different mathematical treatment by the authors compared to Banayi et al.",
-                "A: The zeroth-order multipole contribution is explicitly written in the authors' formula, whereas it is subsumed into the series in Banayi et al.'s work."
+                "Banayi et al. omit the monopole contribution from the image charge in their derivation.",
+                "The authors' formula includes additional non-multipole terms not considered by Banayi et al.",
+                "The energy stored in the dielectric medium is given a different mathematical treatment by the authors compared to Banayi et al.",
+                "The zeroth-order multipole contribution is explicitly written in the authors' formula, whereas it is subsumed into the series in Banayi et al.'s work."
             ],
             "label": [
                 "A",
@@ -3867,10 +3863,10 @@
         "question": "Finally, we remark that in our calculations, we compute the electrostatic potential and the QD states using high frequency dielectric constants for each material (denoted commonly as \\(\\epsilon_{\\infty}\\)). This is so because we ignore the time-dependence of a single tunneling event, and thus model tunneling as instantaneous. To be consistent with this viewpoint, or this regime of tunneling, we must take the material response to be of high frequency. Thus the initial and final states of the above matrix element are computed using \\(\\epsilon_{\\infty}\\). We now turn to results of our calculations employing the above model.\n\n## III Results\n\n### Potential and wavefunctionsIn the provided text, why is it necessary to use the high frequency dielectric constants (\n \b epsilon_{\n \b ∞}) in the calculations of the electrostatic potential and Quantum Dot (QD) states?",
         "choices": {
             "text": [
-                "D. Because it simplifies the complexity of the electrostatic potential calculations without considering the material properties.",
-                "C. Because the initial and final states of the matrix element are computed using low-frequency dielectric constants.",
-                "A. Because the model treats tunneling as an instantaneous event, requiring the material response to be of high frequency.",
-                "B. Because it allows for the inclusion of time-dependent effects in the tunneling process."
+                "Because it simplifies the complexity of the electrostatic potential calculations without considering the material properties.",
+                "Because the initial and final states of the matrix element are computed using low-frequency dielectric constants.",
+                "Because the model treats tunneling as an instantaneous event, requiring the material response to be of high frequency.",
+                "Because it allows for the inclusion of time-dependent effects in the tunneling process."
             ],
             "label": [
                 "A",
@@ -4014,7 +4010,6 @@
             "text": [
                 "The electron wavefunctions become more delocalized near the metallic boundary.",
                 "The electron wavefunctions become more delocalized regardless of the boundary condition.",
-                "A",
                 "The electron wavefunctions are unaffected by the type of boundary condition.",
                 "The electron wavefunctions become more localized near the metallic boundary due to the full image effect."
             ],
@@ -4246,13 +4241,9 @@
         "choices": {
             "text": [
                 "Walker Bloch DWs calculations do not depend on the DW profile.",
-                "D",
                 "Materials containing heavy elements have intrinsically low SOC.",
-                "A",
-                "B",
                 "The adiabatic DW resistance rises quadratically with \\\\(\\xi_{\\rm SO}\\\\) up to a specific point.",
-                "The SOC in Py is notably small.",
-                "C"
+                "The SOC in Py is notably small."
             ],
             "label": [
                 "A",
@@ -4278,10 +4269,10 @@
         "question": "Neel and rotated Neel DWs.--Figure 4 shows the DWRs of Walker-profile Neel and rotated Neel DWs (solid lines) which contain a contribution from AMR. For sufficiently small values of \\(\\lambda_{\\rm W}\\), the DWR increases with decreasing DW width because of large magnetization mistracking and its behaviour is essentially independent of the DW type. For large values of \\(\\lambda_{\\rm W}\\), the DWR decreases for Neel walls and increases for rotated Neel walls essentially linearly as a function of \\(\\lambda_{\\rm W}\\). This behaviour can be understood in terms of the AMR. When the magnetization is parallel to the current direction, the resistivity \\(\\rho_{\\parallel}\\) of collinear Py is 20% larger than \\(\\rho_{\\perp}\\), the value found when the magnetization is perpendicular to the current direction. In general, the local resistivity depends on the angle \\(\\theta\\) between magnetization and current as \\(\\rho(\\theta)=\\rho_{\\parallel}\\cos^{2}\\theta+\\rho_{\\perp}\\sin^{2}\\theta\\)[12]. For DWs much longer than the spin-flip diffusion length \\(l_{\\rm sf}\\), we can estimate the contribution that the AMR makes to the DWR \\(R_{\\rm AMR}^{\\rm N}\\) of Neel and \\(R_{\\rm AMR}^{\\rm RN}\\) of rotated Neel DWs asThe provided text describes the dependency of DW resistivity (DWR) on \\\\(\\lambda_{\\rm W}\\\\) and how AMR influences this relationship. Which of the following statements correctly identifies the causal relationship between \\\\(\\lambda_{\\rm W}\\\\) and the behavior of DWR for Neel and rotated Neel DWs?",
         "choices": {
             "text": [
-                "C) For all values of \\\\(\\lambda_{\\rm W}\\\\), DWR behavior is independent of the type of domain wall due to the uniformity of magnetization trends.",
-                "A) For large \\\\(\\lambda_{\\rm W}\\\\), DWR decreases for Neel walls and increases for rotated Neel walls due to the anisotropic magnetoresistance (AMR) contribution.",
-                "B) For small \\\\(\\lambda_{\\rm W}\\\\), DWR increases for Neel walls and decreases for rotated Neel walls because the angle between magnetization and current direction increases.",
-                "D) For large \\\\(\\lambda_{\\rm W}\\\\), both Neel and rotated Neel walls exhibit a linear increase in DWR because the local resistivity \\\\rho(\\\\theta) depends equally on \\\\(\\rho_{\\parallel}\\\\) and \\\\(\\rho_{\\perp}\\\\)."
+                "For all values of \\\\(\\lambda_{\\rm W}\\\\), DWR behavior is independent of the type of domain wall due to the uniformity of magnetization trends.",
+                "For large \\\\(\\lambda_{\\rm W}\\\\), DWR decreases for Neel walls and increases for rotated Neel walls due to the anisotropic magnetoresistance (AMR) contribution.",
+                "For small \\\\(\\lambda_{\\rm W}\\\\), DWR increases for Neel walls and decreases for rotated Neel walls because the angle between magnetization and current direction increases.",
+                "For large \\\\(\\lambda_{\\rm W}\\\\), both Neel and rotated Neel walls exhibit a linear increase in DWR because the local resistivity \\\\rho(\\\\theta) depends equally on \\\\(\\rho_{\\parallel}\\\\) and \\\\(\\rho_{\\perp}\\\\)."
             ],
             "label": [
                 "A",
@@ -4394,10 +4385,10 @@
         "question": "Conclusions.--A first-principles study of the resistance of Permalloy DWs underlines the importance of SOC. The total DWR in diffusive systems originates from magnetization mistracking, an adiabatic DWR, and AMR. In narrow DWs, magnetization mistracking leads to a large DWR that is independent of the DW type, is inversely proportional to the DW width and is dominated by spin-conserving scattering. The adiabatic DWR, which arises from the spin-flip scattering as a consequence of SOC,Based on the provided text snippet, which of the following is the primary cause of a large domain wall resistance (DWR) in narrow domain walls?",
         "choices": {
             "text": [
-                "C. Adiabatic DWR originating from spin-flip scattering due to SOC.",
-                "D. Anisotropic magnetoresistance (AMR) factors in diffusive systems.",
-                "B. The type of domain wall present in the material.",
-                "A. Magnetization mistracking that is dominated by spin-conserving scattering."
+                "Adiabatic DWR originating from spin-flip scattering due to SOC.",
+                "Anisotropic magnetoresistance (AMR) factors in diffusive systems.",
+                "The type of domain wall present in the material.",
+                "Magnetization mistracking that is dominated by spin-conserving scattering."
             ],
             "label": [
                 "A",
@@ -4452,10 +4443,10 @@
         "question": "We would like to thank Kjetil Hals and Gerrit Bauer for helpful discussions. This work was supported by EU FP7 Contract No. NMP3-SL-2009-233513 MONAMI and ICT Grant No. 251759 MACALO. It also forms part of the research programme of \"Stichting voor Fundamenteel Onderzoek der Materie\" (FOM) and the use of supercomputer facilities was sponsored by the \"Stichting Nationale Computer Faciliteiten\" (NCF), both of which are financially supported by the \"Nederlandse Organisatie voor Wetenschappelijk Onderzoek\" (NWO).\n\n##Based on the text, which of the following explanations best describes why the use of supercomputer facilities was possible?",
         "choices": {
             "text": [
-                "D: The utilization of supercomputer facilities was funded by ICT Grant No. 251759 MACALO.",
-                "C: The use of supercomputer facilities was sponsored by the EU FP7 Contract No. NMP3-SL-2009-233513 MONAMI.",
-                "B: The availability of supercomputer facilities was a result of helpful discussions with Kjetil Hals and Gerrit Bauer.",
-                "A: The use of supercomputer facilities was sponsored by the 'Stichting Nationale Computer Faciliteiten' (NCF)."
+                "The utilization of supercomputer facilities was funded by ICT Grant No. 251759 MACALO.",
+                "The use of supercomputer facilities was sponsored by the EU FP7 Contract No. NMP3-SL-2009-233513 MONAMI.",
+                "The availability of supercomputer facilities was a result of helpful discussions with Kjetil Hals and Gerrit Bauer.",
+                "The use of supercomputer facilities was sponsored by the 'Stichting Nationale Computer Faciliteiten' (NCF)."
             ],
             "label": [
                 "A",
@@ -4539,10 +4530,10 @@
         "question": "This observation displays a serious shortcoming of, let us call it, the ordinary GL theory for two-band superconductors. Physically, the spatial characteristics of the band condensates, e.g., the healing lengths, must be generally different. Therefore, the important physics coming from the disparity between the spatial characteristics of the different band condensates is not captured by the ordinary GL approach. Notice that many phenomena of current interest are directly related to the difference in the healing lengths of the band condensates, such as, e.g., the non-monotonic interaction between vortices, [7] being a possible explanation [8] for highly debated unusual vortex configurations observed in MgB\\({}_{2}\\) and Ba(Fe\\({}_{0.95}\\)Co\\({}_{0.05}\\))\\({}_{2}\\)As\\({}_{2}\\), see Refs. [9; 10].Based on the provided text, what is a primary reason for using a modified GL theory in the study of two-band superconductors?",
         "choices": {
             "text": [
-                "D) The ordinary GL theory incorrectly models the magnetic properties of superconductors at all temperature ranges.",
-                "A) The ordinary GL theory fails to account for the varying healing lengths of different band condensates, which are crucial for explaining phenomena such as non-monotonic interaction between vortices.",
-                "B) The ordinary GL theory cannot predict the existence of superconducting states in materials like MgB\\({}_{2}\\\\) and Ba(Fe\\\\({}_{0.95}\\\\)Co\\\\({}_{0.05}\\\\))\\\\({}_{2}\\\\)As\\\\({}_{2}\\\\).",
-                "C) The ordinary GL theory does not incorporate the temperature dependence of superconductivity in two-band systems."
+                "The ordinary GL theory incorrectly models the magnetic properties of superconductors at all temperature ranges.",
+                "The ordinary GL theory fails to account for the varying healing lengths of different band condensates, which are crucial for explaining phenomena such as non-monotonic interaction between vortices.",
+                "The ordinary GL theory cannot predict the existence of superconducting states in materials like MgB\\({}_{2}\\\\) and Ba(Fe\\\\({}_{0.95}\\\\)Co\\\\({}_{0.05}\\\\))\\\\({}_{2}\\\\)As\\\\({}_{2}\\\\).",
+                "The ordinary GL theory does not incorporate the temperature dependence of superconductivity in two-band systems."
             ],
             "label": [
                 "A",
@@ -4597,10 +4588,10 @@
         "question": "Such enormous difficulties stimulated a search for an extended GL formalism that would retain the simplicity of the ordinary GL equations. Since the development of the original GL theory, many variants of its extension have been proposed (see, e.g., Refs. [14; 15; 16; 17; 18; 19; 20; 21; 22]). The most straightforward procedure is to continue the expansion of the free energy functional by including higher powers of the order parameter(s) and its spatial gradients. Unfortunately, as is known, this procedure introduces additional difficulties. One of them is the problem of selecting all relevant contributions of the same order of magnitude, which is not trivial for the terms that contain spatial derivatives of the order parameter(s). Another problem is related to increased nonlinearity and to the appearance of higher-order spatial derivatives in the resulting equations. Analysis of such nonlinear equations is not only considerably more complicated [20; 22] but can also suffer from unphysical solutions, such as that with a characteristic length-scale much smaller than the GL coherence length. [23]What was a key reason for the search for an extended GL formalism as discussed in the text?",
         "choices": {
             "text": [
-                "B. The original GL equations were too simple and required added complexity for accuracy.",
-                "C. The expansion of the free energy functional was straightforward and required no further adaptation.",
-                "A. The original GL equations presented significant difficulties that needed addressing.",
-                "D. The solutions to the original GL equations were mostly physical and thus needed no change."
+                "The original GL equations were too simple and required added complexity for accuracy.",
+                "The expansion of the free energy functional was straightforward and required no further adaptation.",
+                "The original GL equations presented significant difficulties that needed addressing.",
+                "The solutions to the original GL equations were mostly physical and thus needed no change."
             ],
             "label": [
                 "A",
@@ -4626,10 +4617,10 @@
         "question": "It has recently been demonstrated [6; 24] that these problems can be overcome if one directly employs the proximity of the system to the critical temperature, i.e., using \\(\\tau=1-T/T_{c}\\) as a single small parameter in the system rather than the order parameter and its spatial derivatives. As is well known from the GL theory, \\(\\tau\\) controls all the relevant quantities and their spatial gradients. Within this approach, the GL theory and its extension follow from the systematic \\(\\tau\\)-expansion of the free energy and the gap equation. An important advantage of using the \\(\\tau\\)-expansion is that the extension to the GL theory is specified by linear differential equations that do not have unphysical solutions and can be easily solved numerically and, in many cases, even analytically. For the two-band system this approach has been briefly outlined in Ref. [6] where the main steps of the derivation were presented and the prime physical conclusions were discussed, namely, that the difference between the spatial profiles of the band condensates is captured in the leading correction to the ordinary GL theory. For the sake of clarity the analysis in that work has been restricted to the case of zero magnetic field. Validity and accuracy of the obtained equations have not been discussed. Subsequently, in Ref. [24] we have provided details of the derivation of the extended GL theory for a single-band clean superconductor with the \\(s\\)-wave pairing in the general case of a non-zero magnetic field.Based on the provided text, why is the \\\\(\\\\tau\\\\) parameter employed in the system instead of the order parameter and its spatial derivatives?",
         "choices": {
             "text": [
-                "B: Because the order parameter and its spatial derivatives do not influence the behavior of the system near the critical temperature.",
-                "D: Because the \\\\(\\\\tau\\\\)-expansion requires a zero magnetic field for the two-band system to be analytically solvable.",
-                "C: Because using the order parameter and its spatial derivatives would result in equations with unphysical solutions that are difficult to solve numerically.",
-                "A: Because \\\\(\\\\tau\\\\) controls all the relevant quantities and their spatial gradients, allowing for a more systematic extension of the GL theory through a \\\\(\\\\tau\\\\)-expansion of the free energy and gap equation."
+                "Because the order parameter and its spatial derivatives do not influence the behavior of the system near the critical temperature.",
+                "Because the \\\\(\\\\tau\\\\)-expansion requires a zero magnetic field for the two-band system to be analytically solvable.",
+                "Because using the order parameter and its spatial derivatives would result in equations with unphysical solutions that are difficult to solve numerically.",
+                "Because \\\\(\\\\tau\\\\) controls all the relevant quantities and their spatial gradients, allowing for a more systematic extension of the GL theory through a \\\\(\\\\tau\\\\)-expansion of the free energy and gap equation."
             ],
             "label": [
                 "A",
@@ -4655,10 +4646,10 @@
         "question": "With latter works as a basis, we here continue the development of the extended GL model, by now giving a detailed derivation of the _extended GL formalism for a two-band system by means of a systematic expansion in \\(\\tau\\)_. Unlike Ref. [6], where the formalism was obtained after two coupled gap equations had been explicitly separated, here we find the series expansion in \\(\\tau\\) for the original system of the two equations for two band order parameters in the matrix form. While being more transparent and intuitively clear, this approach significantly simplifies the technical aspects and also allows a generalization to the case of multiple contributing bands.Based on the provided text, what is the primary advantage of employing the series expansion in \\\\(\\tau\\\\) for the original system of two equations for two band order parameters in the matrix form?",
         "choices": {
             "text": [
-                "B: It allows for the precise isolation of individual gap equations in the system.",
-                "A: It simplifies the technical aspects and permits generalization to multiple contributing bands.",
-                "D: It eliminates the need for any expansion method in the system analysis.",
-                "C: It reduces the overall computational power necessary for solving the equations."
+                "It allows for the precise isolation of individual gap equations in the system.",
+                "It simplifies the technical aspects and permits generalization to multiple contributing bands.",
+                "It eliminates the need for any expansion method in the system analysis.",
+                "It reduces the overall computational power necessary for solving the equations."
             ],
             "label": [
                 "A",
@@ -4974,10 +4965,10 @@
         "question": "As has been pointed out in our analysis of the single-band case in Ref. [24], a natural remedy to this difficulty is to utilize the fact that all relevant quantities of the problem, including the coherence length(s), are controlled by the same small parameter \\(\\tau=1-T/T_{c}\\). Constructing the perturbation series in \\(\\tau\\), one can employ a strategy similar to the so-called asymptotic boundary layer approach in mathematical physics.[27; 28] Employing standard recipes of the latter approach, taken together with the basic information from Eqs. (1), (4), (7), and (8), we introduce the following scaling:\n\n\\[\\Delta_{\\nu}=\\tau^{1/2}\\bar{\\Delta}_{\\nu},\\,\\mathbf{r}=\\tau^{-1/2}\\bar{\\mathbf{r }},\\,\\mathbf{A}=\\tau^{1/2}\\bar{\\mathbf{A}},\\,f=\\tau^{2}\\vec{f}, \\tag{10}\\]In the given text, what is the primary reason for introducing the scaling transformations in Eq. (10) for the quantities \\\\(\tau=1-T/T_{c}\\\\), \\\\(\bar{\boldmath{\\Delta}}_{\nu}\\\\), \\\\(\bar{\boldmath{A}}\\\\), and \\\\(\bar{\boldmath{r}}\\\\)?\\\\",
         "choices": {
             "text": [
-                "B. To ensure that the coherence length remains invariant under transformations of \\\\(\tau\\\\).",
-                "C. To simplify the expressions in Eqs. (1), (4), (7), and (8) by eliminating the dependence on temperature.",
-                "D. To maintain the consistency of the basic parameters with experimental observations.",
-                "A. To facilitate the construction of a perturbation series in \\\\(\tau\\\\), allowing the use of asymptotic boundary layer methods."
+                "To ensure that the coherence length remains invariant under transformations of \\\\(\tau\\\\).",
+                "To simplify the expressions in Eqs. (1), (4), (7), and (8) by eliminating the dependence on temperature.",
+                "To maintain the consistency of the basic parameters with experimental observations.",
+                "To facilitate the construction of a perturbation series in \\\\(\tau\\\\), allowing the use of asymptotic boundary layer methods."
             ],
             "label": [
                 "A",
@@ -5293,10 +5284,10 @@
         "question": "Equation (25) leads to the conclusion noted earlier in Refs. [5; 6], that to the leading order in \\(\\tau\\), the band order parameters are strictly proportional to one another \\(\\Delta^{(0)}_{1}(\\mathbf{r})\\propto\\Delta^{(0)}_{2}(\\mathbf{r})\\), where their position dependence is governed by \\(\\psi(\\mathbf{r})\\). However, unlike the analysis of the earlier works, following the separation of the band components in the matrix gap equation, here the proportionality is established already in the leading order of the \\(\\tau\\)-expansion of the matrix gap equation, following simply from the form of a solution consistent with the equation for \\(T_{c}\\).\n\n### Ordinary GL theory\n\nAs the next step, we calculate the functional derivative of the free-energy with density \\(f^{(0)}\\) [see Eq. (16)] with respect to \\(\\Delta^{(0)*}_{\\nu}\\), which yields\n\n\\[\\bar{L}\\vec{\\Delta}^{(1)}+\\vec{W}[\\vec{\\Delta}^{(0)}]=0, \\tag{27}\\]\n\nwhere the band components \\(W_{\\nu}\\) of \\(\\vec{W}\\) are given byBased on the snippet provided, what is the reason for establishing the proportionality between the band order parameters \\\\(\\\\Delta^{(0)}_{1}(\\\\mathbf{r})\\\\propto\\\\Delta^{(0)}_{2}(\\\\mathbf{r})\\\\) to the leading order in \\\\(\\\\\tau\\\\)?",
         "choices": {
             "text": [
-                "C: The band order parameters are proportional due to their position dependence being governed by \\\\(\\\\\\psi(\\\\mathbf{r})\\\\\\",
-                "A: The separation of the band components in the matrix gap equation leads to the proportionality already in the leading order of the \\\\\tau\\\\-expansion, consistent with the equation for \\\\(\\\\\\T_{c}\\\\\").",
-                "D: The proportionality stems from the earlier analysis in Refs. [5; 6] that did not consider the \\\\(\\\\tau\\\\)-expansion at all.",
-                "B: The proportionality is a direct consequence of the form of the free-energy density \\\\(\\\f^{(0)}\\\\)\\\n with respect to \\\\(\\\\Delta^{(0)*}{{\nu}}\\\\)."
+                "The band order parameters are proportional due to their position dependence being governed by \\\\(\\\\\\psi(\\\\mathbf{r})\\\\\\",
+                "The separation of the band components in the matrix gap equation leads to the proportionality already in the leading order of the \\\\\tau\\\\-expansion, consistent with the equation for \\\\(\\\\\\T_{c}\\\\\").",
+                "The proportionality stems from the earlier analysis in Refs. [5; 6] that did not consider the \\\\(\\\\tau\\\\)-expansion at all.",
+                "The proportionality is a direct consequence of the form of the free-energy density \\\\(\\\f^{(0)}\\\\)\\\n with respect to \\\\(\\\\Delta^{(0)*}{{\nu}}\\\\)."
             ],
             "label": [
                 "A",
@@ -6018,10 +6009,10 @@
         "question": "As seen, \\(\\varphi_{-}\\) becomes small when all the coefficients \\(\\alpha\\), \\(\\beta\\) and \\(\\Gamma\\) approach zero. This is true for almost equivalent bands, but the length-scales are trivially expected to match each other in this case. Less trivial is the case when \\(\\alpha-(\\Gamma/\\mathcal{K})a=\\beta-(\\Gamma/\\mathcal{K})b=0\\). This may be achieved for nonequivalent bands and for this case the condensates remain \"spatially equivalent\" in the next-to-leading order in \\(\\tau\\). Another nontrivial case is \\(G\\to 0\\) (seeAs seen, \\(\\varphi_{-}\\) becomes small when all the coefficients \\(\\alpha\\), \\(\\beta\\) and \\(\\Gamma\\) approach zero. This is true for almost equivalent bands, but the length-scales are trivially expected to match each other in this case. Less trivial is the case when \\(\\alpha-(\\Gamma/\\mathcal{K})a=\\beta-(\\Gamma/\\mathcal{K})b=0\\). This may be achieved for nonequivalent bands and for this case the condensates remain 'spatially equivalent' in the next-to-leading order in \\(\\tau\\). Another nontrivial case is \\(G\\to 0\\) (see...). Why do the length-scales trivially match each other when \\(\\varphi_{-}\\) becomes small?",
         "choices": {
             "text": [
-                "C. The length-scales match due to \\(G\\) approaching zero instead of \\(\\alpha\\), \\(\\beta\\) and \\(\\Gamma\\).",
-                "A. The coefficients \\(\\alpha\\), \\(\\beta\\), and \\(\\Gamma\\) approaching zero cause equivalent bands resulting in matching length-scales.",
-                "D. The equivalence of bands matters less than the nonequivalence in determining matching length-scales.",
-                "B. The coefficients \\(\\alpha\\) and \\(\\beta\\) being proportional causes the length-scales to match."
+                "The length-scales match due to \\(G\\) approaching zero instead of \\(\\alpha\\), \\(\\beta\\) and \\(\\Gamma\\).",
+                "The coefficients \\(\\alpha\\), \\(\\beta\\), and \\(\\Gamma\\) approaching zero cause equivalent bands resulting in matching length-scales.",
+                "The equivalence of bands matters less than the nonequivalence in determining matching length-scales.",
+                "The coefficients \\(\\alpha\\) and \\(\\beta\\) being proportional causes the length-scales to match."
             ],
             "label": [
                 "A",
@@ -6511,14 +6502,10 @@
         "question": "Figure 2: (Colour online) The band excitation gaps \\(\\Delta_{1,2}\\), and the thermodynamic critical magnetic field \\(H_{c}(T)\\) versus \\(T\\) as calculated in the spatially homogeneous case for the material parameters of FeSe\\({}_{0.94}\\) (see the text) from the full BCS gap equation (solid curve), the extended GL theory (dashed curve) and the TC1 (short-dashed curve) and TC2 (dotted curve) models. The interband coupling constant varies as \\(\\lambda_{12}=0.001\\) (a), \\(\\lambda_{12}=0.005\\) (b), \\(\\lambda_{12}=0.03\\) (c) and \\(\\lambda_{12}=0.15\\) (d). Insets in panels (a) and (b) zoom the temperature-dependence for \\(\\Delta_{2}\\) in the vicinity of \\(T_{c}\\) where the results of the extended GL theory almost coincide with the BCS curve.\n\ncalculated from the other equation, exhibits a poor accuracy in this temperature range because \\(T^{*}\\) is sufficiently smaller than \\(T_{c}\\) (\\(T_{c}\\) approaches the critical temperature of the stronger-band taken as an independent system in the limit \\(\\lambda_{12}\\to 0\\)).Based on the described calculations of the band excitation gaps (Δ₁, Δ₂) and the thermodynamic critical magnetic field (H_c(T)) for different interband coupling constants (λ₁₂) in FeSe₀.₉₄, what primarily affects the accuracy of the extended GL theory in the vicinity of T_c?",
         "choices": {
             "text": [
-                "D",
-                "A",
                 "The inability of the full BCS gap equation to predict accurate magnetic fields.",
                 "The varying interband coupling constants λ₁₂.",
                 "The proximity of T* to T_c.",
-                "The assumption that T_c approaches the critical temperature of the stronger band as an independent system when λ₁₂ → 0.",
-                "B",
-                "C"
+                "The assumption that T_c approaches the critical temperature of the stronger band as an independent system when λ₁₂ → 0."
             ],
             "label": [
                 "A",
@@ -6631,10 +6618,10 @@
         "question": "Unlike the analysis in our earlier work [6] based on an explicit separation of the two coupled gap equations, the direct application of the \\(\\tau\\)-expansion procedure to the matrix gap equation is technically simpler, more elegant, offers a more physically transparent interpretation and points the way to a further extension of the derivation to the case of truly multiband superconductors. Straightforward analytical results of the present work reiterate our earlier conclusion [6] that, apart from some very special cases, the band condensates in a two(multi)-band superconductor have generally different spatial length-scales. In addition, the simple structure of the formalism makes it possible to point out a strong relevance of the interplay between the two band condensates that can lead to significant deviations of the properties of the superconductor from the single-band case. In particular, contrary to single-band superconductors, the next-to-leading in \\(\\tau\\) contribution to the thermodynamic critical magnetic field can be of different sign depending on the material parameters in the two-band case, thereby changing the temperature dependence of the critical field from concave to convex.Based on the provided text, which of the following explanations best describes why the \t-tau-expansion procedure is considered advantageous for analyzing multiband superconductors?",
         "choices": {
             "text": [
-                "A: The \t-tau-expansion procedure is technically simpler, offers a more physically transparent interpretation, and facilitates further derivations for multiband superconductors.",
-                "B: The \t-tau-expansion procedure results in identical spatial length-scales for all band condensates.",
-                "D: The \t-tau-expansion procedure eliminates the interplay between the two band condensates, thus simplifying the analysis.",
-                "C: The \t-tau-expansion procedure ensures that the thermodynamic critical magnetic field is always concave."
+                "The \t-tau-expansion procedure is technically simpler, offers a more physically transparent interpretation, and facilitates further derivations for multiband superconductors.",
+                "The \t-tau-expansion procedure results in identical spatial length-scales for all band condensates.",
+                "The \t-tau-expansion procedure eliminates the interplay between the two band condensates, thus simplifying the analysis.",
+                "The \t-tau-expansion procedure ensures that the thermodynamic critical magnetic field is always concave."
             ],
             "label": [
                 "A",
@@ -6818,32 +6805,6 @@
             ]
         },
         "answerKey": "C",
-        "type": "mcq-4-choices",
-        "domain": "Material",
-        "details": {
-            "level": "L2",
-            "task": "reasoning and interpertation",
-            "subtask": "",
-            "source": "Literature Corpus"
-        }
-    },
-    {
-        "prompt": {
-            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
-        },
-        "question": "Figure 1: (a) Crystal structure of the graphene layer where carbon atoms are arranged in a honeycomb lattice. The unit cell of graphene with lattice constant \\(a\\) has two carbon atoms per unit cell, A and B. (b) Electronic dispersion of \\(\\pi\\) and \\(\\pi^{*}\\) states in the honeycomb lattice of free-standing graphene obtained in the framework of tight-binding approach. These branches have linear dispersion in the vicinity of the \\(K\\) points of the Brillouin zone of graphene. (c) Band structure of free-standing graphene as obtained by means of DFT (\\(\\sigma\\), \\(\\pi\\), and \\(\\pi^{*}\\) bands are marked).Given the crystal structure and electronic properties of graphene as described, what is the primary reason for the linear electronic dispersion observed near the K points in the Brillouin zone?",
-        "choices": {
-            "text": [
-                "The arrangement of carbon atoms in a honeycomb lattice leads to the formation of linear \\\\(\\pi\\\\) and \\\\(\\"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "A",
         "type": "mcq-4-choices",
         "domain": "Material",
         "details": {
@@ -7414,7 +7375,6 @@
                 "Because having both types of vacancies uniformly distributed leads to better electrical conductivity.",
                 "Because it is structurally easier to create two Si vacancies than a combination of Si and C vacancies.",
                 "Because investigating the positions of C vacancies helps in understanding the overall stability of the material.",
-                "Because Si vacancies are found to have a more significant impact on the magnetism of Z-SiCNR compared to C vacancies.",
                 "Because Si vacancies are found to have a more significant impact on the magnetism of Z-SiCNR compared to C vacancies."
             ],
             "label": [
@@ -7702,12 +7662,8 @@
         "question": "\\[E_{f}=E[V_{\\rm Si}^{1}Y_{\\rm X}^{i}/6\\mbox{Z-SiCNR}]-E[6\\mbox{Z-SiCNR}]+\\mu_{ \\rm Si}+\\mu_{\\rm X}-\\mu_{\\rm Y}, \\tag{4}\\]\n\nwhere X=Si and Y=B for the \\(V_{\\rm Si}^{1}B_{\\rm Si}^{i}/6\\)Z-SiCNR systems, and X=C and Y=N for \\(V_{\\rm Si}^{1}N_{\\rm C}^{i}/6\\)Z-SiCNR. We used \\(\\alpha\\)-Boron bulk and N\\({}_{2}\\) molecule to obtain B and N chemical potentials, respectively.Based on the energy formation equation provided for the 6Z-SiCNR systems involving defect substitutions, which factor primarily influences the resultant energy difference?",
         "choices": {
             "text": [
-                "D",
-                "B",
                 "The periodicity of the 6Z-SiCNR structure.",
-                "C",
                 "The chemical potentials of Si, X, and Y involved in the substitutions.",
-                "A",
                 "The lattice constant of the defect-free 6Z-SiCNR.",
                 "The atomic quantities of Si, B, and N present in the system."
             ],
@@ -7909,10 +7865,10 @@
         "question": "that defect(vacancy)-induced magnetism does not change either using DFT or DFT+U calculations.[40; 41; 42] Indeed DFT+U calculations will affect the electronic structure of materials. We believe that DFT+U/SIC/GW calculations will not change the magnetism of SiC NRs.\n\n## IV ConclusionsGiven the text: 'that defect(vacancy)-induced magnetism does not change either using DFT or DFT+U calculations.[40; 41; 42] Indeed DFT+U calculations will affect the electronic structure of materials. We believe that DFT+U/SIC/GW calculations will not change the magnetism of SiC NRs.', what is the likely reason for the assertion that DFT+U/SIC/GW calculations will not alter the magnetism of SiC NRs?",
         "choices": {
             "text": [
-                "D. All forms of DFT calculations affect the electronic structure and magnetism equally.",
-                "A. The defect-induced magnetism is inherently stable and not influenced by changes in electronic structure.",
-                "B. The calculations are designed to ignore magnetism in materials.",
-                "C. SiC NRs do not exhibit magnetism, regardless of the calculation method used."
+                "All forms of DFT calculations affect the electronic structure and magnetism equally.",
+                "The defect-induced magnetism is inherently stable and not influenced by changes in electronic structure.",
+                "The calculations are designed to ignore magnetism in materials.",
+                "SiC NRs do not exhibit magnetism, regardless of the calculation method used."
             ],
             "label": [
                 "A",
@@ -8315,10 +8271,10 @@
         "question": "Figure 3: \\(T(E)\\) vs. \\(E\\) for the following \\(sp^{2}\\) bond concentration: (a) 72 %,(b) 42 %,(c) 24 %, and (d) 7.8 %. In subfigures (c) and (d) 3 curves (in color online) correspond to 3 cases of hopping disorder parameter \\(\\delta\\) dependance on \\(E_{\\pi}\\) as shown in Fig. 2(b). The tight-binding parameters are the same as that in Fig. 1(c). The peaks for Model A showed a broader feature than that of case B and C, shown in the insets of Fig. (c) and (d).\n\nFigure 4: (a) Localization length (lower curves) and resistance (upper curves) calculated at \\(E_{res}\\) peaks, which are determined by the factor of disorder as well as the energy distance from the \\(sp^{3}\\) structure band edge. The inset shows \\(L_{loc}\\) at low energies. (b) Variation of FWHM for the transmission peaks \\(E_{res}\\). 3 curves (in color online) correspond to cases A, B and C of hopping disorder parameter \\(\\delta\\) dependance on \\(E_{\\pi}\\) as shown in Fig.2(b).Based on the analysis of Figures 3 and 4, which factor significantly influences the breadth of the transmission peaks in sp2 bond concentrations?",
         "choices": {
             "text": [
-                "A. The concentration of sp3 bond structures.",
-                "D. The energy at which the resistance is calculated.",
-                "B. The distance from the sp3 structure band edge.",
-                "C. The hopping disorder parameter \\\\(\\delta\\\\)."
+                "The concentration of sp3 bond structures.",
+                "The energy at which the resistance is calculated.",
+                "The distance from the sp3 structure band edge.",
+                "The hopping disorder parameter \\\\(\\delta\\\\)."
             ],
             "label": [
                 "A",
@@ -8576,10 +8532,10 @@
         "question": "The thermal conductivity of materials in general is partitioned into charge carriers (i.e., electron or hole) component \\(\\chi_{\\rm e}\\) which depends on the electronic band structure, electron scattering and electron-phonon interaction, and lattice component \\(\\chi_{\\rm L}\\) which depends mainly on phonon and phonon scattering. In dielectrics, \\(\\chi_{L}\\gg\\chi_{e}\\) while in metals the reverse is the case. In semiconductors, the value of the thermal conductivity \\(\\chi\\) is strongly dependent on the composition of the semiconductor, and the value of \\(\\chi_{L}\\) is generally greater than the value of \\(\\chi_{e}\\).Based on the text, which factor primarily influences the thermal conductivity component \\\\(\\\\\text{\\\\(\\\\chi_{\rm e}\\\\)}\\\\) in semiconductor materials?",
         "choices": {
             "text": [
-                "C. The phonon scattering.",
-                "B. The composition of the semiconductor.",
-                "A. The electronic band structure and electron-phonon interaction.",
-                "D. The lattice component of the material."
+                "The phonon scattering.",
+                "The composition of the semiconductor.",
+                "The electronic band structure and electron-phonon interaction.",
+                "The lattice component of the material."
             ],
             "label": [
                 "A",
@@ -9011,10 +8967,10 @@
         "question": "## III. The induced changes in crystal structures\n\n### A. The atomic displacement in the phase transitionsBased on the provided text snippet, which factor most likely drives the atomic displacement observed in phase transitions?",
         "choices": {
             "text": [
-                "C. The interaction of different crystalline phases during synthesis.",
-                "D. The inherent properties of isolated atoms without environmental influence.",
-                "A. The external environmental conditions affecting the crystal lattice structure.",
-                "B. The presence of impurities within the crystal structure."
+                "The interaction of different crystalline phases during synthesis.",
+                "The inherent properties of isolated atoms without environmental influence.",
+                "The external environmental conditions affecting the crystal lattice structure.",
+                "The presence of impurities within the crystal structure."
             ],
             "label": [
                 "A",
@@ -9285,34 +9241,6 @@
             ]
         },
         "answerKey": "C",
-        "type": "mcq-4-choices",
-        "domain": "Material",
-        "details": {
-            "level": "L2",
-            "task": "reasoning and interpertation",
-            "subtask": "",
-            "source": "Literature Corpus"
-        }
-    },
-    {
-        "prompt": {
-            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
-        },
-        "question": "\\[\\left.\\begin{array}{c}G^{100}=G_{LD}^{100}=K_{0}\\\\ G^{10}=G_{LD}^{10}=K_{0}+K_{1}/4\\\\ G^{111}=G_{LD}^{111}=K_{0}+K_{1}/3+K_{2}/27\\end{array}\\right\\}\\] (A.4)\n\nwhere Landau free energy coefficients can be found in Ref. [29] for BaTiO\\({}_{3}\\) and Refs. 25 and 26 for PbZrO\\({}_{3}\\) -xPbTiO\\({}_{3}\\).\n\n**C. Calculating the electrostrictive coefficients \\(\\lambda_{100}\\) and \\(\\lambda_{111}\\)[18]**\n\n\\[\\lambda_{100}\\)=2/3(\\(Q_{11}\\)-\\(Q_{12}\\))\\(\\times\\)\\(P_{s}\\)\\({}^{2}\\] (A.5)\n\n\\[\\lambda_{111}\\)=1/3\\(Q_{44}\\)\\(\\times\\)\\(P_{s}\\)\\({}^{2}\\] (A.6)\n\nReference\n\n##Based on the provided equations for Landau free energy and electrostrictive coefficients, which of the following best describes the relationship between the coefficients \\\\(G^{100}, G^{10}, G^{111}\\\\) and their dependence on the constants \\\\(K_{0}, K_{1}, K_{2}\\\\)?",
-        "choices": {
-            "text": [
-                "The variation in \\\\(G\\\\) values for different orientations (\\",
-                "wrong_option_1 \\(All orientations (\\\\(100, 10, 111\\\\)\\",
-                "wrong_option_2. The variation is solely due to changes in the base constant \\\\(K_{0}\\\\).\\"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "A",
         "type": "mcq-4-choices",
         "domain": "Material",
         "details": {
@@ -9967,10 +9895,10 @@
         "question": "In the present analysis the strong attractive interaction of Eq. (1) in the region s\\(<\\)\\(s_{w}\\) is replaced by three variants to study the influence of short range interactions - in addition to the elastic interaction - on the medium range adatom morphology:\n\n- variant 1 as used and described in [4]\n\n\\[U_{1}(s,\\phi)=U_{w}+U_{\\rm wp}\\cos({\\rm p}\\phi)\\frac{s}{s_{w}}\\,\\,{\\rm for}s<s _{w},\\,\\,(2.2)\\]\n\nwhere \\(U_{w}\\) describes the wall height, \\(U_{\\rm wp}\\) the wall anisotropy variance, and \\(s_{w}\\) is the location of the wall maximum,\n\n- variant 2, describing additional attraction between next neighbors\\[U_{2}(s,\\phi)=0\\ {\\rm for}s<s_{0},\\ (2.3)\\]\n\nwhere \\(s_{0}\\) is defined by \\(U(s_{0}\\),\\(\\phi)\\) = 0, covering the range s\\(\\lesssim\\)1.75, significantly smaller than \\(s_{w}\\),\n\n- variant 3, describing stronger attraction between next neighbors\n\n\\[U_{3}(s,\\phi)=-5\\ k_{B}T\\ {\\rm for}s\\leq s_{3},\\ (2.4)\\]\n\nwhere \\(s_{3}\\) is the next neighbor distance. The value -5 is chosen to get an equidistant series of U values.Considering the provided text discussing the influence of short-range interactions on medium-range adatom morphology, which variant predominantly focuses on anisotropy within the interaction model?",
         "choices": {
             "text": [
-                "A. Variant 1, as it includes a cosine term describing wall anisotropy variance.",
-                "B. Variant 2, as it solely describes additional attraction between next neighbors.",
-                "D. None of the variants consider anisotropy.",
-                "C. Variant 3, as it emphasizes a stronger attraction force between next neighbors with a fixed value."
+                "Variant 1, as it includes a cosine term describing wall anisotropy variance.",
+                "Variant 2, as it solely describes additional attraction between next neighbors.",
+                "None of the variants consider anisotropy.",
+                "Variant 3, as it emphasizes a stronger attraction force between next neighbors with a fixed value."
             ],
             "label": [
                 "A",
@@ -10257,10 +10185,10 @@
         "question": "Fig.3.e shows a sample configuration at coverage \\(\\theta\\)=0.5. Elongated islands have now merged to an interwoven stripe structure. Fig.3.f shows the equivalent pair distribution taken from a configuration average. The pair distribution indicates a characteristic distance of 4 to 5 substrate lattice spacings. \\(g_{\\rm ik}\\) values of 1.0 at \\(s_{<1-10>}\\)=5 to 6 and of 1.2at\\(s_{<1-21>}\\)=3*\\(\\sqrt{3}\\) indicate a weak stripe alignment towards \\(<\\)1-21\\(>\\). We note in Fig.3.e. a similar vacancy stripe structure.\n\nFig.3.g shows a sample configuration at coverage \\(\\theta\\)=0.9. The vacancies are forming aligned dimers, trimers, n-mers like the adatoms in Fig.3.a.\n\nOmitting intermediate results for coverages \\(\\theta>\\)0.5 has a good reason: they show vacancy structures inverse to adatom structures at (1-\\(\\theta\\)). Therefore a vacancy pair distribution\n\n\\[g_{\\rm ik}^{\\rm vac}=<\\left(1-\\tau_{i}\\right)\\left(1-\\tau_{k}\\right)>\\left/(1- \\rho\\right)^{2}\\ \\,\\]Based on the provided text, what is the relationship between the coverage \\\\(\\\\theta\\\\)=0.5 and the observed structural changes in the configuration?",
         "choices": {
             "text": [
-                "D: The coverage \\\\(\\\\theta\\\\)=0.5 causes the formation of only dimers and trimers similar to those structures found at \\\\(\\\\theta\\\\)=0.9.",
-                "C: The coverage \\\\(\\\\theta\\\\)=0.5 results in the creation of isolated elongated islands with no indication of merging.",
-                "B: The coverage \\\\(\\\\theta\\\\)=0.5 results in a completely random structure without any alignment.",
-                "A: The coverage \\\\(\\\\theta\\\\)=0.5 leads to the merging of elongated islands into an interwoven stripe structure, as indicated by the various distances in the pair distribution."
+                "The coverage \\\\(\\\\theta\\\\)=0.5 causes the formation of only dimers and trimers similar to those structures found at \\\\(\\\\theta\\\\)=0.9.",
+                "The coverage \\\\(\\\\theta\\\\)=0.5 results in the creation of isolated elongated islands with no indication of merging.",
+                "The coverage \\\\(\\\\theta\\\\)=0.5 results in a completely random structure without any alignment.",
+                "The coverage \\\\(\\\\theta\\\\)=0.5 leads to the merging of elongated islands into an interwoven stripe structure, as indicated by the various distances in the pair distribution."
             ],
             "label": [
                 "A",
@@ -10634,10 +10562,10 @@
         "question": "Our present _ab initio_ study of EuTiO\\({}_{3}\\) was motivated by a series of experimental papers,[23; 24] in which infrared (IR) reflectivity and time-domain terahertz transmission spectra of EuTiO\\({}_{3}\\) ceramics yielded intriguing results that can be better understood if the crystalline symmetry is lower then \\(Pm\\overline{3}m\\). The studies[23; 24] found three polar optical phonons between \\(6-600\\) K, typical for the perovskite structure. Analysis of the oscillator strengths (or equivalently, the mode-plasma frequencies) and comparison of their values with those of known perovskite prototypes such as PbTiO\\({}_{3}\\) (with ferroelectrically active A- and B-site cations) and BaTiO\\({}_{3}\\) (with active B-site cations) suggested that (i) The lowest-energy transresprespotical (TO) phonon TO1 corresponds predominantly to the Slater mode,[25] with opposite vibration of the Ti cations and the oxygen octahedra (Fig. 1 left); softening of this mode dominates the quantum paraelectric behavior, (ii) The second lowest-energy TO2 phonon consists of vibrations of the Eu cation against the TiO\\({}_{6}\\) octahedra, commonly known as the Last mode, (Fig. 1 center), and (iii) The highest frequency TO4 (the TO3 mode is not IR active) phonon represents oxygen octahedral bending, usually called an Axe mode (Fig. 1 right).The present _ab initio_ study of EuTiO\\({}_{3}\\) was motivated by results obtained from infrared (IR) reflectivity and time-domain terahertz transmission spectra of EuTiO\\({}_{3}\\\\) ceramics that suggested a lower crystalline symmetry than \\(Pm\\overline{3}m\\. Based on these experimental findings and comparisons with other perovskite prototypes such as PbTiO\\\\({}_{3}\\\\) and BaTiO\\\\({}_{3}\\\\, which of the following phonon behavior causes the quantum paraelectric behavior in EuTiO\\({}_{3}\\\\)?",
         "choices": {
             "text": [
-                "D. The behavior of cation displacements in the PbTiO\\\\({}_{3}\\\\) perovskite structure specifically due to its ferroelectrically active A- and B-site cations.",
-                "C. Oxygen octahedral bending, usually referred to as an Axe mode, corresponding to the highest frequency TO4 phonon.",
-                "A. Softening of the lowest-energy transresprespotical (TO) phonon, TO1, corresponding predominantly to the Slater mode, with opposite vibration of the Ti cations and the oxygen octahedra.",
-                "B. Vibrations of the Eu cation against the TiO\\\\({}_{6}\\\\) octahedra, corresponding to the second lowest-energy TO2 phonon."
+                "The behavior of cation displacements in the PbTiO\\\\({}_{3}\\\\) perovskite structure specifically due to its ferroelectrically active A- and B-site cations.",
+                "Oxygen octahedral bending, usually referred to as an Axe mode, corresponding to the highest frequency TO4 phonon.",
+                "Softening of the lowest-energy transresprespotical (TO) phonon, TO1, corresponding predominantly to the Slater mode, with opposite vibration of the Ti cations and the oxygen octahedra.",
+                "Vibrations of the Eu cation against the TiO\\\\({}_{6}\\\\) octahedra, corresponding to the second lowest-energy TO2 phonon."
             ],
             "label": [
                 "A",
@@ -10664,13 +10592,9 @@
         "choices": {
             "text": [
                 "An increase in anharmonic effects at low temperatures.",
-                "B",
                 "Changes in the vibrational mode eigenvectors with temperature.",
                 "A decrease in anharmonic effects at low temperatures.",
-                "A structural phase transition of the Eu\\(\\_{2}\\)Ti\\(\\_{2}\\)O\\(\\_{7}\\) pyrochlore phase.",
-                "C",
-                "D",
-                "A"
+                "A structural phase transition of the Eu\\(\\_{2}\\)Ti\\(\\_{2}\\)O\\(\\_{7}\\) pyrochlore phase."
             ],
             "label": [
                 "A",
@@ -11247,10 +11171,10 @@
         "question": "For completeness, we also list in Tables 2 and 3 our calculated frequencies and mode plasma frequencies of the TO2- and TO4-like modes. There are no striking differences that provide persuasive evidence for one structure over another. In the \\(I4/mcm\\) structure, the splitting of the TO2 mode, which is caused by the symmetry lowering, is small (see modes 3 and 4 in Table 2). However the mode-plasma frequencies of the symmetry-split TO2 modes are significantly different: Mode 3 consists mainly of out-of-phase shifts of Eu and Ti atoms, without oxygen contribution, whereas the \\(c\\)-axis-polarized mode 4 has non-zero oxygen displacements which reduce the relative shifts of the Ti atoms, resulting in a lower dipole for this mode. The average value of the mode-plasma frequencies for these three modes is 703 cm\\({}^{-1}\\), which is significantly lower than the corresponding value in the \\(Pm\\bar{3}m\\) structure (925 cm\\({}^{-1}\\)) but still much higher than experimental one (400 cm\\({}^{-1}\\)). The average value of the mode-plasma frequency for the TO4 mode (modes 8 and 9) is 727 cm\\({}^{-1}\\), compared with 820 cm\\({}^{-1}\\) for the reference \\(Pm\\bar{3}m\\) structure. In the \\(R\\bar{3}c\\) phase the TO2 mode also splits by a small amount (7 cm\\({}^{-1}\\)) with average mode-plasma-frequency of 704 cm\\({}^{-1}\\), and the TO4 mode averaged mode-plasma frequency is 734 cm\\({}^{-1}\\); both values are similar to those of the \\(I4/mcm\\) structure. Like in the \\(I4/mcm\\) structure, mode 1 is built by Eu displacements against oxygen cage, with small in-phase contribution of Ti sublattice. The eigenvectors are also similar to those of the \\(Pm\\bar{3}m\\) and \\(I4/mcm\\) structures. In the \\(Imma\\) structure (see Table 3), the wavenumbers of the TO2-group are in the range 154-159 cm\\({}^{-1}\\), and those of the TO4-group are in the range 516-537 cm\\({}^{-1}\\). As in the \\(R\\bar{3}c\\) structure, modes in the range 237-283 cm\\({}^{-1}\\) are activated and should be observed as a doublet with a splitting of 50 cm\\({}^{-1}\\).Based on the given text, what is the primary cause for the difference in mode-plasma frequencies between the TO2 modes in the I4/mcm structure?",
         "choices": {
             "text": [
-                "D: The lower average mode-plasma frequency compared to the Pm¯3m structure.",
-                "B: The presence of doublet modes in the range 237-283 cm⁻¹ with a splitting of 50 cm⁻¹.",
-                "C: The small in-phase contribution of the Ti sublattice without significant oxygen displacement.",
-                "A: The contribution of oxygen displacements that reduce the relative shifts of Ti atoms."
+                "The lower average mode-plasma frequency compared to the Pm¯3m structure.",
+                "The presence of doublet modes in the range 237-283 cm⁻¹ with a splitting of 50 cm⁻¹.",
+                "The small in-phase contribution of the Ti sublattice without significant oxygen displacement.",
+                "The contribution of oxygen displacements that reduce the relative shifts of Ti atoms."
             ],
             "label": [
                 "A",
@@ -11305,10 +11229,10 @@
         "question": "\\begin{tabular}{c c c c c}  & \\multicolumn{4}{c}{\\(I4/mcm\\)} \\\\  & Wyckoff & \\(x\\) & \\(y\\) & \\(z\\) \\\\ \\hline Eu & \\(2(b)\\) & 0 & 0.5 & 0.25 \\\\ Ti & \\(2(c)\\) & 0 & 0 & 0 \\\\ O(1) & \\(2(a)\\) & 0 & 0 & 0.25 \\\\ O(2) & \\(4(h)\\) & 0.21578 & 0.71578 & 0 \\\\ \\multicolumn{4}{c}{Cell parameters} \\\\  & \\(a\\) (Å) & 5.494 & & \\\\  & \\(c\\) (Å) & 7.861 & & \\\\  & Wyckoff & \\(x\\) & \\(y\\) & \\(z\\) \\\\ \\hline Eu & \\(4(e)\\) & 0 & 0.25 & 0.00221 \\\\ Ti & \\(4(b)\\) & 0 & 0 & 0.5 \\\\ O(1) & \\(4(e)\\) & 0 & 0.25 & 0.54663 \\\\ O(2) & \\(8(g)\\) & 0.25 & 0.02415 & 0.25 \\\\ \\multicolumn{4}{c}{Cell parameters} \\\\  & \\(a\\) (Å) & 5.509 & & \\\\  & \\(b\\) (Å) & 7.774 & & \\\\  & \\(c\\) (Å) & 5.541 & & \\\\  & Wyckoff & \\(x\\) & \\(y\\) & \\(z\\) \\\\ \\hline Eu & \\(2(a)\\) & 0 & 0 & 0.25 \\\\ Ti & \\(2(b)\\) & 0 & 0 & 0 \\\\ O & \\(6(e)\\) & 0.53813 & 0 & 0.25 \\\\ \\multicolumn{4}{c}{Cell parameters} \\\\  & \\(a\\) (Å) & 5.528 & & \\\\  & \\(c\\) (Å) & 13.448 & & \\\\ \\end{tabular}\n\\end{table}Based on the data provided in the table for the different structural phases, which factor is most likely to influence the change in cell parameters observed?",
         "choices": {
             "text": [
-                "B. The absence of y-coordinate for Ti in all phases.",
-                "A. The consistent coordinate values for Eu across phases.",
-                "D. The static nature of c-axis length between different phases.",
-                "C. The variation in the Wyckoff positions of Ti and O atoms across different phases."
+                "The absence of y-coordinate for Ti in all phases.",
+                "The consistent coordinate values for Eu across phases.",
+                "The static nature of c-axis length between different phases.",
+                "The variation in the Wyckoff positions of Ti and O atoms across different phases."
             ],
             "label": [
                 "A",
@@ -11392,10 +11316,10 @@
         "question": "To make the comparison with the available experimental data easier, we show in Fig. 6 the calculated and experimental mode-plasma frequencies as a function of wavenumber. Clearly the calculated values for the \\(Pm\\bar{3}m\\) structure are strikingly different from the experimental values providing further evidence that this is unlikely to be the ground state structure. It remains difficult to distinguish between the \\(I4/mcm\\), \\(R\\bar{3}c\\) and \\(Imma\\) structures which all show similarly good agreement with current experimental data. Our predicted differences in the degeneracies and ordering of the components of the TO1 and TO2 modes, could in principle be distinguished experimentally using polarized optical spectroscopy on single crystals.\n\n### Magneto-structural couplingBased on the text, what is a significant reason the Pm\\(\\bar{3}\\)m structure is unlikely the ground state structure?",
         "choices": {
             "text": [
-                "B. The degeneracies and ordering of the components of the TO1 and TO2 modes in the Pm\\(\\bar{3}\\)m structure can't be distinguished experimentally.",
-                "A. The calculated mode-plasma frequencies for the Pm\\(\\bar{3}\\)m structure significantly differ from the experimental values.",
-                "D. The use of polarized optical spectroscopy on single crystals failed to provide any useful data for the Pm\\(\\bar{3}\\)m structure.",
-                "C. The Pm\\(\\bar{3}\\)m structure shows good agreement with current experimental data alongside I4/mcm, R\\(\\bar{3}\\)c, and Imma structures."
+                "The degeneracies and ordering of the components of the TO1 and TO2 modes in the Pm\\(\\bar{3}\\)m structure can't be distinguished experimentally.",
+                "The calculated mode-plasma frequencies for the Pm\\(\\bar{3}\\)m structure significantly differ from the experimental values.",
+                "The use of polarized optical spectroscopy on single crystals failed to provide any useful data for the Pm\\(\\bar{3}\\)m structure.",
+                "The Pm\\(\\bar{3}\\)m structure shows good agreement with current experimental data alongside I4/mcm, R\\(\\bar{3}\\)c, and Imma structures."
             ],
             "label": [
                 "A",
@@ -11537,10 +11461,10 @@
         "question": "Silicene, being synthesized [10; 11; 12] only recently, is gifted with enormously rich physics [13; 14; 15; 16; 17; 18]. Silicene consists of a honeycomb lattice of silicon atoms with buckled sublattices made of A sites and B sites. The states near the Fermi energy are \\(\\pi\\) orbitals residing near the K and K' points at opposite corners of the hexagonal Brillouin zone. The low-energy dynamics in the K and K' valleys is described by the Dirac theory as in graphene. However, Dirac electrons are massive due to a relatively large spin-orbit (SO) coupling \\(\\lambda_{\\rm SO}=3.3\\)meV in silicene. It is remarkable that the mass can be controlled [14; 15] by applying the electric field \\(E_{z}\\) perpendicular to the silicene sheet.Given the unique properties of silicene described in the text, what is the primary factor that contributes to the controllability of Dirac electron mass in silicene?",
         "choices": {
             "text": [
-                "D. The hexagonal Brillouin zone structure in silicene.",
-                "C. The presence of \\\\(\\pi\\\\) orbitals residing near the K and K' points.",
-                "A. The application of an electric field perpendicular to the silicene sheet.",
-                "B. The buckled sublattices made of A sites and B sites in the honeycomb lattice."
+                "The hexagonal Brillouin zone structure in silicene.",
+                "The presence of \\\\(\\pi\\\\) orbitals residing near the K and K' points.",
+                "The application of an electric field perpendicular to the silicene sheet.",
+                "The buckled sublattices made of A sites and B sites in the honeycomb lattice."
             ],
             "label": [
                 "A",

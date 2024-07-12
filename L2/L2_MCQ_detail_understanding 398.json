@@ -3976,35 +3976,6 @@
         "prompt": {
             "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
-        "question": "orbitals are used to improve the localized atomic orbital description at the vacancy sites. Labels \\(N\\) and \\(B\\) will be used to denote the edge at which the defect is placed, where \\(N\\) designates the interface with \\(C-N\\) bonds, whereas \\(B\\) is the edge with \\(C-B\\) bonds. Accordingly defects are classified into _set N_ (C\\({}_{\\rm N}\\), B\\({}_{\\rm C}\\), V\\({}_{\\rm N}^{N}\\), V\\({}_{\\rm B}^{N}\\), or V\\({}_{\\rm C}^{N}\\)), and _set B_ (C\\({}_{\\rm B}\\), N\\({}_{\\rm C}\\), V\\({}_{\\rm N}^{B}\\), V\\({}_{\\rm B}^{B}\\), or V\\({}_{\\rm C}^{B}\\)).In the context of material defects and their classification based on the interface type in a crystalline structure, which label denotes the edge with C-B bonds?",
-        "choices": {
-            "text": [
-                "C",
-                "V",
-                "N",
-                "B"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "D",
-        "type": "mcq-4-choices",
-        "domain": "Material",
-        "details": {
-            "level": "L2",
-            "task": "detail understanding",
-            "subtask": "",
-            "source": "Literature Corpus"
-        }
-    },
-    {
-        "prompt": {
-            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
-        },
         "question": "The formation energies for the interfacial (neutral) defects in (5,5) C-BN nanotube are shown in Fig.2 and compared to the energetics of the same defects in a pristine pure-CNT and pure-BNNT of the same chirality. The energies of pure C and BN nanotubes are in agreement with values published in the literature [26; 27; 28], considering that the formation energy depends on the chirality, and increases with tube's diameter [26; 29]. The cost of removing atoms (vacancy formation) is generally larger than the energy of atom substitution (disorder), which is indicative of the high stability of the honeycomb structure. First principles calculations have shown that vacancy formation is energetically more favorable near the edge of zigzag BNNRs than in the center of the ribbon [30]. A similar effect is observed now, with defects at the edge being at least 1 eV less energetic. Interestingly, recent experiments have shown that carbon substitution (doping) in BN nanostructures is favored at the edges. [9]What is the primary factor influencing the formation energy of interfacial defects in nanotubes?",
         "choices": {
             "text": [
@@ -6415,7 +6386,6 @@
         "question": "In Figs. 3 (a) and 3 (b), we show the momentum resolved spectral functions calculated from Eq. (4) and Eq. (8). The analytical continuation of the self-energy \\(\\Sigma(\\mathbf{K},i\\omega_{n})\\) is performed by the maximum entropy approach with subtraction of the Hartree-Fock term [55]. In view of the ill-posed problem of the analytical continuation of the self-energy [56], we also compared the DOS obtained from integration of the spectral functions with those in Fig. 2 (a) and found a reasonable agreement. We also compare LDA+DMFT to LDA+DCA results. One can observe some redistribution of momentum resolved spectral weight between the LDA+DMFT and LDA+DCA results. In Figs. 3 (c) and 3 (d) we plot the LDA+DMFT and LDA+DCA spectral functions respectively, in the region between \\(k_{y}=-0.6\\frac{\\pi}{a}\\) and \\(0.4\\frac{\\pi}{a}\\) at \\(k_{x}=0.0\\) and \\(k_{z}=0.32\\frac{\\pi}{a}\\) (\\(a\\) is the lattice constant) in order to directly compare our calculations to the ARPES results (Fig. 1 (a) of Ref. [53]). In agreement with ARPES experiments, both LDA+DMFT and LDA+DCA show dispersive features around -0.7 though they are more pronounced in the LDA+DCA calculations. Also, the LDA+DCA calculations reproduce the small peak observed around -0.2eV. These results account for the renormalization of the bands due to electronic correlations.Which computational approach is noted for more prominently highlighting dispersive features and reproducing small peaks observed in ARPES experiments, suggesting its effectiveness in demonstrating the renormalization due to electronic correlations?",
         "choices": {
             "text": [
-                "C",
                 "LDA+DMFT",
                 "Hartree-Fock method",
                 "Maximum entropy method",
@@ -7229,7 +7199,6 @@
         "choices": {
             "text": [
                 "The contributions from Friedel oscillations are precisely equal, leading to charge density and spin polarization oscillations remaining.",
-                "B",
                 "Both charge density and spin polarization oscillations vanish.",
                 "Only spin polarization oscillations contribute to the exchange interactions.",
                 "Charge density oscillations vanish while spin polarization oscillations remain."
@@ -9633,32 +9602,6 @@
         "prompt": {
             "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
-        "question": "At first glance, Ba\\({}_{3}\\)Cu\\({}_{3}\\)In\\({}_{4}\\)O\\({}_{12}\\) hardly seems anything but a three-dimensional easy-axis antiferromagnet. The predominance of ferromagnetic coupling at elevated temperatures in the paramagnetic state is in accordance with the assumption of the leading role of a \\(\\sim\\) 90\\({}^{\\circ}\\) bond Cu\\({}^{1}\\)-O-Cu\\({}^{\\rm II}\\) nearest-neighbor superexchange interaction J \\(<\\) 0 (cf. Fig. 1). However, strong deviation from the \"ferromagnetic\" Curie-Weiss law seen in this compound at low temperatures can be expected taking into account well-established frustrating influence of the next-nearest-neighbor superexchange interaction J\\({}_{1}\\)\\({}^{\\prime\\prime}\\)\\(>\\) 0 through Cu\\({}^{\\rm II}\\)-O-O-Cu\\({}^{\\rm II}\\) bonds[20]. Depending on the frustration ratio \\(\\alpha\\) = J\\({}_{1}\\)\\({}^{\\prime\\prime}\\)/J, the combined action of (J, J\\({}_{1}\\)\\({}^{\\prime\\prime}\\)) interactions may result in the formation of either helix structures with various pitch angles at \\(\\alpha\\)\\(\\geq\\) 0.25 or ferromagnetic chains at \\(\\alpha\\)\\(\\leq\\) 0.25[21]. Moreover, the ferromagnetic chain arrangement may also survive at \\(\\alpha\\)\\(\\geq\\) 0.25 if it is stabilized by interchain interactions J\\({}_{2}\\)\\({}^{\\prime\\prime}\\)[22].In the study of antiferromagnetic materials, what can lead to the formation of helical magnetic structures with various pitch angles?",
-        "choices": {
-            "text": [
-                "A relatively high frustration ratio \\\\(\\\\alpha\\\\)$ = J_{1}\\"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "A",
-        "type": "mcq-4-choices",
-        "domain": "Material",
-        "details": {
-            "level": "L2",
-            "task": "detail understanding",
-            "subtask": "",
-            "source": "Literature Corpus"
-        }
-    },
-    {
-        "prompt": {
-            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
-        },
         "question": "However, the apparent triumph of the mean field theory for the case of antiferromagnetically coupled ferromagnetic chains is quite doubtful, if to compare Ba\\({}_{3}\\)Cu\\({}_{3}\\)In\\({}_{4}\\)O\\({}_{12}\\) with any other quasi-one-dimensional compound and consider the minute details of the available data. Taking as representative the helix chain compound LiCuVO\\({}_{4}\\)[25] and the ferromagnetic chain compound Li\\({}_{2}\\)CuO[22] one may notice the striking disparity with Ba\\({}_{3}\\)Cu\\({}_{3}\\)In\\({}_{4}\\)O\\({}_{12}\\) regarding interrelations of the magnetic ordering temperature T\\({}_{\\rm N}\\), the saturation field B\\({}_{\\rm S}\\) and the exchange interaction parameters J\\({}_{\\rm i}\\), as given in Table 1. Evidently, the magnetic field B\\({}_{\\rm S}\\) necessary to saturate the magnetization in both helix and ferromagnetic chain compounds is by an order of magnitude larger than in paper-chain compound despite the relatively high magnetic ordering temperature T\\({}_{\\rm N}\\) in the latter.In the context of magnetic ordering and exchange interaction parameters in quasi-one-dimensional compounds, what notable difference is observed between Ba\textsubscript{3}Cu\textsubscript{3}In\textsubscript{4}O\textsubscript{12} and other types of quasi-one-dimensional compounds such as helix chain and ferromagnetic chain compounds?",
         "choices": {
             "text": [
@@ -10069,7 +10012,6 @@
         "choices": {
             "text": [
                 "It indicates that the vector potential strongly influences the first-order contribution.",
-                "A",
                 "It suggests that higher-order interactions are necessary to induce spin relaxation torque.",
                 "It signifies that spin relaxation torque is independent of Rashba spin-orbit coupling.",
                 "It implies that spin relaxation torque can only occur through magnetic fields."
@@ -10390,7 +10332,6 @@
             "text": [
                 "It allows the induced torque to have components along both the x and y directions.",
                 "It ensures the Rashba spin-orbit field (RSOF) forms a scalar potential gradient.",
-                "C",
                 "It facilitates the necessary configuration for a finite spin relaxation torque to arise.",
                 "It generates a spin current polarized in the y direction."
             ],
@@ -10766,14 +10707,10 @@
         "question": "Nuclear magnetic resonance (NMR) is widely used for detecting magnetic fluctuations, crystal environment etc. at a local level in bulk materials. NMR is also used to study nano materials [15; 16; 17; 18]. Tang _et al._[16] have measured \\({}^{67}\\)Zn NMR in ZnS nanoparticles. They reported no detectable NMR signal due to quantum size effects when the average particle size was below 4 nm and signal was observed when average particle size was more than 8 nm. Monredon _et al._[18] performed \\({}^{119}\\)Sn MAS NMR on nanoparticles of SnO\\({}_{2}\\) of different sizes to show that the spectral shape change with the average size of the nanoparticles. Sabarinathan _et al._[15] also performed \\({}^{119}\\)Sn MAS NMR on SnO\\({}_{2}\\) nanoparticles to measure spectra as well as spin-spin and spin-lattice relaxations for two samples of different particle size. Their study shows that smaller the size of the particles, faster is the relaxation. They concluded that inhomogenious broadening of the spectra is due to the surface defects of the nanocrystalline samples. However, the spin-lattice relaxation analysis by them is not reliable due to the lack of optimal measurement parameters [19]. According to our knowledge, no detailed NMR measurement on ferromagnetic metal oxide nanoparticles is reported so far.Which aspect of nano particle behavior, as related to NMR measurements, is critical when considering the influence of particle size and surface defects?",
         "choices": {
             "text": [
-                "D",
-                "B",
                 "Electron paramagnetic resonance",
                 "Hydrodynamic radius",
                 "Quantum size effects",
-                "Magnetic susceptibility",
-                "A",
-                "C"
+                "Magnetic susceptibility"
             ],
             "label": [
                 "A",
@@ -11556,7 +11493,6 @@
                 "Particle density and spin orbit coupling",
                 "Dispersions and Berry curvatures",
                 "Electric field strength and frequency",
-                "C",
                 "Temperature and magnetic flux"
             ],
             "label": [

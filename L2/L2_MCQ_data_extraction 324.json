@@ -7659,35 +7659,6 @@
         "prompt": {
             "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
-        "question": "product name:AK Steel DI-MAX® M-27 Nonoriented Electrical Steel;material note:Nonoriented electrical steels are silicon steels in which magnetic properties are practically the same in any direction of magnetism in the plane of the material. Standard\ngrades from M-15 to M-47 are available with the advantages of special DI-MAX® processing that enhance the magnetic properties.  DI-MAX grades have superior permeability at high inductions, low average core loss and good gauge uniformity. In addition, cold finishing plus strip annealing produce a smooth surface and reduce buckles and waves, resulting in excellent flatness and a high stacking factor.  AK Steel Nonoriented Electrical Steels are available both Fully Processed and Semi-Processed, depending on grade. Properties of Fully Processed material are developed completely by AK Steel. These materials are ready for use without any additional processing required. However, a low-temperature heat treatment may be employed by the user to eliminate stresses introduced by fabrication of the material into cores. AK Steel Fully Processed Nonoriented Electrical Steels meet all the requirements of ASTM Specification A 677.  Semi-Processed steels are finished to final thickness and physical form by AK Steel, but are not fully annealed to develop final magnetic quality. With these materials, achievement of magnetic properties becomes the responsibility of the user. AK Steel Semi-Processed Nonoriented Electrical Steels meet all requirements of ASTM A 683. DI-MAX M-27 is Fully Processed.Applications for M-27: Small Motors and Generators (>100 HP), Ballasts and Ignition Coils, Large Transformers (>10 KVA), Small Transformers (<10 KVA) Information provided by AK Steel;key words:ASTM A677;physical property:;mechinical property:;electrical property:;component property:;Which of the following best describes the main benefits of the DI-MAX® processing in AK Steel DI-MAX® M-27 Nonoriented Electrical Steel?",
-        "choices": {
-            "text": [
-                "Superior permeability at high inductions, low average core loss, and good gauge uniformity",
-                "Reduced electromagnetic interference, enhanced flexibility, and decreased production time",
-                "High temperature tolerance, increased thermal efficiency, and reduced cost",
-                "Enhanced mechanical strength, corrosion resistance, and improved conductivity"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "A",
-        "type": "mcq-4-choices",
-        "domain": "Material",
-        "details": {
-            "level": "L2",
-            "task": "mcq_data_extraction",
-            "subtask": "",
-            "source": "Literature Corpus"
-        }
-    },
-    {
-        "prompt": {
-            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
-        },
         "question": "product name:AK Steel TRAN-COR® H-1 CARLITE® Grain Oriented Electrical Steel (Extended Electro-Magnetic Data);material note:TRAN-COR H CARLITE® high permeability electrical steels offer an outstanding degree of grain orientation, This combination of higher permeability with low residual stress offers the potential for lower core losses and less noisy transformer core structures, particularly at higher operating inductions, when compared to conventional grain oriented electrical steels. The core loss characteristics are further enhanced in the TRAN-COR H CARLITE DR® (Domain Refined) products where laser scribing is employed. In this process, a precisely focused laser beam is rapidly scanned across the steel surface. The micro-strain imparted into the material forces the pre-existing magnetic domains to subdivide. The finer domain structure reduces the distance that the domain walls must move during AC magnetization, thereby reducing eddy current losses. The result is far lower core loss than possible with conventional grain oriented electrical steels of comparable thickness. TRAN-COR H CARLITE products are suitable for all types of transformers while TRAN-COR H DR products are suitable for those types of transformers where a stress relief annealing treatment of the magnetic core is not used. Stress relief annealing will result in the eradication of the effect provided by the laser treatment and will result in a significant increase in core loss.Information provided by AK Steel.;key words:;physical property:Density 7.65 g/cc0.276 lb/in³,Thickness 240 - 280 microns9.45 - 11.0 mil, 270 microns10.6 milNominal,;mechinical property:Knoop Microhardness 173173,Hardness, Rockwell B 8383,Tensile Strength, Ultimate 359 MPa52100 psiIn rolling direction,Tensile Strength, Yield 345 MPa50000 psiIn rolling direction,Elongation at Break 11 %11 %In 2\", rolling direction,Modulus of Elasticity 113.8 GPa16510 ksiIn rolling direction, 138 GPa20000 ksiAt 20° to rolling direction, 203 GPa29400 ksiAt 90° to rolling direction, 241 GPa35000 ksiAt 45° to rolling direction, 276 GPa40000 ksiAt 55° to rolling direction,;electrical property:;component property:;Given the provided data, what is the ultimate tensile strength of AK Steel TRAN-COR® H-1 CARLITE® Grain Oriented Electrical Steel in the rolling direction?",
         "choices": {
             "text": [
