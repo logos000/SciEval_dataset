@@ -1,7 +1,7 @@
 [
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -30,7 +30,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -59,7 +59,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -88,7 +88,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -117,7 +117,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -146,7 +146,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -175,7 +175,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -204,7 +204,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -233,7 +233,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -262,7 +262,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -291,7 +291,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -320,7 +320,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -349,7 +349,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -378,7 +378,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -407,7 +407,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -435,7 +435,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -464,7 +464,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -493,7 +493,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -522,7 +522,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -551,7 +551,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -580,7 +580,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -609,7 +609,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -638,7 +638,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -667,7 +667,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -696,7 +696,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -725,7 +725,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -754,7 +754,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -783,7 +783,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -812,7 +812,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -841,7 +841,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -870,7 +870,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -899,7 +899,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -928,7 +928,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -957,7 +957,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -986,7 +986,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1015,7 +1015,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1044,7 +1044,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1073,7 +1073,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1102,7 +1102,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1131,7 +1131,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1160,7 +1160,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1189,7 +1189,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1218,7 +1218,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1247,7 +1247,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1276,7 +1276,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1305,7 +1305,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1334,7 +1334,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1363,7 +1363,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1392,7 +1392,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1421,7 +1421,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1450,7 +1450,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1479,7 +1479,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1508,7 +1508,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1537,7 +1537,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1566,7 +1566,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1595,7 +1595,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1624,7 +1624,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1653,7 +1653,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1682,7 +1682,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1711,7 +1711,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1740,7 +1740,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1769,7 +1769,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1798,7 +1798,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1827,7 +1827,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1856,7 +1856,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1885,7 +1885,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1914,7 +1914,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -1943,7 +1943,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -1972,7 +1972,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2001,7 +2001,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2030,7 +2030,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2059,7 +2059,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2088,7 +2088,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2117,7 +2117,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2146,7 +2146,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2175,7 +2175,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2204,7 +2204,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2233,7 +2233,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2262,7 +2262,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2291,7 +2291,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2320,7 +2320,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2349,7 +2349,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2378,7 +2378,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2407,7 +2407,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2436,7 +2436,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2465,7 +2465,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2494,7 +2494,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2523,7 +2523,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2552,7 +2552,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2581,7 +2581,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2610,7 +2610,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2639,7 +2639,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2668,7 +2668,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2697,7 +2697,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2726,7 +2726,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2755,7 +2755,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2784,7 +2784,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2813,7 +2813,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that does not associated with Developmental Toxicity.",
         "choices": {
@@ -2842,7 +2842,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
@@ -2871,7 +2871,7 @@
     },
     {
         "prompt": {
-            "default": "You are a toxicologist. Below are the names of four molecules. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+            "default": "You are a material expert. Below are the names of four materials. Please make your selection based on the question provided. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
         },
         "question": "Please determine whether the following compounds associated with Developmental Toxicity and select one that associated with Developmental Toxicity.",
         "choices": {
